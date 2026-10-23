@@ -1,0 +1,3 @@
+"CFBundleDisplayName" = "順匣";
+"NSPhotoLibraryAddUsageDescription" = "処理した画像を写真ライブラリに保存します。";
+"NSMicrophoneUsageDescription" = "マイクテストを開始した場合のみ録音し、端末内で再生します。";

@@ -1,0 +1,3 @@
+"CFBundleDisplayName" = "ShunBox";
+"NSPhotoLibraryAddUsageDescription" = "Save processed images to your photo library.";
+"NSMicrophoneUsageDescription" = "Record only when you start the microphone test, for local playback.";

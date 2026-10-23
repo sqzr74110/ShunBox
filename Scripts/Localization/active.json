@@ -1,0 +1,1912 @@
+[
+  [
+    "-剪辑.",
+    "-trimmed.",
+    "-編集."
+  ],
+  [
+    "-处理.",
+    "-processed.",
+    "-処理済み."
+  ],
+  [
+    "0.1 秒 · 提示音",
+    "0.1 s · Alert",
+    "0.1秒 · 通知音"
+  ],
+  [
+    "0.5 秒",
+    "0.5 s",
+    "0.5秒"
+  ],
+  [
+    "1 秒",
+    "1 s",
+    "1秒"
+  ],
+  [
+    "2 秒",
+    "2 s",
+    "2秒"
+  ],
+  [
+    "Apple 官方：使用 GarageBand 制作铃声",
+    "Apple: Make a ringtone in GarageBand",
+    "Apple公式：GarageBandで着信音を作成"
+  ],
+  [
+    "Apple 官方：零件与维修历史",
+    "Apple: Parts and service history",
+    "Apple公式：部品と修理の履歴"
+  ],
+  [
+    "BMP · 兼容位图",
+    "BMP · Bitmap",
+    "BMP · ビットマップ"
+  ],
+  [
+    "GIF · 静态单帧",
+    "GIF · Single frame",
+    "GIF · 静止画"
+  ],
+  [
+    "HEIC · 节省空间",
+    "HEIC · Space saving",
+    "HEIC · 省容量"
+  ],
+  [
+    "JPG · 通用分享",
+    "JPG · Easy sharing",
+    "JPG · 共有向け"
+  ],
+  [
+    "M4A · 推荐铃声 / 分享",
+    "M4A · Ringtones and sharing",
+    "M4A · 着信音・共有におすすめ"
+  ],
+  [
+    "M4R · 铃声兼容格式",
+    "M4R · Ringtone format",
+    "M4R · 着信音形式"
+  ],
+  [
+    "PDF · 多图合集",
+    "PDF · Photo collection",
+    "PDF · 写真をまとめる"
+  ],
+  [
+    "PDF 写入失败，请检查可用存储空间。",
+    "Could not write the PDF. Check available storage.",
+    "PDFを書き込めません。空き容量を確認してください。"
+  ],
+  [
+    "PDF 整理",
+    "PDF Organizer",
+    "PDF整理"
+  ],
+  [
+    "PDF：多张图片合成 A4 文档",
+    "PDF: Combine images into an A4 document",
+    "PDF：複数の画像をA4文書にまとめます"
+  ],
+  [
+    "PNG · 透明图片",
+    "PNG · Transparency",
+    "PNG · 透明画像"
+  ],
+  [
+    "TIFF · 图像交换",
+    "TIFF · Image interchange",
+    "TIFF · 画像交換"
+  ],
+  [
+    "UTF-8 字节数",
+    "UTF-8 bytes",
+    "UTF-8バイト数"
+  ],
+  [
+    "iCloud 与文件同步",
+    "iCloud & File Sync",
+    "iCloudとファイル同期"
+  ],
+  [
+    "{0} 像素",
+    "{0} pixels",
+    "{0}ピクセル"
+  ],
+  [
+    "{0} 秒",
+    "{0} s",
+    "{0}秒"
+  ],
+  [
+    "{0} 秒 · {1} · {2}",
+    "{0} s · {1} · {2}",
+    "{0}秒 · {1} · {2}"
+  ],
+  [
+    "{0}-剪辑.m4a",
+    "{0}-trimmed.m4a",
+    "{0}-編集.m4a"
+  ],
+  [
+    "一键添加相机水印",
+    "Add camera watermark",
+    "カメラ情報を追加"
+  ],
+  [
+    "上传 ≤ 1 MB",
+    "Upload ≤ 1 MB",
+    "アップロード用 ≤ 1 MB"
+  ],
+  [
+    "上移文件",
+    "Move file up",
+    "ファイルを上へ"
+  ],
+  [
+    "下一种颜色",
+    "Next color",
+    "次の色"
+  ],
+  [
+    "不可用",
+    "Unavailable",
+    "利用不可"
+  ],
+  [
+    "不限制",
+    "Unlimited",
+    "制限なし"
+  ],
+  [
+    "临时文件已清理。",
+    "Temporary files cleared.",
+    "一時ファイルを削除しました。"
+  ],
+  [
+    "为 iPhone 设计",
+    "Designed for iPhone",
+    "iPhoneのためのデザイン"
+  ],
+  [
+    "为日常而备",
+    "Everyday essentials",
+    "毎日に役立つツール"
+  ],
+  [
+    "了解屏幕、电池与存储",
+    "Display, battery and storage",
+    "画面・バッテリー・ストレージ"
+  ],
+  [
+    "二维码",
+    "QR Code",
+    "QRコード"
+  ],
+  [
+    "二维码.png",
+    "QR-Code.png",
+    "QRコード.png"
+  ],
+  [
+    "二维码内容",
+    "QR code content",
+    "QRコードの内容"
+  ],
+  [
+    "二维码写入失败。",
+    "Could not save the QR code.",
+    "QRコードを保存できません。"
+  ],
+  [
+    "从一张照片、一段声音开始。\\n简单实用，不打扰。",
+    "Start with a photo or a sound.\\nSimple tools, quietly useful.",
+    "写真や音声から始めよう。\\nシンプルで、さりげなく便利。"
+  ],
+  [
+    "从一张照片开始",
+    "Start with a photo",
+    "写真から始める"
+  ],
+  [
+    "从图片文件识别二维码",
+    "Read QR code from image",
+    "画像のQRコードを読み取る"
+  ],
+  [
+    "从文件导入音频 / 视频",
+    "Import audio or video from Files",
+    "ファイルから音声・動画を読み込む"
+  ],
+  [
+    "从文件选择",
+    "Choose from Files",
+    "ファイルから選択"
+  ],
+  [
+    "从照片选择",
+    "Choose from Photos",
+    "写真から選択"
+  ],
+  [
+    "从相册提取视频声音",
+    "Extract audio from Photos video",
+    "写真の動画から音声を抽出"
+  ],
+  [
+    "从相册视频制作铃声",
+    "Make ringtones from your videos",
+    "動画から着信音を作成"
+  ],
+  [
+    "低电量模式",
+    "Low Power Mode",
+    "低電力モード"
+  ],
+  [
+    "你的文件，只属于你",
+    "Your files stay yours",
+    "ファイルはあなたのもの"
+  ],
+  [
+    "你的结果，随身可用",
+    "Your results, wherever you are",
+    "作成したファイルを、いつでも"
+  ],
+  [
+    "使用 Apple 原生框架构建。\\n离线、轻量，专注每一件小事。",
+    "Built with native Apple frameworks.\\nOffline, lightweight and focused.",
+    "Appleのネイティブ技術で構築。\\nオフラインで軽快に、日々の作業を。"
+  ],
+  [
+    "使用偏好",
+    "Preferences",
+    "環境設定"
+  ],
+  [
+    "保存全部到相册",
+    "Save all to Photos",
+    "すべて写真に保存"
+  ],
+  [
+    "保存到同步文件夹",
+    "Save to sync folder",
+    "同期フォルダに保存"
+  ],
+  [
+    "保存到文件",
+    "Save to Files",
+    "ファイルに保存"
+  ],
+  [
+    "修改日期",
+    "Modified",
+    "変更日時"
+  ],
+  [
+    "停止声音",
+    "Stop audio",
+    "再生を停止"
+  ],
+  [
+    "停止录音",
+    "Stop recording",
+    "録音を停止"
+  ],
+  [
+    "像素尺寸",
+    "Pixel dimensions",
+    "ピクセル寸法"
+  ],
+  [
+    "先调低系统音量。播放路径可能是已连接的耳机，请确认声音输出位置。",
+    "Lower the system volume first. Check the audio output; connected headphones may be used.",
+    "先に音量を下げてください。接続したヘッドフォンから再生される場合があるため、出力先を確認してください。"
+  ],
+  [
+    "全屏纯色检查",
+    "Full-screen color test",
+    "全画面カラー確認"
+  ],
+  [
+    "全部工具",
+    "All Tools",
+    "すべてのツール"
+  ],
+  [
+    "关于",
+    "About",
+    "このアプリについて"
+  ],
+  [
+    "关闭",
+    "Close",
+    "閉じる"
+  ],
+  [
+    "关闭闪光灯",
+    "Turn flashlight off",
+    "ライトを消す"
+  ],
+  [
+    "分享结果",
+    "Share result",
+    "結果を共有"
+  ],
+  [
+    "创建重命名副本",
+    "Create renamed copy",
+    "名前を変更したコピーを作成"
+  ],
+  [
+    "制作你的专属声音",
+    "Make it sound like you",
+    "自分だけの音を作る"
+  ],
+  [
+    "制作并导出声音",
+    "Create and export audio",
+    "音声を作成して書き出す"
+  ],
+  [
+    "刷新",
+    "Refresh",
+    "更新"
+  ],
+  [
+    "刷新文件列表",
+    "Refresh file list",
+    "ファイル一覧を更新"
+  ],
+  [
+    "发现异常",
+    "Issue noticed",
+    "異常あり"
+  ],
+  [
+    "取消",
+    "Cancel",
+    "キャンセル"
+  ],
+  [
+    "取消收藏",
+    "Remove favorite",
+    "お気に入りを解除"
+  ],
+  [
+    "只看收藏",
+    "Favorites only",
+    "お気に入りのみ"
+  ],
+  [
+    "合并 PDF",
+    "Merge PDFs",
+    "PDFを結合"
+  ],
+  [
+    "合并多个 PDF，或将指定页面拆分为新文件。",
+    "Merge PDFs or extract pages into a new file.",
+    "PDFを結合したり、指定ページを新しいファイルに抽出できます。"
+  ],
+  [
+    "合并文档.pdf",
+    "Merged.pdf",
+    "結合文書.pdf"
+  ],
+  [
+    "合并文档，提取页面",
+    "Merge documents, extract pages",
+    "文書の結合・ページの抽出"
+  ],
+  [
+    "同步",
+    "Sync",
+    "同期"
+  ],
+  [
+    "同步失败：{0}",
+    "Sync failed: {0}",
+    "同期できません：{0}"
+  ],
+  [
+    "同步文件夹中的文件",
+    "Files in sync folder",
+    "同期フォルダ内のファイル"
+  ],
+  [
+    "同步文件夹授权已失效，请重新选择文件夹。",
+    "Folder access has expired. Select the folder again.",
+    "フォルダへのアクセス権が失効しました。選び直してください。"
+  ],
+  [
+    "回放录音",
+    "Play recording",
+    "録音を再生"
+  ],
+  [
+    "图片",
+    "Images",
+    "画像"
+  ],
+  [
+    "图片导入 · 当前系统解码器",
+    "Image import · System decoders",
+    "画像の読み込み · システムのデコーダ"
+  ],
+  [
+    "图片导出 · 当前设备可用",
+    "Image export · Available on this device",
+    "画像の書き出し · この端末で利用可能"
+  ],
+  [
+    "图片工坊",
+    "Image Studio",
+    "画像工房"
+  ],
+  [
+    "图片编码失败，请尝试其他格式或较小尺寸。",
+    "Image encoding failed. Try another format or a smaller size.",
+    "画像を変換できません。別の形式か小さいサイズをお試しください。"
+  ],
+  [
+    "图片转 PDF",
+    "Images to PDF",
+    "画像をPDFに"
+  ],
+  [
+    "声音与触感",
+    "Sound & Haptics",
+    "サウンドと触覚"
+  ],
+  [
+    "声音名称",
+    "Audio name",
+    "音声の名前"
+  ],
+  [
+    "处理 {0} 张图片",
+    "Process {0} images",
+    "{0}枚の画像を処理"
+  ],
+  [
+    "处理图片",
+    "Process images",
+    "画像を処理"
+  ],
+  [
+    "处理完成",
+    "Done",
+    "処理完了"
+  ],
+  [
+    "处理过的工具会出现在这里。",
+    "Tools you use will appear here.",
+    "使用したツールがここに表示されます。"
+  ],
+  [
+    "复制内容",
+    "Copy content",
+    "内容をコピー"
+  ],
+  [
+    "外观",
+    "Appearance",
+    "外観"
+  ],
+  [
+    "多张照片，一份整洁文档",
+    "Many photos, one neat document",
+    "複数の写真を、ひとつの文書に"
+  ],
+  [
+    "大小",
+    "Size",
+    "サイズ"
+  ],
+  [
+    "好",
+    "OK",
+    "OK"
+  ],
+  [
+    "实用",
+    "Utilities",
+    "ユーティリティ"
+  ],
+  [
+    "导入文件",
+    "Import file",
+    "ファイルを読み込む"
+  ],
+  [
+    "导出",
+    "Export",
+    "書き出す"
+  ],
+  [
+    "导出设置",
+    "Export settings",
+    "書き出し設定"
+  ],
+  [
+    "小图 ≤ 200 KB",
+    "Small ≤ 200 KB",
+    "小さめ ≤ 200 KB"
+  ],
+  [
+    "小工具，大从容。",
+    "Little tools. More ease.",
+    "小さな道具で、日々を軽やかに。"
+  ],
+  [
+    "屏幕",
+    "Display",
+    "画面"
+  ],
+  [
+    "屏幕、触控与声音检查",
+    "Display, touch and audio checks",
+    "画面・タッチ・サウンドを確認"
+  ],
+  [
+    "屏幕与触控",
+    "Display & Touch",
+    "画面とタッチ"
+  ],
+  [
+    "屏幕显示",
+    "Screen display",
+    "画面表示"
+  ],
+  [
+    "工具",
+    "Tools",
+    "ツール"
+  ],
+  [
+    "工具箱",
+    "Toolbox",
+    "ツールボックス"
+  ],
+  [
+    "已保存 {0} 张图片到相册。",
+    "Saved {0} images to Photos.",
+    "{0}枚の画像を写真に保存しました。"
+  ],
+  [
+    "已关闭",
+    "Off",
+    "オフ"
+  ],
+  [
+    "已复制到所选文件夹；云端上传进度由文件提供商管理。",
+    "Copied to the selected folder. Your file provider manages cloud uploads.",
+    "選択したフォルダにコピーしました。クラウドへのアップロードはファイルプロバイダが管理します。"
+  ],
+  [
+    "已开启",
+    "On",
+    "オン"
+  ],
+  [
+    "已收藏",
+    "Favorite",
+    "お気に入り"
+  ],
+  [
+    "已断开连接，文件夹中的文件不会被删除。",
+    "Disconnected. Files in the folder were not deleted.",
+    "接続を解除しました。フォルダ内のファイルは削除されません。"
+  ],
+  [
+    "已覆盖 {0} / 60 格",
+    "Covered {0} / 60 cells",
+    "確認済み {0} / 60 マス"
+  ],
+  [
+    "已读取 {0} 个文件。",
+    "Read {0} files.",
+    "{0}個のファイルを読み込みました。"
+  ],
+  [
+    "已选择 {0} 张 · 首张 {1}",
+    "{0} selected · First image {1}",
+    "{0}枚選択 · 最初の画像 {1}"
+  ],
+  [
+    "开启闪光灯",
+    "Turn flashlight on",
+    "ライトをつける"
+  ],
+  [
+    "开始时间",
+    "Start time",
+    "開始時間"
+  ],
+  [
+    "开始：{0} 秒",
+    "Start: {0} s",
+    "開始：{0}秒"
+  ],
+  [
+    "当前为模拟器，电池与硬件数据不能用于验机。",
+    "Running in a simulator. Battery and hardware readings cannot be used for device inspection.",
+    "シミュレータで実行中です。バッテリーやハードウェア情報は実機の検査には使えません。"
+  ],
+  [
+    "当前位置设为开始",
+    "Set start at playhead",
+    "再生位置を開始点に"
+  ],
+  [
+    "当前文件夹",
+    "Current folder",
+    "現在のフォルダ"
+  ],
+  [
+    "当前电量",
+    "Battery level",
+    "バッテリー残量"
+  ],
+  [
+    "当前系统没有该格式的图片编码器。",
+    "This system has no encoder for this image format.",
+    "この形式の画像エンコーダがありません。"
+  ],
+  [
+    "当前设备不支持该输出格式。",
+    "This device does not support that output format.",
+    "この端末は選択した出力形式に対応していません。"
+  ],
+  [
+    "录制麦克风（5 秒）",
+    "Record microphone (5 s)",
+    "マイクで録音（5秒）"
+  ],
+  [
+    "录音中…",
+    "Recording…",
+    "録音中…"
+  ],
+  [
+    "循环试听片段",
+    "Loop selection",
+    "選択範囲を繰り返す"
+  ],
+  [
+    "快速开始",
+    "Quick Start",
+    "クイックスタート"
+  ],
+  [
+    "我的声音",
+    "My Sound",
+    "マイサウンド"
+  ],
+  [
+    "我的铃声",
+    "My Ringtone",
+    "マイ着信音"
+  ],
+  [
+    "所选图片预览",
+    "Selected image preview",
+    "選択した画像のプレビュー"
+  ],
+  [
+    "手动记录",
+    "Manual observations",
+    "手動で記録"
+  ],
+  [
+    "打开图片工坊",
+    "Open Image Studio",
+    "画像工房を開く"
+  ],
+  [
+    "扬声器",
+    "Speaker",
+    "スピーカー"
+  ],
+  [
+    "把喜欢的声音，设为日常",
+    "Make your favorite sound part of your day",
+    "お気に入りの音を、毎日に"
+  ],
+  [
+    "拖动选段，或一键选择长度",
+    "Drag to trim, or choose a duration",
+    "範囲をドラッグ、または長さを選択"
+  ],
+  [
+    "按步骤观察与试听，再手动记录结果。自检记录不是硬件鉴定报告，不能判断是否原装或拆修。",
+    "Observe and listen, then record your findings. These checks cannot certify original parts or repair history.",
+    "画面や音を確認し、結果を手動で記録してください。純正部品や修理歴を判定する検査ではありません。"
+  ],
+  [
+    "按照列表从上到下合并。点击箭头调整顺序。",
+    "Merged from top to bottom. Use the arrows to reorder.",
+    "上から順に結合します。矢印で順序を変更できます。"
+  ],
+  [
+    "按用途一键设置",
+    "Quick presets",
+    "用途別プリセット"
+  ],
+  [
+    "提取并生成 PDF",
+    "Extract to PDF",
+    "PDFに抽出"
+  ],
+  [
+    "提取页面",
+    "Extract pages",
+    "ページを抽出"
+  ],
+  [
+    "提取页面.pdf",
+    "Extracted-pages.pdf",
+    "抽出ページ.pdf"
+  ],
+  [
+    "提取页面仅使用列表中的第一份文档。",
+    "Page extraction uses only the first document in the list.",
+    "ページ抽出は一覧の最初の文書のみを使用します。"
+  ],
+  [
+    "提示",
+    "Notice",
+    "お知らせ"
+  ],
+  [
+    "提示音 3s",
+    "Alert 3 s",
+    "通知音 3秒"
+  ],
+  [
+    "提示音 5s",
+    "Alert 5 s",
+    "通知音 5秒"
+  ],
+  [
+    "搜索工具或功能",
+    "Search tools or features",
+    "ツールや機能を検索"
+  ],
+  [
+    "摄影水印",
+    "Photo watermark",
+    "写真ウォーターマーク"
+  ],
+  [
+    "播放位置",
+    "Playback position",
+    "再生位置"
+  ],
+  [
+    "播放原音频",
+    "Play original audio",
+    "元の音声を再生"
+  ],
+  [
+    "播放测试音（2 秒）",
+    "Play test tone (2 s)",
+    "テスト音を再生（2秒）"
+  ],
+  [
+    "操作",
+    "Action",
+    "操作"
+  ],
+  [
+    "支持的格式",
+    "Supported Formats",
+    "対応形式"
+  ],
+  [
+    "收藏",
+    "Favorite",
+    "お気に入り"
+  ],
+  [
+    "数据与隐私",
+    "Data & Privacy",
+    "データとプライバシー"
+  ],
+  [
+    "文件",
+    "Files",
+    "ファイル"
+  ],
+  [
+    "文件中没有可导出的音轨。",
+    "No exportable audio track in this file.",
+    "書き出せる音声トラックがありません。"
+  ],
+  [
+    "文件名（不含扩展名）",
+    "File name (without extension)",
+    "ファイル名（拡張子なし）"
+  ],
+  [
+    "文件夹已连接。是否自动保存结果由下方开关控制。",
+    "Folder connected. Use the switch below to enable automatic saving.",
+    "フォルダに接続しました。下のスイッチで自動保存を設定できます。"
+  ],
+  [
+    "文件管理",
+    "File Manager",
+    "ファイル管理"
+  ],
+  [
+    "文件系统剩余空间",
+    "File system free space",
+    "ファイルシステム空き容量"
+  ],
+  [
+    "文件系统总空间",
+    "File system total space",
+    "ファイルシステム総容量"
+  ],
+  [
+    "文件，井井有条",
+    "Files, neatly organized",
+    "ファイルをすっきり整理"
+  ],
+  [
+    "文字或链接",
+    "Text or URL",
+    "テキストまたはURL"
+  ],
+  [
+    "文档，恰如其分",
+    "Documents, just right",
+    "文書を、ちょうどよく"
+  ],
+  [
+    "断开连接",
+    "Disconnect",
+    "接続を解除"
+  ],
+  [
+    "无水印",
+    "No watermark",
+    "ウォーターマークなし"
+  ],
+  [
+    "无法从照片读取图片。",
+    "Could not load the image from Photos.",
+    "写真から画像を読み込めません。"
+  ],
+  [
+    "无法创建音频轨道。",
+    "Could not create an audio track.",
+    "音声トラックを作成できません。"
+  ],
+  [
+    "无法在当前设置下达到目标体积，请提高体积上限或关闭水印。",
+    "Cannot reach the target size. Increase the limit or disable the watermark.",
+    "目標サイズにできません。上限を増やすかウォーターマークをオフにしてください。"
+  ],
+  [
+    "无法导出",
+    "Cannot export",
+    "書き出せません"
+  ],
+  [
+    "无法开始音频写入。",
+    "Could not start writing audio.",
+    "音声の書き込みを開始できません。"
+  ],
+  [
+    "无法生成二维码。",
+    "Could not generate the QR code.",
+    "QRコードを生成できません。"
+  ],
+  [
+    "无法解码此音频。",
+    "Could not decode this audio.",
+    "この音声をデコードできません。"
+  ],
+  [
+    "无法访问文件夹",
+    "Cannot access folder",
+    "フォルダにアクセスできません"
+  ],
+  [
+    "无法读取 PDF，文件可能已加密或损坏。",
+    "Cannot read the PDF. It may be encrypted or damaged.",
+    "PDFを読み込めません。暗号化または破損している可能性があります。"
+  ],
+  [
+    "无法读取二维码图片。",
+    "Could not read the QR image.",
+    "QRコード画像を読み込めません。"
+  ],
+  [
+    "无法读取图片。请选择有效的 JPG、PNG 或 HEIC 文件。",
+    "Cannot read the image. Choose a valid JPG, PNG or HEIC file.",
+    "画像を読み込めません。有効なJPG・PNG・HEICを選択してください。"
+  ],
+  [
+    "无法读取处理后的图片。",
+    "Could not read the processed image.",
+    "処理後の画像を読み込めません。"
+  ],
+  [
+    "无法读取有效音轨，文件可能损坏或格式不受支持。",
+    "No readable audio track. The file may be damaged or unsupported.",
+    "音声を読み込めません。破損または非対応の形式の可能性があります。"
+  ],
+  [
+    "无法读取第 {0} 页。",
+    "Cannot read page {0}.",
+    "{0}ページを読み込めません。"
+  ],
+  [
+    "无法读取视频，请重试或从文件导入。",
+    "Cannot read the video. Retry or import from Files.",
+    "動画を読み込めません。再試行するかファイルから読み込んでください。"
+  ],
+  [
+    "无法读取音轨。",
+    "Could not read the audio track.",
+    "音声トラックを読み込めません。"
+  ],
+  [
+    "无需账户 · 无广告 · 本地处理",
+    "No account · No ads · On-device",
+    "登録不要 · 広告なし · 端末内で処理"
+  ],
+  [
+    "日常小事，轻松做好。",
+    "Everyday tasks, effortlessly.",
+    "日々の小さな作業を、軽やかに。"
+  ],
+  [
+    "显示拍摄参数",
+    "Show camera settings",
+    "撮影設定を表示"
+  ],
+  [
+    "显示拍摄日期",
+    "Show capture date",
+    "撮影日を表示"
+  ],
+  [
+    "显示相机型号",
+    "Show camera model",
+    "カメラ機種を表示"
+  ],
+  [
+    "显示缩放",
+    "Display scale",
+    "表示倍率"
+  ],
+  [
+    "暂停",
+    "Pause",
+    "一時停止"
+  ],
+  [
+    "更多工具持续加入，全部在本机处理",
+    "More tools on the way. All processing stays on-device.",
+    "ツールは今後も追加。処理はすべて端末内で。"
+  ],
+  [
+    "最近使用",
+    "Recent",
+    "最近使ったツール"
+  ],
+  [
+    "最近使用已清除。",
+    "Recent tools cleared.",
+    "最近使ったツールを消去しました。"
+  ],
+  [
+    "最长边",
+    "Longest edge",
+    "長辺"
+  ],
+  [
+    "最高刷新率",
+    "Maximum refresh rate",
+    "最大リフレッシュレート"
+  ],
+  [
+    "最高刷新率是屏幕声明的上限，并非实时帧率。",
+    "This is the display's declared maximum, not the current frame rate.",
+    "画面の公称上限です。現在のフレームレートではありません。"
+  ],
+  [
+    "未测试",
+    "Not tested",
+    "未確認"
+  ],
+  [
+    "未知文件",
+    "Unknown file",
+    "不明なファイル"
+  ],
+  [
+    "未获得保存照片权限，请在系统设置中允许添加照片。",
+    "Photo saving is not allowed. Enable Add Photos access in Settings.",
+    "写真への保存が許可されていません。設定で写真の追加を許可してください。"
+  ],
+  [
+    "未获得麦克风权限，请在系统设置中允许访问。",
+    "Microphone access is not allowed. Enable it in Settings.",
+    "マイクへのアクセスが許可されていません。設定で許可してください。"
+  ],
+  [
+    "未选择",
+    "Not selected",
+    "未選択"
+  ],
+  [
+    "本应用不提供原装鉴定、拆修判定、激活锁查询或刷机服务。",
+    "This app does not certify original parts, determine repairs, query Activation Lock or flash firmware.",
+    "純正判定、分解・修理歴の判定、アクティベーションロック照会、ファームウェア書き換えは行いません。"
+  ],
+  [
+    "来电 29s",
+    "Ringtone 29 s",
+    "着信音 29秒"
+  ],
+  [
+    "极简黑边",
+    "Minimal black frame",
+    "ミニマルな黒枠"
+  ],
+  [
+    "查看、重命名与分享",
+    "Inspect, rename and share",
+    "確認・名前変更・共有"
+  ],
+  [
+    "查看属性、重命名并导出副本。原始文件保持不变。",
+    "Inspect properties and export a renamed copy. The original stays unchanged.",
+    "属性を確認し、名前を変えたコピーを書き出します。元のファイルは変更しません。"
+  ],
+  [
+    "格式",
+    "Format",
+    "形式"
+  ],
+  [
+    "正在本机处理…",
+    "Processing on-device…",
+    "端末内で処理中…"
+  ],
+  [
+    "此文档仅用于导出。",
+    "This document is export-only.",
+    "この文書は書き出し専用です。"
+  ],
+  [
+    "此设备不支持所选输出格式。",
+    "The selected output format is not supported on this device.",
+    "選択した出力形式はこの端末では利用できません。"
+  ],
+  [
+    "此设备没有可用闪光灯。",
+    "No flashlight is available on this device.",
+    "この端末ではライトを利用できません。"
+  ],
+  [
+    "此音频不支持 M4A 导出。",
+    "This audio cannot be exported as M4A.",
+    "この音声はM4Aで書き出せません。"
+  ],
+  [
+    "水印模板",
+    "Watermark style",
+    "ウォーターマークのスタイル"
+  ],
+  [
+    "没有找到可读取的二维码。请使用清晰、完整的图片。",
+    "No readable QR code found. Use a clear, uncropped image.",
+    "QRコードを読み取れません。全体が鮮明に写った画像を使用してください。"
+  ],
+  [
+    "波形来自实际音频。导出结果可再次试听，确认淡入淡出效果。",
+    "The waveform is based on the audio. Preview the export to check the fades.",
+    "波形は実際の音声から作成しています。書き出し後にフェードを確認できます。"
+  ],
+  [
+    "浅色",
+    "Light",
+    "ライト"
+  ],
+  [
+    "测试触感",
+    "Test haptics",
+    "触覚をテスト"
+  ],
+  [
+    "淡入与淡出",
+    "Fade in and out",
+    "フェードイン・アウト"
+  ],
+  [
+    "深色",
+    "Dark",
+    "ダーク"
+  ],
+  [
+    "添加 PDF",
+    "Add PDF",
+    "PDFを追加"
+  ],
+  [
+    "清理临时文件",
+    "Clear temporary files",
+    "一時ファイルを削除"
+  ],
+  [
+    "清理后，尚未保存的处理结果将被移除。",
+    "Unsaved results will be removed.",
+    "未保存の処理結果が削除されます。"
+  ],
+  [
+    "清理缓存",
+    "Clear cache",
+    "キャッシュを削除"
+  ],
+  [
+    "清除最近使用",
+    "Clear recent tools",
+    "最近使ったツールを消去"
+  ],
+  [
+    "照片",
+    "Photo",
+    "写真"
+  ],
+  [
+    "照片-{0}.",
+    "Photo-{0}.",
+    "写真-{0}."
+  ],
+  [
+    "照片合集.pdf",
+    "Photos.pdf",
+    "写真集.pdf"
+  ],
+  [
+    "片段时长",
+    "Selection duration",
+    "選択範囲の長さ"
+  ],
+  [
+    "版本",
+    "Version",
+    "バージョン"
+  ],
+  [
+    "物理内存",
+    "Physical memory",
+    "物理メモリ"
+  ],
+  [
+    "生成二维码",
+    "Generate QR code",
+    "QRコードを生成"
+  ],
+  [
+    "生成的二维码",
+    "Generated QR code",
+    "生成したQRコード"
+  ],
+  [
+    "用手指划过每个方格，观察是否有无法触达的区域。此测试仅检查当前区域。",
+    "Drag over each cell and look for areas that do not respond. Only this area is tested.",
+    "指ですべてのマスをなぞり、反応しない場所がないか確認してください。この領域のみのテストです。"
+  ],
+  [
+    "电池与存储",
+    "Battery & Storage",
+    "バッテリーとストレージ"
+  ],
+  [
+    "留下恰到好处的片段",
+    "Keep just the right moment",
+    "ちょうどいい部分を残す"
+  ],
+  [
+    "留住喜欢的声音",
+    "Keep the sounds you love",
+    "好きな音を残そう"
+  ],
+  [
+    "目标体积",
+    "Target size",
+    "目標サイズ"
+  ],
+  [
+    "相机水印",
+    "Camera watermark",
+    "カメラ情報"
+  ],
+  [
+    "相机水印、转换与隐私保护",
+    "Camera watermarks, conversion and privacy",
+    "カメラ情報・変換・プライバシー保護"
+  ],
+  [
+    "真实音频波形，可使用下方时间滑块调整片段",
+    "Audio waveform. Use the time sliders below to trim.",
+    "音声波形です。下の時間スライダで範囲を調整できます。"
+  ],
+  [
+    "短铃声 10s",
+    "Short ringtone 10 s",
+    "短い着信音 10秒"
+  ],
+  [
+    "硬件标识",
+    "Hardware identifier",
+    "ハードウェア識別子"
+  ],
+  [
+    "离线生成与图片识别",
+    "Offline generation and image scanning",
+    "オフライン生成・画像読み取り"
+  ],
+  [
+    "移除文件",
+    "Remove file",
+    "ファイルを除外"
+  ],
+  [
+    "简洁叠字",
+    "Simple text overlay",
+    "シンプルな文字"
+  ],
+  [
+    "类型",
+    "Type",
+    "種類"
+  ],
+  [
+    "系统版本",
+    "System version",
+    "システムバージョン"
+  ],
+  [
+    "经典白边",
+    "Classic white frame",
+    "クラシックな白枠"
+  ],
+  [
+    "结束时间",
+    "End time",
+    "終了時間"
+  ],
+  [
+    "结束页",
+    "Last page",
+    "終了ページ"
+  ],
+  [
+    "结束：{0} 秒",
+    "End: {0} s",
+    "終了：{0}秒"
+  ],
+  [
+    "结果",
+    "Result",
+    "結果"
+  ],
+  [
+    "结果暂存在本机缓存中，请及时保存。",
+    "Results are temporary. Save a copy to keep them.",
+    "結果は一時保存です。必要なファイルは保存してください。"
+  ],
+  [
+    "署名或标题（可选）",
+    "Signature or title (optional)",
+    "署名やタイトル（任意）"
+  ],
+  [
+    "自动保存结果到文件夹",
+    "Automatically save results to folder",
+    "結果をフォルダに自動保存"
+  ],
+  [
+    "自动移除 EXIF 与位置信息",
+    "Remove EXIF and location metadata",
+    "EXIFと位置情報を削除"
+  ],
+  [
+    "观察正常",
+    "Looks normal",
+    "異常なし"
+  ],
+  [
+    "视频",
+    "Video",
+    "動画"
+  ],
+  [
+    "视频与文件",
+    "Video & Files",
+    "動画とファイル"
+  ],
+  [
+    "视频声音.mov",
+    "Video-audio.mov",
+    "動画音声.mov"
+  ],
+  [
+    "视频提取声音",
+    "Extract Video Audio",
+    "動画から音声抽出"
+  ],
+  [
+    "触感",
+    "Haptics",
+    "触覚"
+  ],
+  [
+    "触控",
+    "Touch",
+    "タッチ"
+  ],
+  [
+    "触控覆盖测试",
+    "Touch coverage test",
+    "タッチ領域テスト"
+  ],
+  [
+    "让每一份文件\\n恰到好处。",
+    "Every file,\\njust right.",
+    "ファイルを、\\nちょうどよく。"
+  ],
+  [
+    "让视频里的声音独立出来",
+    "Let your video's audio stand on its own",
+    "動画の音声を取り出そう"
+  ],
+  [
+    "记录仅保留在当前页面。没有自动判定通过的项目。",
+    "Observations last only on this page. No check is marked as passed automatically.",
+    "記録はこの画面を離れると失われます。自動で合格と判定する項目はありません。"
+  ],
+  [
+    "设为结束",
+    "Set end",
+    "終了点に設定"
+  ],
+  [
+    "设为铃声 / 提示音",
+    "Set as ringtone or alert",
+    "着信音・通知音に設定"
+  ],
+  [
+    "设备",
+    "Device",
+    "端末"
+  ],
+  [
+    "设备信息",
+    "Device Info",
+    "端末情報"
+  ],
+  [
+    "设备类型",
+    "Device type",
+    "端末の種類"
+  ],
+  [
+    "设备自检",
+    "Device Check",
+    "端末セルフチェック"
+  ],
+  [
+    "设置",
+    "Settings",
+    "設定"
+  ],
+  [
+    "识别内容",
+    "Recognized content",
+    "読み取り結果"
+  ],
+  [
+    "试听导出结果",
+    "Preview exported audio",
+    "書き出した音声を試聴"
+  ],
+  [
+    "试听所选片段",
+    "Preview selection",
+    "選択範囲を試聴"
+  ],
+  [
+    "语言",
+    "Language",
+    "言語"
+  ],
+  [
+    "请先选择 PDF。",
+    "Choose a PDF first.",
+    "先にPDFを選択してください。"
+  ],
+  [
+    "请先选择同步文件夹。",
+    "Choose a sync folder first.",
+    "先に同期フォルダを選択してください。"
+  ],
+  [
+    "请先选择图片。",
+    "Choose an image first.",
+    "先に画像を選択してください。"
+  ],
+  [
+    "请检查裁剪区间；铃声长度不能超过 30 秒。",
+    "Check the trim range. Ringtones must be 30 seconds or shorter.",
+    "範囲を確認してください。着信音は30秒以内にしてください。"
+  ],
+  [
+    "请输入 1–1500 字节的文字或链接。",
+    "Enter text or a URL between 1 and 1,500 bytes.",
+    "1〜1,500バイトのテキストまたはURLを入力してください。"
+  ],
+  [
+    "请输入有效文件名（不含路径分隔符，最多 180 字节）。",
+    "Enter a valid file name without path separators, up to 180 bytes.",
+    "パス区切りを含まない180バイト以内の有効なファイル名を入力してください。"
+  ],
+  [
+    "请输入有效页码范围。",
+    "Enter a valid page range.",
+    "有効なページ範囲を入力してください。"
+  ],
+  [
+    "读取文件夹…",
+    "Reading folder…",
+    "フォルダを読み込み中…"
+  ],
+  [
+    "质量",
+    "Quality",
+    "品質"
+  ],
+  [
+    "起始页",
+    "First page",
+    "開始ページ"
+  ],
+  [
+    "跟随系统",
+    "System default",
+    "システムに従う"
+  ],
+  [
+    "转换格式、缩小体积，或抹去位置痕迹。",
+    "Convert, compress, or remove location metadata.",
+    "形式の変換、容量の削減、位置情報の削除。"
+  ],
+  [
+    "输入文档",
+    "Input documents",
+    "入力文書"
+  ],
+  [
+    "输出设置",
+    "Output settings",
+    "出力設定"
+  ],
+  [
+    "这张图片没有相机参数；不会添加虚构参数。",
+    "This image has no camera metadata. No information will be invented.",
+    "カメラ情報がありません。架空の情報は追加しません。"
+  ],
+  [
+    "进一步检查",
+    "Further checks",
+    "詳しく確認"
+  ],
+  [
+    "选一个音频或视频，拖动波形两侧选段。",
+    "Choose audio or video, then drag the waveform handles to trim.",
+    "音声や動画を選び、波形の両端をドラッグして範囲を指定します。"
+  ],
+  [
+    "选择 iCloud Drive 文件夹",
+    "Choose iCloud Drive folder",
+    "iCloud Driveフォルダを選択"
+  ],
+  [
+    "通用 JPG",
+    "Universal JPG",
+    "汎用JPG"
+  ],
+  [
+    "重命名副本",
+    "Rename copy",
+    "コピーの名前を変更"
+  ],
+  [
+    "重置",
+    "Reset",
+    "リセット"
+  ],
+  [
+    "铃声制作",
+    "Ringtone Maker",
+    "着信音作成"
+  ],
+  [
+    "铃声提示音",
+    "Ringtones & alerts",
+    "着信音・通知音"
+  ],
+  [
+    "铃声最长 30 秒。推荐 29 秒来电铃声，或 3–5 秒短提示音。",
+    "Ringtones can be up to 30 seconds. Try 29 seconds for calls or 3–5 seconds for alerts.",
+    "着信音は最大30秒です。着信は29秒、通知音は3〜5秒がおすすめです。"
+  ],
+  [
+    "闪光灯",
+    "Flashlight",
+    "ライト"
+  ],
+  [
+    "随手处理 · 安心留在本机",
+    "Made easy · Kept on your device",
+    "手軽に処理 · データは端末内に"
+  ],
+  [
+    "隐私说明",
+    "Privacy",
+    "プライバシー"
+  ],
+  [
+    "音频",
+    "Audio",
+    "音声"
+  ],
+  [
+    "音频信息",
+    "Audio info",
+    "音声情報"
+  ],
+  [
+    "音频写入失败。",
+    "Could not write audio.",
+    "音声を書き込めません。"
+  ],
+  [
+    "音频剪辑",
+    "Audio Editor",
+    "音声編集"
+  ],
+  [
+    "音频导出失败。",
+    "Audio export failed.",
+    "音声を書き出せません。"
+  ],
+  [
+    "音频解码未完成。",
+    "Audio decoding did not complete.",
+    "音声のデコードが完了しませんでした。"
+  ],
+  [
+    "页码范围（从 1 开始）",
+    "Page range (starting at 1)",
+    "ページ範囲（1から）"
+  ],
+  [
+    "页码超出范围。此文档共 {0} 页。",
+    "Page out of range. This document has {0} pages.",
+    "ページ範囲外です。この文書は{0}ページです。"
+  ],
+  [
+    "顺匣",
+    "ShunBox",
+    "順匣"
+  ],
+  [
+    "预览文件",
+    "Preview file",
+    "ファイルをプレビュー"
+  ],
+  [
+    "预览结果",
+    "Preview result",
+    "結果をプレビュー"
+  ],
+  [
+    "首页",
+    "Home",
+    "ホーム"
+  ],
+  [
+    "麦克风",
+    "Microphone",
+    "マイク"
+  ],
+  [
+    "默认图片格式",
+    "Default image format",
+    "既定の画像形式"
+  ],
+  [
+    "1. 推荐导出 30 秒以内的 M4A。\\n2. 点击分享，查看系统是否提供“用作铃声”；也可先保存到文件，再从文件 App 分享。\\n3. 在系统设置 → 声音与触感中，选择已添加的声音。具体提示音可选项由系统和对应 App 决定。",
+    "1. Export an M4A up to 30 seconds long.\\n2. Share and look for Use as Ringtone. You can also save to Files and share from there.\\n3. Select the added sound in Settings → Sounds & Haptics. Alert choices depend on iOS and the receiving app.",
+    "1. 30秒以内のM4Aを書き出します。\\n2. 共有から「着信音として使用」を探します。ファイルに保存してから共有することもできます。\\n3. 設定 → サウンドと触覚で追加した音を選びます。通知音の選択肢はシステムやアプリによって異なります。"
+  ],
+  [
+    "M4A 体积较小；WAV / AIFF / CAF 使用 44.1 kHz、16 位、双声道 PCM，体积较大。不会恢复源文件已经损失的音质。",
+    "M4A is compact. WAV, AIFF and CAF use 44.1 kHz, 16-bit stereo PCM and are larger. Lost source quality cannot be restored.",
+    "M4Aは小容量です。WAV・AIFF・CAFは44.1 kHz、16ビット、ステレオPCMで容量が大きくなります。失われた音質は復元できません。"
+  ],
+  [
+    "MOV / MP4 等系统支持的视频可提取音轨；无音轨、加密或不支持的编码会明确报错。",
+    "Extract audio from system-supported videos such as MOV and MP4. Missing tracks, encryption and unsupported codecs produce an error.",
+    "MOV・MP4などシステム対応の動画から音声を抽出します。音声なし・暗号化・非対応コーデックの場合はエラーを表示します。"
+  ],
+  [
+    "MP3 目前仅导入，不提供 MP3 编码。DRM 保护的音乐不能转换。视频导入会先提取为 M4A，PCM 输出不会恢复原文件已丢失的音质。",
+    "MP3 is import-only. DRM-protected music cannot be converted. Video audio is first extracted to M4A. PCM output cannot recover lost source quality.",
+    "MP3は読み込みのみです。DRM保護された音楽は変換できません。動画の音声は最初にM4Aに抽出します。PCM出力でも失われた音質は復元できません。"
+  ],
+  [
+    "PDF：合并、连续页提取。文件管理可导入系统文件选择器允许的文件；Quick Look 是否可预览由系统决定。",
+    "PDF: merge and extract consecutive pages. File Manager accepts files allowed by the system picker. Quick Look preview support depends on the system.",
+    "PDF：結合と連続ページの抽出。ファイル管理ではシステム選択画面で許可されたファイルを読み込みます。プレビュー可否はQuick Lookの対応によります。"
+  ],
+  [
+    "图片工坊重新编码像素以移除来源元数据。水印、照片中可见的地址等像素内容不会被自动识别或删除。",
+    "Image Studio re-encodes pixels to remove source metadata. Visible content such as watermarks or addresses in the image is not detected or removed.",
+    "画像を再エンコードし、元のメタデータを削除します。ウォーターマークや写り込んだ住所など、画像内の内容は検出・削除しません。"
+  ],
+  [
+    "如果系统未显示该选项，可将 M4A 导入 GarageBand，分享 → 铃声 → 导出。工具箱只制作与分享文件，最终安装由系统完成。",
+    "If the option is missing, import the M4A into GarageBand, then Share → Ringtone → Export. This app creates and shares files; iOS handles installation.",
+    "項目がない場合はM4AをGarageBandに読み込み、共有 → 着信音 → 書き出しを選びます。このアプリは作成・共有を行い、登録はシステムが処理します。"
+  ],
+  [
+    "完全离线生成，内容直接编码到图片中。不要放入不想公开的密码或个人信息。",
+    "Generated entirely offline. The content is encoded in the image. Avoid including private passwords or personal information.",
+    "完全オフラインで生成し、内容を画像に埋め込みます。公開したくないパスワードや個人情報は含めないでください。"
+  ],
+  [
+    "导入副本和处理结果临时保存在应用缓存中，超过一天的旧缓存在下次启动时清理。分享或保存后，文件由目标应用管理。最近使用只记录工具类型，不记录文件名、内容或路径。",
+    "Imported copies and results are cached temporarily. Cache older than a day is cleared on next launch. Shared or saved files are managed by the destination app. Recents store only tool types, not names, contents or paths.",
+    "読み込みコピーと結果は一時保存され、1日を過ぎたキャッシュは次回起動時に削除されます。共有・保存後は保存先アプリが管理します。履歴はツールの種類のみを記録し、ファイル名・内容・パスは記録しません。"
+  ],
+  [
+    "常用输入：MP3、M4A、AAC、WAV、AIFF、CAF、FLAC。实际能否读取取决于文件内部编码、系统解码器与内容保护。",
+    "Common inputs: MP3, M4A, AAC, WAV, AIFF, CAF and FLAC. Actual support depends on codecs, system decoders and content protection.",
+    "主な入力：MP3・M4A・AAC・WAV・AIFF・CAF・FLAC。読み込み可否は内部コーデック、システム、コンテンツ保護によります。"
+  ],
+  [
+    "序列号、IMEI、保修及零件维修记录，请在系统设置 → 通用 → 关于本机查看；电池健康请在系统设置 → 电池中查看。",
+    "For serial number, IMEI, coverage and parts history, check Settings → General → About. For battery health, check Settings → Battery.",
+    "シリアル番号・IMEI・保証・部品の履歴は、設定 → 一般 → 情報で確認してください。バッテリーの状態は、設定 → バッテリーで確認できます。"
+  ],
+  [
+    "必要时会继续降低质量和尺寸，直到实际文件达到目标。上方预览仅显示样式，最终清晰度请检查导出结果。",
+    "Quality and dimensions may be reduced further to meet the target. The preview shows styling only; check the exported file for final clarity.",
+    "目標サイズに合わせて品質や寸法を下げる場合があります。プレビューはスタイルのみです。最終的な画質は書き出したファイルで確認してください。"
+  ],
+  [
+    "所有转换均在本机完成。无需登录，默认不上传文件，不使用广告或跟踪 SDK。选择同步文件夹并启用保存后，结果由你选择的 iCloud Drive 或其他文件提供商同步。照片选择通过系统选择器完成；仅在保存时请求添加照片的权限。",
+    "All conversion happens on-device. No login, default uploads, ad SDKs or tracking SDKs. If you enable folder saving, your chosen file provider handles sync. Photos use the system picker; Add Photos permission is requested only when saving.",
+    "変換は端末内で行います。ログイン・自動アップロード・広告や追跡SDKはありません。フォルダ保存を有効にすると選択したプロバイダが同期します。写真はシステム画面で選択し、保存時のみ追加権限を求めます。"
+  ],
+  [
+    "所有输出均重新编码并移除原始元数据；图片不会放大。JPG 的透明区域转为白色，输出采用标准动态范围。动图仅处理首帧。GIF 输出也是静态图片；格式列表根据本机编码器能力显示。",
+    "All outputs are re-encoded without source metadata and are never upscaled. JPG transparency becomes white. Output uses SDR. Animated images use only their first frame, including GIF exports. Formats reflect available device encoders.",
+    "出力は再エンコードし、元のメタデータを除きます。拡大はしません。JPGの透明部分は白になり、SDRで出力します。アニメ画像は最初のフレームのみで、GIF出力も静止画です。形式は端末の対応状況に応じて表示します。"
+  ],
+  [
+    "模板效果显示在上方预览。参数来自每张原图，缺失项自动略过。显示到水印中的机型或日期会成为图片内容；不会添加定位。边框会增加输出高度。",
+    "Preview the style above. Metadata comes from each original; missing fields are omitted. Printed model names and dates become visible image content. Location is not added. Frames increase output height.",
+    "上にスタイルを表示します。情報は各元画像から取得し、欠けた項目は省略します。機種や日付は画像内の文字となります。位置情報は追加しません。枠を付けると高さが増えます。"
+  ],
+  [
+    "空间读数来自应用所在文件系统，不代表包装标称容量。此页面不读取电池健康度或循环次数。",
+    "Storage reflects the app's file system, not the advertised capacity. Battery health and cycle count are not read.",
+    "容量はアプリがあるファイルシステムの値で、公称容量ではありません。バッテリーの状態や充放電回数は読み取りません。"
+  ],
+  [
+    "请在系统选择器中进入 iCloud Drive。也可选择其他文件提供商；如果选择本机文件夹，则只是本地备份。此功能同步结果文件，不同步设置和收藏。工具箱不判断云端上传是否完成。",
+    "Choose a folder in iCloud Drive or another file provider. A local folder only creates a local backup. This syncs result files, not settings or favorites. The app does not confirm cloud upload completion.",
+    "iCloud Driveまたは他のファイルプロバイダからフォルダを選択してください。端末内のフォルダはローカル保存のみです。結果ファイルのみを同期し、設定やお気に入りは同期しません。クラウド転送の完了判定はしません。"
+  ],
+  [
+    "选择 iCloud Drive 中的专用文件夹，其他设备选择同一个文件夹，即可读取其中的结果。文件只在你选择保存或开启自动保存后写入。",
+    "Choose a dedicated iCloud Drive folder, and choose the same folder on other devices. Files are written only when you save or enable automatic saving.",
+    "iCloud Driveの専用フォルダを選び、他の端末でも同じフォルダを選ぶと結果を参照できます。保存操作または自動保存を有効にした場合のみ書き込みます。"
+  ],
+  [
+    "暂时无法连接 App Store，请稍后重试。",
+    "Cannot connect to the App Store. Please try later.",
+    "App Storeに接続できません。後でもう一度お試しください。"
+  ],
+  [
+    "无法验证购买，请稍后恢复购买。",
+    "Could not verify the purchase. Try restoring purchases later.",
+    "購入を検証できません。後で購入の復元をお試しください。"
+  ],
+  [
+    "购买等待批准，完成后将自动更新。",
+    "Purchase pending approval. Your status will update automatically.",
+    "購入は承認待ちです。完了後に自動更新されます。"
+  ],
+  [
+    "当前 Apple 账户没有可恢复的购买。",
+    "No restorable purchase for this Apple Account.",
+    "このApple Accountに復元できる購入はありません。"
+  ],
+  [
+    "所有工具永久免费，不限使用次数。支持完全自愿，不影响任何功能。",
+    "All tools are free with unlimited use. Supporting is optional and never affects features.",
+    "すべてのツールが無料・回数無制限です。支援は任意で、機能に影響しません。"
+  ],
+  [
+    "感谢你的支持",
+    "Thank you for your support",
+    "ご支援ありがとうございます"
+  ],
+  [
+    "支持商品暂不可用，请稍后重试。所有工具仍可正常使用。",
+    "The support purchase is unavailable right now. Try later. All tools still work.",
+    "支援商品は現在利用できません。後でお試しください。すべてのツールは引き続き使えます。"
+  ],
+  [
+    "重新加载",
+    "Reload",
+    "再読み込み"
+  ],
+  [
+    "恢复购买",
+    "Restore Purchases",
+    "購入を復元"
+  ],
+  [
+    "支持作者",
+    "Support the Creator",
+    "開発者を応援"
+  ],
+  [
+    "喜欢顺匣？支持一下作者",
+    "Enjoy ShunBox? Support its creator",
+    "順匣が気に入ったら、応援を"
+  ],
+  [
+    "工具永久免费 · 自愿支持",
+    "Free tools forever · Optional support",
+    "ツールはずっと無料 · 支援は任意"
+  ],
+  [
+    "快速操作",
+    "Quick Actions",
+    "クイックアクション"
+  ],
+  [
+    "在快捷指令 App 中搜索顺匣，可添加打开工具、转换图片、生成二维码三个操作。转换与生成会返回文件，可继续连接保存文件或分享操作。",
+    "Search for ShunBox in Shortcuts to open tools, convert images or generate QR codes. Conversion and generation return files you can save or share in the next action.",
+    "ショートカットで順匣を検索し、ツールを開く・画像を変換・QRコードを生成の操作を追加できます。変換と生成はファイルを返し、保存や共有の操作につなげられます。"
+  ],
+  [
+    "可通过 Siri 运行已添加的快捷指令。系统智能功能的可用性取决于设备、系统语言与地区；本应用不会自行上传你的文件给 AI 服务。",
+    "Use Siri to run your shortcuts. System intelligence availability depends on device, language and region. This app does not upload your files to AI services.",
+    "Siriで追加したショートカットを実行できます。システムのAI機能は端末・言語・地域によります。このアプリはAIサービスへファイルをアップロードしません。"
+  ],
+  [
+    "此版本提供 App Intents 操作，不保证任意自然语言都能直接执行，也不提供屏幕内容读取或自动安装铃声。",
+    "This version exposes App Intents actions. Arbitrary natural-language execution is not guaranteed. Screen reading and automatic ringtone installation are not provided.",
+    "この版はApp Intentsの操作を提供します。あらゆる自然言語での実行は保証しません。画面内容の読み取りや着信音の自動登録は行いません。"
+  ],
+  [
+    "快捷指令与 Siri",
+    "Shortcuts & Siri",
+    "ショートカットとSiri"
+  ],
+  [
+    "将处理后的图片保存到你的相册。",
+    "Save processed images to your photo library.",
+    "処理した画像を写真ライブラリに保存します。"
+  ],
+  [
+    "仅在你开始麦克风自检时录音，用于本机回放。",
+    "Record only when you start the microphone test, for local playback.",
+    "マイクテストを開始した場合のみ録音し、端末内で再生します。"
+  ],
+  [
+    "欢迎使用顺匣",
+    "Welcome to ShunBox",
+    "順匣へようこそ"
+  ],
+  [
+    "图片转换、压缩与相机水印",
+    "Image conversion, compression and camera watermarks",
+    "画像変換・圧縮・カメラ情報"
+  ],
+  [
+    "铃声剪辑、视频提取声音",
+    "Ringtone editing and video audio extraction",
+    "着信音編集・動画から音声抽出"
+  ],
+  [
+    "PDF 整理、二维码与设备自检",
+    "PDFs, QR codes and device checks",
+    "PDF整理・QRコード・端末チェック"
+  ],
+  [
+    "免费使用，也需要你的支持",
+    "Free to use, supported by you",
+    "無料で使える、あなたの応援で続く"
+  ],
+  [
+    "所有功能免费，不限次数。首次使用享 7 天无广告体验；之后转换完成时可能显示广告，用于支持开发与维护。",
+    "All features are free with unlimited use. Your first 7 days are ad-free. After that, ads may appear after conversion to support development and maintenance.",
+    "すべての機能が無料・回数無制限です。最初の7日間は広告なし。その後は開発と維持のため、変換完了後に広告が表示される場合があります。"
+  ],
+  [
+    "一次购买可永久去广告，不订阅、不自动续费。不购买也能继续完整使用所有工具。",
+    "One purchase removes ads forever. No subscription or automatic renewal. All tools remain fully usable without a purchase.",
+    "一度の購入で広告を永久に削除。定期購入や自動更新はありません。購入しなくても全ツールを使えます。"
+  ],
+  [
+    "当前版本暂未启用广告。启用后的广告规则如上，广告加载失败不会影响结果。",
+    "Ads are not enabled in this version. The policy above applies when enabled. Failed ad loading never affects your results.",
+    "現在の版では広告は未配信です。配信時は上記のルールを適用します。広告の読み込み失敗は結果に影響しません。"
+  ],
+  [
+    "权限由你决定",
+    "Permissions are your choice",
+    "権限はあなたが選ぶ"
+  ],
+  [
+    "照片：通过系统选择器导入，只在保存图片时申请添加照片。麦克风：仅在你开始录音自检时申请。iCloud：仅访问你主动选择的文件夹。",
+    "Photos: import with the system picker; permission to add photos is requested only when saving. Microphone: requested only when you start a recording test. iCloud: access only to folders you choose.",
+    "写真：システム画面で選択し、保存時のみ追加権限を求めます。マイク：録音テスト開始時のみ許可を求めます。iCloud：選択したフォルダだけにアクセスします。"
+  ],
+  [
+    "现在不会集中索取权限。拒绝某项权限，只影响对应功能。广告跟踪需要另行征得同意，拒绝不影响工具使用。",
+    "No permissions are requested upfront. Denying a permission affects only its feature. Ad tracking requires separate consent; declining never blocks the tools.",
+    "ここで一括して権限を求めることはありません。拒否すると対応する機能のみが制限されます。広告追跡は別途同意が必要で、拒否してもツールを使えます。"
+  ],
+  [
+    "继续免费使用",
+    "Continue for Free",
+    "無料で続ける"
+  ],
+  [
+    "永久去广告 · {0}",
+    "Remove Ads Forever · {0}",
+    "広告を永久に削除 · {0}"
+  ],
+  [
+    "了解永久去广告",
+    "About removing ads forever",
+    "広告の永久削除について"
+  ],
+  [
+    "谢谢支持！已永久去广告。",
+    "Thank you! Ads are permanently removed.",
+    "ありがとうございます！広告を永久に削除しました。"
+  ],
+  [
+    "已恢复永久去广告。",
+    "Permanent ad removal restored.",
+    "広告の永久削除を復元しました。"
+  ],
+  [
+    "永久去广告，支持独立创作",
+    "Remove ads. Support independent creation.",
+    "広告を削除して、個人開発を応援"
+  ],
+  [
+    "一次购买，永久去广告，不订阅、不自动续费。当前版本广告尚未启用。可使用同一 Apple 账户恢复购买。",
+    "One purchase removes ads forever. No subscription or renewal. Ads are not yet enabled in this version. Restore using the same Apple Account.",
+    "一度の購入で広告を永久に削除。定期購入・自動更新はありません。現在の版は広告未配信です。同じApple Accountで復元できます。"
+  ]
+]

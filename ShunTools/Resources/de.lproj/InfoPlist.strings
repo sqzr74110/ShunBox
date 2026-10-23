@@ -1,0 +1,3 @@
+"CFBundleDisplayName" = "ShunBox";
+"NSPhotoLibraryAddUsageDescription" = "Bearbeitete Bilder in deiner Fotomediathek sichern.";
+"NSMicrophoneUsageDescription" = "Nur beim Start des Mikrofontests für lokale Wiedergabe aufnehmen.";

@@ -1,0 +1,3 @@
+"CFBundleDisplayName" = "ShunBox";
+"NSPhotoLibraryAddUsageDescription" = "Guardar imágenes procesadas en tu fototeca.";
+"NSMicrophoneUsageDescription" = "Grabar solo al iniciar la prueba de micrófono, para reproducción local.";

@@ -1,0 +1,382 @@
+0|-편집.|-coupé.|-gekürzt.|-recortado.|-cortado.
+1|-처리됨.|-traité.|-bearbeitet.|-procesado.|-processado.
+2|0.1초 · 알림|0,1 s · Alerte|0,1 s · Hinweis|0,1 s · Aviso|0,1 s · Alerta
+3|0.5초|0,5 s|0,5 s|0,5 s|0,5 s
+4|1초|1 s|1 s|1 s|1 s
+5|2초|2 s|2 s|2 s|2 s
+6|Apple: GarageBand 벨소리 만들기|Apple : sonnerie avec GarageBand|Apple: Klingelton mit GarageBand|Apple: tonos con GarageBand|Apple: toques com GarageBand
+7|Apple: 부품 및 서비스 기록|Apple : historique des réparations|Apple: Teile- und Serviceverlauf|Apple: historial de piezas y servicio|Apple: histórico de peças e serviço
+8|BMP · 비트맵|BMP · Bitmap|BMP · Bitmap|BMP · Mapa de bits|BMP · Bitmap
+9|GIF · 정지 이미지|GIF · Image fixe|GIF · Einzelbild|GIF · Imagen fija|GIF · Imagem estática
+10|HEIC · 공간 절약|HEIC · Compact|HEIC · Platzsparend|HEIC · Ahorra espacio|HEIC · Economiza espaço
+11|JPG · 공유용|JPG · Partage facile|JPG · Einfach teilen|JPG · Fácil de compartir|JPG · Fácil de compartilhar
+12|M4A · 벨소리 및 공유|M4A · Sonneries et partage|M4A · Klingeltöne und Teilen|M4A · Tonos y compartir|M4A · Toques e compartilhamento
+13|M4R · 벨소리 형식|M4R · Sonnerie|M4R · Klingeltonformat|M4R · Formato de tono|M4R · Formato de toque
+14|PDF · 사진 모음|PDF · Album photos|PDF · Fotosammlung|PDF · Colección de fotos|PDF · Coleção de fotos
+15|PDF를 저장할 수 없습니다. 저장 공간을 확인하세요.|Écriture du PDF impossible. Vérifiez l’espace libre.|PDF konnte nicht geschrieben werden. Speicherplatz prüfen.|No se pudo guardar el PDF. Comprueba el espacio libre.|Não foi possível gravar o PDF. Verifique o espaço livre.
+16|PDF 정리|Gestion PDF|PDF-Werkzeuge|Organizar PDF|Organizar PDF
+17|PDF: 이미지를 A4 문서로 결합|PDF : regrouper des images en A4|PDF: Bilder als A4-Dokument|PDF: unir imágenes en un documento A4|PDF: reunir imagens em um documento A4
+18|PNG · 투명 이미지|PNG · Transparence|PNG · Transparenz|PNG · Transparencia|PNG · Transparência
+19|TIFF · 이미지 교환|TIFF · Échange d’images|TIFF · Bildaustausch|TIFF · Intercambio de imágenes|TIFF · Intercâmbio de imagens
+20|UTF-8 바이트|Octets UTF-8|UTF-8-Bytes|Bytes UTF-8|Bytes UTF-8
+21|iCloud 및 파일 동기화|iCloud et synchronisation|iCloud & Dateisync|iCloud y sincronización|iCloud e sincronização
+22|{0}픽셀|{0} pixels|{0} Pixel|{0} píxeles|{0} pixels
+23|{0}초|{0} s|{0} s|{0} s|{0} s
+24|{0}초 · {1} · {2}|{0} s · {1} · {2}|{0} s · {1} · {2}|{0} s · {1} · {2}|{0} s · {1} · {2}
+25|{0}-편집.m4a|{0}-coupé.m4a|{0}-gekürzt.m4a|{0}-recortado.m4a|{0}-cortado.m4a
+26|카메라 워터마크 추가|Ajouter les infos photo|Kamerawasserzeichen hinzufügen|Añadir datos de cámara|Adicionar dados da câmera
+27|업로드 ≤ 1 MB|Envoi ≤ 1 Mo|Upload ≤ 1 MB|Subida ≤ 1 MB|Envio ≤ 1 MB
+28|파일 위로 이동|Monter le fichier|Datei nach oben|Subir archivo|Mover arquivo para cima
+29|다음 색상|Couleur suivante|Nächste Farbe|Siguiente color|Próxima cor
+30|사용 불가|Indisponible|Nicht verfügbar|No disponible|Indisponível
+31|무제한|Illimité|Unbegrenzt|Sin límite|Sem limite
+32|임시 파일을 삭제했습니다.|Fichiers temporaires effacés.|Temporäre Dateien gelöscht.|Archivos temporales borrados.|Arquivos temporários removidos.
+33|iPhone을 위한 디자인|Conçu pour iPhone|Für iPhone entwickelt|Diseñado para iPhone|Feito para iPhone
+34|일상의 필수 도구|Les essentiels du quotidien|Helfer für jeden Tag|Esenciales diarios|Essenciais do dia a dia
+35|화면, 배터리 및 저장 공간|Écran, batterie et stockage|Display, Akku und Speicher|Pantalla, batería y espacio|Tela, bateria e armazenamento
+36|QR 코드|Code QR|QR-Code|Código QR|Código QR
+37|QR-Code.png|Code-QR.png|QR-Code.png|Codigo-QR.png|Codigo-QR.png
+38|QR 코드 내용|Contenu du code QR|QR-Code-Inhalt|Contenido del código QR|Conteúdo do código QR
+39|QR 코드를 저장할 수 없습니다.|Enregistrement du code QR impossible.|QR-Code konnte nicht gespeichert werden.|No se pudo guardar el código QR.|Não foi possível salvar o código QR.
+40|사진이나 소리로 시작하세요.\n간편하고 조용하게.|Une photo, un son.\nDes outils simples et discrets.|Ein Foto, ein Klang.\nEinfach und unaufdringlich.|Empieza con una foto o un sonido.\nHerramientas sencillas y discretas.|Comece com uma foto ou um som.\nFerramentas simples e discretas.
+41|사진으로 시작하기|Commencer par une photo|Mit einem Foto beginnen|Empezar con una foto|Começar com uma foto
+42|이미지에서 QR 코드 읽기|Lire un code QR sur une image|QR-Code aus Bild lesen|Leer QR de una imagen|Ler QR de uma imagem
+43|파일에서 오디오/비디오 가져오기|Importer un audio ou une vidéo|Audio oder Video importieren|Importar audio o vídeo|Importar áudio ou vídeo
+44|파일에서 선택|Choisir dans Fichiers|Aus Dateien wählen|Elegir de Archivos|Escolher em Arquivos
+45|사진에서 선택|Choisir dans Photos|Aus Fotos wählen|Elegir de Fotos|Escolher em Fotos
+46|사진 앱 영상의 소리 추출|Extraire l’audio d’une vidéo Photos|Ton aus Fotos-Video extrahieren|Extraer audio de un vídeo de Fotos|Extrair áudio de vídeo do Fotos
+47|영상으로 벨소리 만들기|Des sonneries à partir de vidéos|Klingeltöne aus deinen Videos|Crear tonos con tus vídeos|Criar toques com seus vídeos
+48|저전력 모드|Mode économie d’énergie|Stromsparmodus|Modo de bajo consumo|Modo de Pouca Energia
+49|내 파일은 나의 것|Vos fichiers restent à vous|Deine Dateien bleiben deine|Tus archivos siguen siendo tuyos|Seus arquivos continuam seus
+50|어디서든 내 결과물|Vos résultats, partout|Ergebnisse überall dabei|Tus resultados, donde estés|Seus resultados, onde estiver
+51|Apple 네이티브 기술로 제작.\n오프라인, 가볍고 집중된 도구.|Technologies natives Apple.\nHors ligne, léger et ciblé.|Mit nativen Apple-Frameworks.\nOffline, leicht und fokussiert.|Tecnología nativa de Apple.\nSin conexión, ligera y práctica.|Tecnologia nativa da Apple.\nOffline, leve e focada.
+52|환경설정|Préférences|Einstellungen|Preferencias|Preferências
+53|모두 사진에 저장|Tout enregistrer dans Photos|Alle in Fotos sichern|Guardar todo en Fotos|Salvar tudo em Fotos
+54|동기화 폴더에 저장|Enregistrer dans le dossier synchronisé|Im Sync-Ordner sichern|Guardar en carpeta sincronizada|Salvar na pasta sincronizada
+55|파일에 저장|Enregistrer dans Fichiers|In Dateien sichern|Guardar en Archivos|Salvar em Arquivos
+56|수정일|Modification|Geändert|Modificado|Modificado
+57|소리 중지|Arrêter l’audio|Audio stoppen|Detener audio|Parar áudio
+58|녹음 중지|Arrêter l’enregistrement|Aufnahme stoppen|Detener grabación|Parar gravação
+59|픽셀 크기|Dimensions en pixels|Pixelmaße|Dimensiones en píxeles|Dimensões em pixels
+60|먼저 시스템 음량을 낮추세요. 연결된 헤드폰 등 출력 위치를 확인하세요.|Baissez d’abord le volume. Vérifiez la sortie audio, notamment les écouteurs connectés.|Zuerst Lautstärke senken. Audioausgabe prüfen, etwa verbundene Kopfhörer.|Baja el volumen primero. Comprueba la salida, incluidos auriculares conectados.|Reduza o volume primeiro. Confira a saída, incluindo fones conectados.
+61|전체 화면 색상 검사|Test couleurs plein écran|Vollbild-Farbtest|Prueba de color a pantalla completa|Teste de cores em tela cheia
+62|모든 도구|Tous les outils|Alle Werkzeuge|Todas las herramientas|Todas as ferramentas
+63|정보|À propos|Über|Acerca de|Sobre
+64|닫기|Fermer|Schließen|Cerrar|Fechar
+65|손전등 끄기|Éteindre la lampe|Taschenlampe aus|Apagar linterna|Desligar lanterna
+66|결과 공유|Partager le résultat|Ergebnis teilen|Compartir resultado|Compartilhar resultado
+67|이름 변경한 복사본 만들기|Créer une copie renommée|Umbenannte Kopie erstellen|Crear copia renombrada|Criar cópia renomeada
+68|나만의 소리 만들기|Un son qui vous ressemble|Dein ganz eigener Klang|Crea tu propio sonido|Crie seu próprio som
+69|소리 생성 및 내보내기|Créer et exporter l’audio|Audio erstellen und exportieren|Crear y exportar audio|Criar e exportar áudio
+70|새로고침|Actualiser|Aktualisieren|Actualizar|Atualizar
+71|파일 목록 새로고침|Actualiser la liste|Dateiliste aktualisieren|Actualizar lista|Atualizar lista
+72|이상 발견|Anomalie observée|Auffälligkeit bemerkt|Anomalía detectada|Problema observado
+73|취소|Annuler|Abbrechen|Cancelar|Cancelar
+74|즐겨찾기 해제|Retirer des favoris|Favorit entfernen|Quitar de favoritos|Remover dos favoritos
+75|즐겨찾기만|Favoris uniquement|Nur Favoriten|Solo favoritos|Apenas favoritos
+76|PDF 합치기|Fusionner les PDF|PDFs zusammenfügen|Unir PDF|Mesclar PDFs
+77|PDF를 합치거나 페이지를 새 파일로 추출합니다.|Fusionnez des PDF ou extrayez des pages vers un nouveau fichier.|PDFs zusammenfügen oder Seiten als neue Datei extrahieren.|Une PDF o extrae páginas a un archivo nuevo.|Mescle PDFs ou extraia páginas para um novo arquivo.
+78|결합.pdf|Fusion.pdf|Zusammengefügt.pdf|Unido.pdf|Mesclado.pdf
+79|문서 합치기, 페이지 추출|Fusionner, extraire des pages|Dokumente verbinden, Seiten extrahieren|Unir documentos, extraer páginas|Mesclar documentos, extrair páginas
+80|동기화|Synchronisation|Synchronisierung|Sincronización|Sincronização
+81|동기화 실패: {0}|Échec de synchronisation : {0}|Synchronisierung fehlgeschlagen: {0}|Error de sincronización: {0}|Falha na sincronização: {0}
+82|동기화 폴더 파일|Fichiers du dossier synchronisé|Dateien im Sync-Ordner|Archivos de la carpeta sincronizada|Arquivos da pasta sincronizada
+83|폴더 접근 권한이 만료되었습니다. 다시 선택하세요.|Accès au dossier expiré. Sélectionnez-le à nouveau.|Ordnerzugriff abgelaufen. Ordner erneut wählen.|El acceso a la carpeta caducó. Selecciónala de nuevo.|O acesso à pasta expirou. Selecione novamente.
+84|녹음 재생|Écouter l’enregistrement|Aufnahme abspielen|Reproducir grabación|Reproduzir gravação
+85|이미지|Images|Bilder|Imágenes|Imagens
+86|이미지 가져오기 · 시스템 디코더|Import d’images · Décodeurs système|Bildimport · Systemdecoder|Importar imágenes · Decodificadores del sistema|Importar imagens · Decodificadores do sistema
+87|이미지 내보내기 · 기기 지원|Export d’images · Sur cet appareil|Bildexport · Auf diesem Gerät|Exportar imágenes · En este dispositivo|Exportar imagens · Neste dispositivo
+88|이미지 공방|Atelier Image|Bildwerkstatt|Taller de imágenes|Oficina de imagens
+89|이미지 인코딩 실패. 다른 형식이나 작은 크기를 시도하세요.|Échec d’encodage. Essayez un autre format ou une taille réduite.|Bildkodierung fehlgeschlagen. Anderes Format oder kleinere Größe versuchen.|Error al codificar. Prueba otro formato o menor tamaño.|Falha na codificação. Tente outro formato ou tamanho menor.
+90|이미지를 PDF로|Images en PDF|Bilder zu PDF|Imágenes a PDF|Imagens para PDF
+91|소리 및 햅틱|Sons et vibrations|Ton & Haptik|Sonido y vibración|Som e resposta tátil
+92|소리 이름|Nom de l’audio|Audioname|Nombre del audio|Nome do áudio
+93|이미지 {0}개 처리|Traiter {0} images|{0} Bilder bearbeiten|Procesar {0} imágenes|Processar {0} imagens
+94|이미지 처리|Traiter les images|Bilder bearbeiten|Procesar imágenes|Processar imagens
+95|완료|Terminé|Fertig|Listo|Concluído
+96|사용한 도구가 여기에 표시됩니다.|Vos outils utilisés apparaîtront ici.|Verwendete Werkzeuge erscheinen hier.|Aquí aparecerán las herramientas que uses.|As ferramentas usadas aparecerão aqui.
+97|내용 복사|Copier le contenu|Inhalt kopieren|Copiar contenido|Copiar conteúdo
+98|화면 모드|Apparence|Darstellung|Apariencia|Aparência
+99|여러 사진을 한 문서로|Plusieurs photos, un document|Viele Fotos, ein Dokument|Muchas fotos, un documento|Várias fotos, um documento
+100|크기|Taille|Größe|Tamaño|Tamanho
+101|확인|OK|OK|Aceptar|OK
+102|유틸리티|Utilitaires|Hilfsprogramme|Utilidades|Utilitários
+103|파일 가져오기|Importer un fichier|Datei importieren|Importar archivo|Importar arquivo
+104|내보내기|Exporter|Exportieren|Exportar|Exportar
+105|내보내기 설정|Réglages d’export|Exporteinstellungen|Ajustes de exportación|Ajustes de exportação
+106|작게 ≤ 200 KB|Petit ≤ 200 Ko|Klein ≤ 200 KB|Pequeña ≤ 200 KB|Pequena ≤ 200 KB
+107|작은 도구, 편안한 일상.|Petits outils, grande sérénité.|Kleine Helfer. Mehr Leichtigkeit.|Pequeñas herramientas. Más calma.|Pequenas ferramentas. Mais leveza.
+108|화면|Écran|Display|Pantalla|Tela
+109|화면, 터치 및 소리 검사|Tests écran, tactile et audio|Display-, Touch- und Audiotests|Pruebas de pantalla, tacto y audio|Testes de tela, toque e áudio
+110|화면 및 터치|Écran et tactile|Display & Touch|Pantalla y tacto|Tela e toque
+111|화면 표시|Affichage de l’écran|Bildschirmanzeige|Visualización|Exibição da tela
+112|도구|Outils|Werkzeuge|Herramientas|Ferramentas
+113|도구상자|Boîte à outils|Werkzeugkasten|Caja de herramientas|Caixa de ferramentas
+114|사진에 이미지 {0}개를 저장했습니다.|{0} images enregistrées dans Photos.|{0} Bilder in Fotos gesichert.|{0} imágenes guardadas en Fotos.|{0} imagens salvas em Fotos.
+115|꺼짐|Désactivé|Aus|Desactivado|Desativado
+116|선택한 폴더에 복사했습니다. 클라우드 업로드는 파일 제공자가 관리합니다.|Copié dans le dossier choisi. Le fournisseur gère l’envoi vers le cloud.|In den gewählten Ordner kopiert. Der Dateianbieter verwaltet den Cloud-Upload.|Copiado a la carpeta elegida. El proveedor gestiona la subida a la nube.|Copiado para a pasta escolhida. O provedor gerencia o envio à nuvem.
+117|켜짐|Activé|Ein|Activado|Ativado
+118|즐겨찾기|Favori|Favorit|Favorito|Favorito
+119|연결 해제됨. 폴더의 파일은 삭제되지 않았습니다.|Déconnecté. Les fichiers n’ont pas été supprimés.|Getrennt. Dateien im Ordner wurden nicht gelöscht.|Desconectado. No se borraron los archivos.|Desconectado. Os arquivos não foram excluídos.
+120|확인 {0} / 60칸|{0} / 60 cases couvertes|{0} / 60 Felder abgedeckt|{0} / 60 casillas cubiertas|{0} / 60 células cobertas
+121|파일 {0}개를 읽었습니다.|{0} fichiers lus.|{0} Dateien gelesen.|{0} archivos leídos.|{0} arquivos lidos.
+122|{0}개 선택 · 첫 이미지 {1}|{0} sélectionnées · Première {1}|{0} ausgewählt · Erstes Bild {1}|{0} seleccionadas · Primera {1}|{0} selecionadas · Primeira {1}
+123|손전등 켜기|Allumer la lampe|Taschenlampe ein|Encender linterna|Ligar lanterna
+124|시작 시간|Début|Startzeit|Inicio|Início
+125|시작: {0}초|Début : {0} s|Start: {0} s|Inicio: {0} s|Início: {0} s
+126|시뮬레이터입니다. 배터리 및 하드웨어 수치는 실기기 검사에 사용할 수 없습니다.|Simulateur actif. Les données matérielles et de batterie ne permettent pas d’inspecter un appareil réel.|Simulator aktiv. Akku- und Hardwaredaten sind nicht zur Geräteprüfung geeignet.|Es un simulador. Sus datos de batería y hardware no sirven para inspeccionar un dispositivo real.|É um simulador. Dados de bateria e hardware não servem para inspecionar um aparelho real.
+127|재생 위치를 시작점으로|Définir le début ici|Start am Abspielkopf setzen|Fijar inicio aquí|Definir início aqui
+128|현재 폴더|Dossier actuel|Aktueller Ordner|Carpeta actual|Pasta atual
+129|배터리 잔량|Niveau de batterie|Akkustand|Nivel de batería|Nível da bateria
+130|이 형식의 이미지 인코더가 없습니다.|Aucun encodeur pour ce format d’image.|Kein Encoder für dieses Bildformat vorhanden.|No hay codificador para este formato de imagen.|Não há codificador para este formato de imagem.
+131|기기에서 이 출력 형식을 지원하지 않습니다.|Format de sortie non pris en charge.|Ausgabeformat wird nicht unterstützt.|El dispositivo no admite este formato de salida.|O dispositivo não suporta esse formato de saída.
+132|마이크 녹음（5초）|Enregistrer le micro (5 s)|Mikrofon aufnehmen (5 s)|Grabar micrófono (5 s)|Gravar microfone (5 s)
+133|녹음 중…|Enregistrement…|Aufnahme läuft…|Grabando…|Gravando…
+134|구간 반복|Lire en boucle|Auswahl wiederholen|Repetir selección|Repetir seleção
+135|빠른 시작|Démarrage rapide|Schnellstart|Inicio rápido|Início rápido
+136|내 소리|Mon son|Mein Klang|Mi sonido|Meu som
+137|내 벨소리|Ma sonnerie|Mein Klingelton|Mi tono|Meu toque
+138|선택한 이미지 미리보기|Aperçu de l’image choisie|Vorschau des gewählten Bildes|Vista previa de imagen elegida|Prévia da imagem selecionada
+139|수동 관찰 기록|Observations manuelles|Manuelle Beobachtungen|Observaciones manuales|Observações manuais
+140|이미지 공방 열기|Ouvrir l’Atelier Image|Bildwerkstatt öffnen|Abrir taller de imágenes|Abrir oficina de imagens
+141|스피커|Haut-parleur|Lautsprecher|Altavoz|Alto-falante
+142|좋아하는 소리를 일상에|Votre son préféré au quotidien|Dein Lieblingsklang im Alltag|Tu sonido favorito cada día|Seu som favorito no dia a dia
+143|드래그하거나 길이를 선택하세요|Glissez ou choisissez une durée|Ziehen oder Dauer wählen|Arrastra o elige una duración|Arraste ou escolha a duração
+144|보고 들은 뒤 직접 기록하세요. 이 검사는 순정 부품이나 수리 이력을 판정하지 않습니다.|Observez, écoutez, puis notez. Ces tests ne certifient ni les pièces d’origine ni les réparations.|Beobachten, anhören und notieren. Keine Echtheits- oder Reparaturprüfung.|Observa, escucha y registra. Estas pruebas no certifican piezas originales ni reparaciones.|Observe, escute e registre. Os testes não certificam peças originais nem reparos.
+145|위에서 아래로 합칩니다. 화살표로 순서를 바꾸세요.|Fusion de haut en bas. Utilisez les flèches pour réordonner.|Von oben nach unten zusammengefügt. Pfeile ändern die Reihenfolge.|Se unen de arriba abajo. Usa las flechas para ordenar.|Mesclagem de cima para baixo. Use as setas para reordenar.
+146|빠른 설정|Préréglages|Schnellvorlagen|Ajustes rápidos|Predefinições
+147|PDF로 추출|Extraire en PDF|Als PDF extrahieren|Extraer a PDF|Extrair para PDF
+148|페이지 추출|Extraire des pages|Seiten extrahieren|Extraer páginas|Extrair páginas
+149|추출페이지.pdf|Pages-extraites.pdf|Extrahierte-Seiten.pdf|Paginas-extraidas.pdf|Paginas-extraidas.pdf
+150|목록의 첫 문서에서만 페이지를 추출합니다.|Seul le premier document sert à l’extraction.|Nur das erste Dokument wird zum Extrahieren verwendet.|Solo se extraen páginas del primer documento.|A extração usa apenas o primeiro documento.
+151|알림|Information|Hinweis|Aviso|Aviso
+152|알림 3초|Alerte 3 s|Hinweis 3 s|Aviso 3 s|Alerta 3 s
+153|알림 5초|Alerte 5 s|Hinweis 5 s|Aviso 5 s|Alerta 5 s
+154|도구 및 기능 검색|Rechercher un outil|Werkzeuge oder Funktionen suchen|Buscar herramientas o funciones|Buscar ferramentas ou funções
+155|사진 워터마크|Filigrane photo|Foto-Wasserzeichen|Marca de agua fotográfica|Marca-d’água de foto
+156|재생 위치|Position de lecture|Wiedergabeposition|Posición de reproducción|Posição da reprodução
+157|원본 오디오 재생|Lire l’audio original|Originalaudio abspielen|Reproducir audio original|Reproduzir áudio original
+158|테스트 소리（2초）|Son de test (2 s)|Testton abspielen (2 s)|Sonido de prueba (2 s)|Som de teste (2 s)
+159|작업|Action|Aktion|Acción|Ação
+160|지원 형식|Formats compatibles|Unterstützte Formate|Formatos compatibles|Formatos compatíveis
+161|즐겨찾기 추가|Ajouter aux favoris|Favorisieren|Añadir a favoritos|Adicionar aos favoritos
+162|데이터 및 개인정보|Données et confidentialité|Daten & Datenschutz|Datos y privacidad|Dados e privacidade
+163|파일|Fichiers|Dateien|Archivos|Arquivos
+164|내보낼 오디오 트랙이 없습니다.|Aucune piste audio exportable.|Keine exportierbare Audiospur.|No hay pista de audio exportable.|Não há faixa de áudio exportável.
+165|파일명（확장자 제외）|Nom du fichier (sans extension)|Dateiname (ohne Endung)|Nombre de archivo (sin extensión)|Nome do arquivo (sem extensão)
+166|폴더가 연결되었습니다. 아래 스위치로 자동 저장을 켜세요.|Dossier connecté. Activez l’enregistrement automatique ci-dessous.|Ordner verbunden. Automatisches Sichern unten aktivieren.|Carpeta conectada. Activa el guardado automático abajo.|Pasta conectada. Ative o salvamento automático abaixo.
+167|파일 관리|Gestion de fichiers|Dateiverwaltung|Gestor de archivos|Gerenciador de arquivos
+168|파일 시스템 남은 공간|Espace libre du système de fichiers|Freier Dateisystemspeicher|Espacio libre del sistema de archivos|Espaço livre do sistema de arquivos
+169|파일 시스템 전체 공간|Espace total du système de fichiers|Gesamter Dateisystemspeicher|Espacio total del sistema de archivos|Espaço total do sistema de arquivos
+170|파일을 깔끔하게|Des fichiers bien rangés|Dateien, gut geordnet|Archivos bien ordenados|Arquivos bem organizados
+171|텍스트 또는 URL|Texte ou URL|Text oder URL|Texto o URL|Texto ou URL
+172|문서를 알맞게|Des documents à votre mesure|Dokumente, genau passend|Documentos a tu medida|Documentos na medida
+173|연결 해제|Déconnecter|Trennen|Desconectar|Desconectar
+174|워터마크 없음|Sans filigrane|Ohne Wasserzeichen|Sin marca de agua|Sem marca-d’água
+175|사진에서 이미지를 읽을 수 없습니다.|Impossible de charger l’image depuis Photos.|Bild aus Fotos konnte nicht geladen werden.|No se pudo cargar la imagen de Fotos.|Não foi possível carregar a imagem de Fotos.
+176|오디오 트랙을 만들 수 없습니다.|Impossible de créer une piste audio.|Audiospur konnte nicht erstellt werden.|No se pudo crear la pista de audio.|Não foi possível criar a faixa de áudio.
+177|목표 크기에 도달할 수 없습니다. 상한을 늘리거나 워터마크를 끄세요.|Taille cible impossible. Augmentez la limite ou retirez le filigrane.|Zielgröße nicht erreichbar. Grenze erhöhen oder Wasserzeichen ausschalten.|No se alcanza el tamaño. Aumenta el límite o quita la marca de agua.|Não foi possível atingir o tamanho. Aumente o limite ou desative a marca-d’água.
+178|내보낼 수 없음|Export impossible|Export nicht möglich|No se puede exportar|Não é possível exportar
+179|오디오 쓰기를 시작할 수 없습니다.|Impossible de commencer l’écriture audio.|Audioschreiben konnte nicht gestartet werden.|No se pudo iniciar la escritura de audio.|Não foi possível iniciar a gravação do arquivo de áudio.
+180|QR 코드를 만들 수 없습니다.|Impossible de générer le code QR.|QR-Code konnte nicht erstellt werden.|No se pudo generar el código QR.|Não foi possível gerar o código QR.
+181|오디오를 디코딩할 수 없습니다.|Impossible de décoder cet audio.|Audio konnte nicht dekodiert werden.|No se pudo decodificar el audio.|Não foi possível decodificar o áudio.
+182|폴더에 접근할 수 없음|Dossier inaccessible|Ordner nicht zugänglich|Carpeta inaccesible|Pasta inacessível
+183|PDF가 암호화되었거나 손상되어 읽을 수 없습니다.|PDF illisible, peut-être chiffré ou endommagé.|PDF unlesbar, möglicherweise verschlüsselt oder beschädigt.|PDF ilegible; puede estar cifrado o dañado.|PDF ilegível; pode estar criptografado ou danificado.
+184|QR 이미지를 읽을 수 없습니다.|Image QR illisible.|QR-Bild konnte nicht gelesen werden.|No se pudo leer la imagen QR.|Não foi possível ler a imagem QR.
+185|이미지를 읽을 수 없습니다. 유효한 JPG, PNG 또는 HEIC를 선택하세요.|Image illisible. Choisissez un JPG, PNG ou HEIC valide.|Bild unlesbar. Gültige JPG-, PNG- oder HEIC-Datei wählen.|Imagen ilegible. Elige un JPG, PNG o HEIC válido.|Imagem ilegível. Escolha um JPG, PNG ou HEIC válido.
+186|처리된 이미지를 읽을 수 없습니다.|Image traitée illisible.|Bearbeitetes Bild unlesbar.|No se pudo leer la imagen procesada.|Não foi possível ler a imagem processada.
+187|오디오를 읽을 수 없습니다. 손상되었거나 지원하지 않는 파일일 수 있습니다.|Piste audio illisible. Fichier endommagé ou non compatible.|Audiospur unlesbar. Datei beschädigt oder nicht unterstützt.|Pista ilegible. El archivo puede estar dañado o no ser compatible.|Faixa ilegível. O arquivo pode estar danificado ou ser incompatível.
+188|{0}페이지를 읽을 수 없습니다.|Page {0} illisible.|Seite {0} konnte nicht gelesen werden.|No se puede leer la página {0}.|Não foi possível ler a página {0}.
+189|영상을 읽을 수 없습니다. 다시 시도하거나 파일에서 가져오세요.|Vidéo illisible. Réessayez ou importez depuis Fichiers.|Video unlesbar. Erneut versuchen oder aus Dateien importieren.|Vídeo ilegible. Reintenta o importa desde Archivos.|Vídeo ilegível. Tente novamente ou importe de Arquivos.
+190|오디오 트랙을 읽을 수 없습니다.|Piste audio illisible.|Audiospur konnte nicht gelesen werden.|No se pudo leer la pista de audio.|Não foi possível ler a faixa de áudio.
+191|계정 없이 · 광고 없이 · 기기 내 처리|Sans compte · Sans pub · Local|Ohne Konto · Ohne Werbung · Lokal|Sin cuenta · Sin anuncios · Local|Sem conta · Sem anúncios · Local
+192|일상의 일을 가볍게.|Le quotidien, tout simplement.|Alltag, ganz entspannt.|Lo cotidiano, sin esfuerzo.|O dia a dia, sem esforço.
+193|촬영 설정 표시|Afficher les réglages photo|Kameraeinstellungen anzeigen|Mostrar ajustes de cámara|Mostrar ajustes da câmera
+194|촬영일 표시|Afficher la date de prise|Aufnahmedatum anzeigen|Mostrar fecha de captura|Mostrar data da captura
+195|카메라 모델 표시|Afficher le modèle d’appareil|Kameramodell anzeigen|Mostrar modelo de cámara|Mostrar modelo da câmera
+196|화면 배율|Échelle d’affichage|Anzeigeskalierung|Escala de pantalla|Escala da tela
+197|일시정지|Pause|Pause|Pausa|Pausa
+198|더 많은 도구를 준비 중입니다. 모든 처리는 기기 내에서.|D’autres outils arrivent. Tout est traité localement.|Weitere Werkzeuge folgen. Alles wird lokal verarbeitet.|Pronto más herramientas. Todo se procesa en el dispositivo.|Mais ferramentas em breve. Tudo processado no aparelho.
+199|최근 사용|Récents|Zuletzt verwendet|Recientes|Recentes
+200|최근 기록을 지웠습니다.|Historique des outils effacé.|Letzte Werkzeuge gelöscht.|Herramientas recientes borradas.|Ferramentas recentes apagadas.
+201|긴 변|Côté le plus long|Längste Kante|Lado más largo|Lado mais longo
+202|최대 새로고침 빈도|Fréquence maximale|Maximale Bildwiederholrate|Frecuencia máxima|Taxa máxima de atualização
+203|화면의 공칭 최대값이며 현재 프레임 속도가 아닙니다.|Maximum déclaré de l’écran, pas la fréquence actuelle.|Angegebenes Displaymaximum, nicht die aktuelle Bildrate.|Máximo declarado de la pantalla, no la tasa actual.|Máximo declarado da tela, não a taxa atual.
+204|미검사|Non testé|Nicht getestet|Sin probar|Não testado
+205|알 수 없는 파일|Fichier inconnu|Unbekannte Datei|Archivo desconocido|Arquivo desconhecido
+206|사진 저장 권한이 없습니다. 설정에서 사진 추가를 허용하세요.|Enregistrement refusé. Autorisez l’ajout de photos dans Réglages.|Fotosichern nicht erlaubt. In Einstellungen das Hinzufügen erlauben.|Sin permiso para guardar fotos. Permite añadir fotos en Ajustes.|Sem permissão para salvar fotos. Permita adicionar fotos em Ajustes.
+207|마이크 권한이 없습니다. 설정에서 허용하세요.|Micro non autorisé. Activez-le dans Réglages.|Mikrofon nicht erlaubt. In Einstellungen aktivieren.|Micrófono no autorizado. Actívalo en Ajustes.|Microfone não autorizado. Ative em Ajustes.
+208|선택 안 됨|Non sélectionné|Nicht ausgewählt|Sin seleccionar|Não selecionado
+209|순정 판정, 수리 판정, 활성화 잠금 조회, 펌웨어 설치는 제공하지 않습니다.|Pas de certification des pièces, de diagnostic de réparations, de recherche du verrouillage d’activation ni de flashage.|Keine Teilezertifizierung, Reparaturbewertung, Aktivierungssperrenabfrage oder Firmwareinstallation.|No certifica piezas, reparaciones ni bloqueos de activación, ni instala firmware.|Não certifica peças ou reparos, consulta Bloqueio de Ativação nem instala firmware.
+210|벨소리 29초|Sonnerie 29 s|Klingelton 29 s|Tono 29 s|Toque 29 s
+211|미니멀 검정 테두리|Cadre noir minimal|Minimaler schwarzer Rahmen|Marco negro minimalista|Moldura preta minimalista
+212|보기, 이름 변경 및 공유|Voir, renommer et partager|Ansehen, umbenennen, teilen|Ver, renombrar y compartir|Ver, renomear e compartilhar
+213|속성을 보고 이름을 바꾼 복사본을 내보냅니다. 원본은 유지됩니다.|Consultez les propriétés et exportez une copie renommée. L’original reste intact.|Eigenschaften ansehen und umbenannte Kopie exportieren. Das Original bleibt unverändert.|Consulta propiedades y exporta una copia renombrada. El original no cambia.|Veja propriedades e exporte uma cópia renomeada. O original não muda.
+214|형식|Format|Format|Formato|Formato
+215|기기에서 처리 중…|Traitement local…|Lokale Verarbeitung…|Procesando en el dispositivo…|Processando no dispositivo…
+216|내보내기 전용 문서입니다.|Document réservé à l’export.|Dieses Dokument ist nur für den Export.|Documento solo para exportación.|Documento apenas para exportação.
+217|이 기기는 선택한 출력 형식을 지원하지 않습니다.|Ce format de sortie n’est pas compatible avec cet appareil.|Gewähltes Ausgabeformat auf diesem Gerät nicht unterstützt.|El formato de salida no es compatible con este dispositivo.|O formato de saída não é compatível com este dispositivo.
+218|이 기기에 사용 가능한 손전등이 없습니다.|Aucune lampe disponible sur cet appareil.|Keine Taschenlampe auf diesem Gerät verfügbar.|No hay linterna disponible en este dispositivo.|Não há lanterna disponível neste dispositivo.
+219|이 오디오는 M4A로 내보낼 수 없습니다.|Cet audio ne peut pas être exporté en M4A.|Dieses Audio kann nicht als M4A exportiert werden.|Este audio no se puede exportar a M4A.|Este áudio não pode ser exportado como M4A.
+220|워터마크 스타일|Style de filigrane|Wasserzeichenstil|Estilo de marca de agua|Estilo da marca-d’água
+221|QR 코드를 찾지 못했습니다. 선명하고 잘리지 않은 이미지를 사용하세요.|Aucun QR lisible. Utilisez une image nette et entière.|Kein lesbarer QR-Code. Klares, vollständiges Bild verwenden.|No se encontró un QR legible. Usa una imagen nítida y completa.|Nenhum QR legível. Use uma imagem nítida e inteira.
+222|실제 오디오의 파형입니다. 내보낸 파일에서 페이드를 확인하세요.|La forme d’onde vient de l’audio. Écoutez l’export pour vérifier les fondus.|Wellenform aus dem Audio. Export zur Prüfung der Blenden anhören.|La onda procede del audio. Escucha la exportación para comprobar los fundidos.|A forma de onda vem do áudio. Ouça a exportação para conferir os fades.
+223|라이트|Clair|Hell|Claro|Claro
+224|햅틱 테스트|Tester les vibrations|Haptik testen|Probar vibración|Testar resposta tátil
+225|페이드 인/아웃|Fondu d’entrée et de sortie|Ein- und Ausblenden|Fundido de entrada y salida|Fade de entrada e saída
+226|다크|Sombre|Dunkel|Oscuro|Escuro
+227|PDF 추가|Ajouter un PDF|PDF hinzufügen|Añadir PDF|Adicionar PDF
+228|임시 파일 지우기|Effacer les fichiers temporaires|Temporäre Dateien löschen|Borrar archivos temporales|Apagar arquivos temporários
+229|저장하지 않은 결과가 삭제됩니다.|Les résultats non enregistrés seront supprimés.|Ungesicherte Ergebnisse werden entfernt.|Se eliminarán los resultados sin guardar.|Resultados não salvos serão removidos.
+230|캐시 지우기|Vider le cache|Cache leeren|Borrar caché|Limpar cache
+231|최근 도구 지우기|Effacer les outils récents|Letzte Werkzeuge löschen|Borrar herramientas recientes|Apagar ferramentas recentes
+232|사진|Photo|Foto|Foto|Foto
+233|사진-{0}.|Photo-{0}.|Foto-{0}.|Foto-{0}.|Foto-{0}.
+234|사진모음.pdf|Photos.pdf|Fotos.pdf|Fotos.pdf|Fotos.pdf
+235|구간 길이|Durée de sélection|Auswahldauer|Duración de selección|Duração da seleção
+236|버전|Version|Version|Versión|Versão
+237|물리 메모리|Mémoire physique|Physischer Speicher|Memoria física|Memória física
+238|QR 코드 생성|Générer le code QR|QR-Code erstellen|Generar código QR|Gerar código QR
+239|생성된 QR 코드|Code QR généré|Erstellter QR-Code|Código QR generado|Código QR gerado
+240|각 칸을 드래그해 반응하지 않는 부분을 확인하세요. 이 영역만 테스트합니다.|Glissez sur chaque case et vérifiez les zones sans réponse. Seule cette zone est testée.|Über jedes Feld streichen und auf Ausfälle achten. Nur dieser Bereich wird geprüft.|Desliza por cada casilla y busca zonas sin respuesta. Solo se prueba esta área.|Deslize por cada célula e observe áreas sem resposta. Apenas esta área é testada.
+241|배터리 및 저장 공간|Batterie et stockage|Akku & Speicher|Batería y espacio|Bateria e armazenamento
+242|딱 맞는 순간을 남기세요|Gardez le bon moment|Den richtigen Moment bewahren|Guarda el momento justo|Guarde o momento certo
+243|좋아하는 소리를 간직하세요|Gardez vos sons préférés|Lieblingsklänge bewahren|Conserva los sonidos que te gustan|Guarde seus sons favoritos
+244|목표 크기|Taille cible|Zielgröße|Tamaño objetivo|Tamanho desejado
+245|카메라 워터마크|Infos photo|Kamerawasserzeichen|Datos de cámara|Dados da câmera
+246|카메라 워터마크, 변환, 개인정보|Filigranes, conversion et confidentialité|Wasserzeichen, Konvertierung und Datenschutz|Marcas de agua, conversión y privacidad|Marcas-d’água, conversão e privacidade
+247|오디오 파형입니다. 아래 시간 슬라이더로 구간을 조절하세요.|Forme d’onde audio. Ajustez avec les curseurs ci-dessous.|Audiowellenform. Mit den Zeitreglern unten zuschneiden.|Onda de audio. Ajusta el corte con los controles inferiores.|Forma de onda de áudio. Ajuste o corte com os controles abaixo.
+248|짧은 벨소리 10초|Sonnerie courte 10 s|Kurzer Klingelton 10 s|Tono corto 10 s|Toque curto 10 s
+249|하드웨어 식별자|Identifiant matériel|Hardwarekennung|Identificador de hardware|Identificador de hardware
+250|오프라인 생성 및 이미지 인식|Génération hors ligne et lecture d’images|Offline erstellen und Bilder lesen|Generación sin conexión y lectura de imágenes|Geração offline e leitura de imagens
+251|파일 제거|Retirer le fichier|Datei entfernen|Quitar archivo|Remover arquivo
+252|간결한 텍스트|Texte simple|Einfacher Text|Texto sencillo|Texto simples
+253|유형|Type|Typ|Tipo|Tipo
+254|시스템 버전|Version du système|Systemversion|Versión del sistema|Versão do sistema
+255|클래식 흰 테두리|Cadre blanc classique|Klassischer weißer Rahmen|Marco blanco clásico|Moldura branca clássica
+256|종료 시간|Fin|Endzeit|Fin|Fim
+257|끝 페이지|Dernière page|Letzte Seite|Última página|Última página
+258|종료: {0}초|Fin : {0} s|Ende: {0} s|Fin: {0} s|Fim: {0} s
+259|결과|Résultat|Ergebnis|Resultado|Resultado
+260|결과는 임시 저장입니다. 보관하려면 저장하세요.|Résultats temporaires. Enregistrez une copie pour les conserver.|Ergebnisse sind temporär. Zum Behalten eine Kopie sichern.|Los resultados son temporales. Guarda una copia para conservarlos.|Os resultados são temporários. Salve uma cópia para guardá-los.
+261|서명 또는 제목（선택）|Signature ou titre (facultatif)|Signatur oder Titel (optional)|Firma o título (opcional)|Assinatura ou título (opcional)
+262|결과를 폴더에 자동 저장|Enregistrer automatiquement les résultats|Ergebnisse automatisch im Ordner sichern|Guardar resultados automáticamente|Salvar resultados automaticamente
+263|EXIF 및 위치 메타데이터 삭제|Retirer EXIF et géolocalisation|EXIF- und Standortdaten entfernen|Eliminar EXIF y ubicación|Remover EXIF e localização
+264|정상으로 보임|Aspect normal|Wirkt normal|Parece normal|Parece normal
+265|비디오|Vidéo|Video|Vídeo|Vídeo
+266|비디오 및 파일|Vidéo et fichiers|Video & Dateien|Vídeo y archivos|Vídeo e arquivos
+267|영상소리.mov|Audio-video.mov|Videoton.mov|Audio-video.mov|Audio-video.mov
+268|영상 소리 추출|Extraire l’audio vidéo|Videoton extrahieren|Extraer audio del vídeo|Extrair áudio do vídeo
+269|햅틱|Vibrations|Haptik|Vibración|Resposta tátil
+270|터치|Tactile|Touch|Tacto|Toque
+271|터치 영역 테스트|Test de couverture tactile|Touch-Abdeckung testen|Prueba de cobertura táctil|Teste de cobertura do toque
+272|모든 파일을\n알맞게.|Chaque fichier,\nà votre mesure.|Jede Datei,\ngenau richtig.|Cada archivo,\na tu medida.|Cada arquivo,\nna medida.
+273|영상의 소리를 따로 꺼내세요|Donnez sa liberté au son de vos vidéos|Videoton eigenständig nutzen|Dale vida propia al audio de tus vídeos|Dê vida própria ao áudio dos vídeos
+274|기록은 현재 화면에서만 유지됩니다. 자동 합격 판정은 없습니다.|Les observations restent sur cette page uniquement. Aucun test n’est validé automatiquement.|Beobachtungen gelten nur auf dieser Seite. Kein Test wird automatisch als bestanden markiert.|Las observaciones solo duran en esta página. Ninguna prueba se aprueba automáticamente.|As observações ficam apenas nesta página. Nenhum teste é aprovado automaticamente.
+275|종료점 설정|Définir la fin|Ende setzen|Fijar fin|Definir fim
+276|벨소리/알림음으로 설정|Définir comme sonnerie ou alerte|Als Klingel- oder Hinweiston|Usar como tono o aviso|Usar como toque ou alerta
+277|기기|Appareil|Gerät|Dispositivo|Dispositivo
+278|기기 정보|Infos appareil|Geräteinfos|Información del dispositivo|Informações do dispositivo
+279|기기 유형|Type d’appareil|Gerätetyp|Tipo de dispositivo|Tipo de dispositivo
+280|기기 자가 점검|Vérification appareil|Gerätecheck|Comprobar dispositivo|Verificar dispositivo
+281|설정|Réglages|Einstellungen|Ajustes|Ajustes
+282|인식된 내용|Contenu reconnu|Erkannter Inhalt|Contenido reconocido|Conteúdo reconhecido
+283|내보낸 소리 미리 듣기|Écouter l’audio exporté|Exportiertes Audio anhören|Escuchar audio exportado|Ouvir áudio exportado
+284|선택 구간 미리 듣기|Écouter la sélection|Auswahl anhören|Escuchar selección|Ouvir seleção
+285|언어|Langue|Sprache|Idioma|Idioma
+286|먼저 PDF를 선택하세요.|Choisissez d’abord un PDF.|Zuerst ein PDF wählen.|Elige primero un PDF.|Escolha primeiro um PDF.
+287|먼저 동기화 폴더를 선택하세요.|Choisissez d’abord un dossier synchronisé.|Zuerst einen Sync-Ordner wählen.|Elige primero una carpeta sincronizada.|Escolha primeiro uma pasta sincronizada.
+288|먼저 이미지를 선택하세요.|Choisissez d’abord une image.|Zuerst ein Bild wählen.|Elige primero una imagen.|Escolha primeiro uma imagem.
+289|구간을 확인하세요. 벨소리는 30초 이하여야 합니다.|Vérifiez la plage. Les sonneries ne doivent pas dépasser 30 secondes.|Bereich prüfen. Klingeltöne dürfen höchstens 30 Sekunden dauern.|Comprueba el rango. Los tonos deben durar como máximo 30 segundos.|Confira o intervalo. Toques devem ter no máximo 30 segundos.
+290|1~1,500바이트 텍스트 또는 URL을 입력하세요.|Saisissez un texte ou une URL de 1 à 1 500 octets.|Text oder URL mit 1–1.500 Bytes eingeben.|Introduce texto o URL de 1 a 1500 bytes.|Insira texto ou URL de 1 a 1.500 bytes.
+291|경로 구분자 없이 최대 180바이트 파일명을 입력하세요.|Nom valide sans séparateur de chemin, 180 octets maximum.|Gültigen Dateinamen ohne Pfadtrenner eingeben, maximal 180 Bytes.|Nombre válido sin separadores de ruta, máximo 180 bytes.|Nome válido sem separadores de caminho, até 180 bytes.
+292|유효한 페이지 범위를 입력하세요.|Saisissez une plage de pages valide.|Gültigen Seitenbereich eingeben.|Introduce un rango de páginas válido.|Insira um intervalo de páginas válido.
+293|폴더 읽는 중…|Lecture du dossier…|Ordner wird gelesen…|Leyendo carpeta…|Lendo pasta…
+294|품질|Qualité|Qualität|Calidad|Qualidade
+295|시작 페이지|Première page|Erste Seite|Primera página|Primeira página
+296|시스템 설정|Selon le système|Systemstandard|Según el sistema|Padrão do sistema
+297|변환, 압축, 위치 정보 삭제.|Convertir, compresser, retirer la localisation.|Konvertieren, verkleinern, Standortdaten entfernen.|Convierte, comprime o elimina la ubicación.|Converta, comprima ou remova a localização.
+298|입력 문서|Documents source|Eingabedokumente|Documentos de entrada|Documentos de entrada
+299|출력 설정|Réglages de sortie|Ausgabeeinstellungen|Ajustes de salida|Ajustes de saída
+300|카메라 메타데이터가 없습니다. 가상 정보는 추가하지 않습니다.|Aucune métadonnée photo. Aucune information ne sera inventée.|Keine Kamerametadaten. Es werden keine Angaben erfunden.|No hay metadatos de cámara. No se inventará información.|Sem metadados da câmera. Nenhuma informação será inventada.
+301|추가 확인|Vérifications complémentaires|Weitere Prüfungen|Más comprobaciones|Mais verificações
+302|소리나 영상을 고르고 파형 핸들을 드래그해 자르세요.|Choisissez un audio ou une vidéo, puis glissez les poignées pour couper.|Audio oder Video wählen und die Wellenformgriffe zum Kürzen ziehen.|Elige audio o vídeo y arrastra los controles de la onda para recortar.|Escolha áudio ou vídeo e arraste os controles da onda para cortar.
+303|iCloud Drive 폴더 선택|Choisir un dossier iCloud Drive|iCloud-Drive-Ordner wählen|Elegir carpeta de iCloud Drive|Escolher pasta do iCloud Drive
+304|범용 JPG|JPG universel|Universelles JPG|JPG universal|JPG universal
+305|복사본 이름 변경|Renommer la copie|Kopie umbenennen|Renombrar copia|Renomear cópia
+306|초기화|Réinitialiser|Zurücksetzen|Restablecer|Redefinir
+307|벨소리 만들기|Créateur de sonneries|Klingeltonstudio|Crear tonos|Criar toques
+308|벨소리 및 알림|Sonneries et alertes|Klingel- und Hinweistöne|Tonos y avisos|Toques e alertas
+309|벨소리는 최대 30초. 전화는 29초, 알림은 3~5초를 권장합니다.|30 secondes maximum. Essayez 29 secondes pour les appels, 3 à 5 pour les alertes.|Höchstens 30 Sekunden. Empfehlung: 29 für Anrufe, 3–5 für Hinweise.|Máximo 30 segundos. Prueba 29 para llamadas y 3–5 para avisos.|Máximo de 30 segundos. Use 29 para chamadas e 3–5 para alertas.
+310|손전등|Lampe torche|Taschenlampe|Linterna|Lanterna
+311|간편하게 · 기기에 안전하게|Tout simplement · Sur votre appareil|Einfach erledigt · Lokal gespeichert|Fácil y en tu dispositivo|Fácil e no seu dispositivo
+312|개인정보|Confidentialité|Datenschutz|Privacidad|Privacidade
+313|오디오|Audio|Audio|Audio|Áudio
+314|오디오 정보|Infos audio|Audioinfos|Información del audio|Informações do áudio
+315|오디오를 쓸 수 없습니다.|Écriture audio impossible.|Audio konnte nicht geschrieben werden.|No se pudo escribir el audio.|Não foi possível gravar o áudio.
+316|오디오 편집|Éditeur audio|Audioeditor|Editor de audio|Editor de áudio
+317|오디오 내보내기 실패.|Échec de l’export audio.|Audioexport fehlgeschlagen.|Error al exportar audio.|Falha ao exportar áudio.
+318|오디오 디코딩이 완료되지 않았습니다.|Décodage audio incomplet.|Audiodekodierung nicht abgeschlossen.|La decodificación no terminó.|A decodificação não foi concluída.
+319|페이지 범위（1부터）|Pages (à partir de 1)|Seitenbereich (ab 1)|Rango de páginas (desde 1)|Intervalo de páginas (a partir de 1)
+320|범위 밖입니다. 이 문서는 {0}페이지입니다.|Hors limites. Le document contient {0} pages.|Außerhalb des Bereichs. Das Dokument hat {0} Seiten.|Fuera de rango. El documento tiene {0} páginas.|Fora do intervalo. O documento tem {0} páginas.
+321|ShunBox|ShunBox|ShunBox|ShunBox|ShunBox
+322|파일 미리보기|Aperçu du fichier|Dateivorschau|Vista previa del archivo|Prévia do arquivo
+323|결과 미리보기|Aperçu du résultat|Ergebnisvorschau|Vista previa del resultado|Prévia do resultado
+324|홈|Accueil|Start|Inicio|Início
+325|마이크|Microphone|Mikrofon|Micrófono|Microfone
+326|기본 이미지 형식|Format d’image par défaut|Standardbildformat|Formato de imagen predeterminado|Formato de imagem padrão
+327|1. 30초 이내 M4A를 내보냅니다.\n2. 공유에서 벨소리로 사용을 찾으세요. 파일에 저장한 후 공유할 수도 있습니다.\n3. 설정 → 사운드 및 햅틱에서 추가된 소리를 선택합니다. 알림음 선택은 시스템과 앱에 따라 다릅니다.|1. Exportez un M4A de 30 secondes maximum.\n2. Partagez et cherchez Utiliser comme sonnerie, éventuellement depuis Fichiers.\n3. Choisissez le son dans Réglages → Sons et vibrations. Les alertes disponibles dépendent du système et de l’app.|1. M4A mit höchstens 30 Sekunden exportieren.\n2. Teilen und nach Als Klingelton verwenden suchen, auch über die Dateien-App möglich.\n3. Ton unter Einstellungen → Töne & Haptik wählen. Hinweistöne hängen von System und App ab.|1. Exporta un M4A de hasta 30 segundos.\n2. Comparte y busca Usar como tono, también desde Archivos.\n3. Elige el sonido en Ajustes → Sonidos y vibraciones. Los avisos disponibles dependen del sistema y la app.|1. Exporte um M4A de até 30 segundos.\n2. Compartilhe e procure Usar como toque, também pelo app Arquivos.\n3. Escolha o som em Ajustes → Sons e Tato. Alertas disponíveis dependem do sistema e do app.
+328|M4A는 작습니다. WAV/AIFF/CAF는 44.1 kHz, 16비트 스테레오 PCM으로 더 큽니다. 손실된 음질은 복구되지 않습니다.|M4A est compact. WAV/AIFF/CAF utilisent du PCM stéréo 44,1 kHz, 16 bits et sont plus volumineux. La qualité perdue n’est pas restaurée.|M4A ist kompakt. WAV/AIFF/CAF verwenden 44,1 kHz, 16-Bit-Stereo-PCM und sind größer. Verlorene Qualität wird nicht wiederhergestellt.|M4A ocupa menos. WAV/AIFF/CAF usan PCM estéreo de 44,1 kHz y 16 bits, y ocupan más. No recuperan calidad perdida.|M4A é compacto. WAV/AIFF/CAF usam PCM estéreo de 44,1 kHz e 16 bits e são maiores. Qualidade perdida não é recuperada.
+329|MOV/MP4 등 시스템 지원 영상에서 소리를 추출합니다. 트랙 없음, 암호화 또는 미지원 코덱은 오류를 표시합니다.|Extraction des vidéos compatibles, dont MOV/MP4. Une piste absente, chiffrée ou un codec incompatible produit une erreur.|Ton aus unterstützten Videos wie MOV/MP4 extrahieren. Fehlende Spuren, Verschlüsselung oder inkompatible Codecs erzeugen Fehler.|Extrae audio de vídeos compatibles como MOV/MP4. Pistas ausentes, cifrado o códecs incompatibles generan un error.|Extraia áudio de vídeos compatíveis como MOV/MP4. Ausência de faixa, criptografia ou codec incompatível gera erro.
+330|MP3는 가져오기만 지원합니다. DRM 음악은 변환할 수 없습니다. 영상 소리는 먼저 M4A로 추출합니다. PCM으로 손실된 음질을 복구할 수 없습니다.|MP3 en import uniquement. Pas de conversion des musiques protégées par DRM. L’audio vidéo est d’abord extrait en M4A. Le PCM ne restaure pas la qualité perdue.|MP3 nur als Import. Keine Konvertierung DRM-geschützter Musik. Videoton wird zuerst als M4A extrahiert. PCM stellt verlorene Qualität nicht wieder her.|MP3 solo se importa. No se convierte música con DRM. El audio del vídeo se extrae primero a M4A. PCM no recupera calidad perdida.|MP3 apenas para importação. Música com DRM não pode ser convertida. Áudio de vídeo é extraído primeiro em M4A. PCM não recupera qualidade perdida.
+331|PDF는 결합 및 연속 페이지 추출을 지원합니다. 파일 관리의 가져오기는 시스템 선택기에 따르며 미리보기는 Quick Look 지원에 따라 다릅니다.|PDF : fusion et extraction de pages consécutives. L’import dépend du sélecteur système et l’aperçu de Quick Look.|PDF: Zusammenfügen und aufeinanderfolgende Seiten extrahieren. Import gemäß Systemauswahl, Vorschau abhängig von Quick Look.|PDF: unión y extracción de páginas consecutivas. La importación depende del selector y la vista previa de Quick Look.|PDF: mesclagem e extração de páginas consecutivas. A importação depende do seletor e a prévia do Quick Look.
+332|원본 메타데이터 제거를 위해 픽셀을 재인코딩합니다. 워터마크나 사진 속 주소 등 보이는 내용은 탐지하거나 지우지 않습니다.|Les pixels sont réencodés pour supprimer les métadonnées. Les éléments visibles, comme filigranes et adresses, ne sont ni détectés ni effacés.|Pixel werden zum Entfernen der Metadaten neu kodiert. Sichtbare Wasserzeichen oder Adressen werden nicht erkannt oder entfernt.|Los píxeles se recodifican para quitar metadatos. Marcas de agua y direcciones visibles no se detectan ni borran.|Os pixels são recodificados para remover metadados. Marcas-d’água e endereços visíveis não são detectados nem apagados.
+333|항목이 없으면 M4A를 GarageBand로 가져와 공유 → 벨소리 → 내보내기를 선택하세요. 앱은 파일을 만들고 공유하며 설치는 iOS가 처리합니다.|Si l’option manque, importez le M4A dans GarageBand, puis Partager → Sonnerie → Exporter. L’app crée et partage ; iOS gère l’installation.|Fehlt die Option, M4A in GarageBand importieren: Teilen → Klingelton → Exportieren. Die App erstellt und teilt Dateien; iOS übernimmt die Installation.|Si falta la opción, importa el M4A a GarageBand: Compartir → Tono → Exportar. La app crea y comparte; iOS instala.|Se a opção não aparecer, importe o M4A no GarageBand: Compartilhar → Toque → Exportar. O app cria e compartilha; o iOS instala.
+334|완전 오프라인으로 내용을 이미지에 넣습니다. 공개하고 싶지 않은 비밀번호나 개인정보를 넣지 마세요.|Création hors ligne. Le contenu est encodé dans l’image. N’y incluez pas de mots de passe ou de données privées.|Vollständig offline erstellt. Inhalt wird im Bild kodiert. Keine vertraulichen Passwörter oder persönlichen Daten einfügen.|Se genera sin conexión y el contenido se codifica en la imagen. No incluyas contraseñas ni datos privados.|Gerado offline, com o conteúdo codificado na imagem. Não inclua senhas ou dados privados.
+335|가져온 복사본과 결과는 임시 캐시입니다. 하루 지난 캐시는 다음 실행 시 지웁니다. 저장·공유 후에는 대상 앱이 관리합니다. 최근 기록은 도구 종류만 저장합니다.|Copies et résultats sont temporaires. Le cache de plus d’un jour est effacé au prochain lancement. Après partage ou sauvegarde, l’app cible gère les fichiers. L’historique ne stocke que les types d’outils.|Importkopien und Ergebnisse sind temporär. Cache über einen Tag wird beim nächsten Start gelöscht. Geteilte oder gesicherte Dateien verwaltet die Ziel-App. Verlauf speichert nur Werkzeugtypen.|Copias y resultados se guardan temporalmente. La caché de más de un día se borra al iniciar. Tras guardar o compartir, la app de destino los gestiona. Recientes guarda solo tipos de herramientas.|Cópias e resultados são temporários. Cache com mais de um dia é apagado na próxima abertura. Após salvar ou compartilhar, o app de destino gerencia os arquivos. Recentes guarda apenas tipos de ferramenta.
+336|주요 입력: MP3, M4A, AAC, WAV, AIFF, CAF, FLAC. 실제 지원은 코덱, 시스템 디코더, 콘텐츠 보호에 따라 다릅니다.|Entrées courantes : MP3, M4A, AAC, WAV, AIFF, CAF, FLAC. La compatibilité dépend des codecs, du système et des protections.|Typische Eingaben: MP3, M4A, AAC, WAV, AIFF, CAF, FLAC. Unterstützung hängt von Codecs, Systemdecodern und Inhaltsschutz ab.|Entradas habituales: MP3, M4A, AAC, WAV, AIFF, CAF, FLAC. Depende de códecs, decodificadores y protección.|Entradas comuns: MP3, M4A, AAC, WAV, AIFF, CAF, FLAC. Depende de codecs, decodificadores e proteção.
+337|일련번호, IMEI, 보증 및 부품 기록은 설정 → 일반 → 정보, 배터리 성능은 설정 → 배터리에서 확인하세요.|Numéro de série, IMEI, garantie et pièces : Réglages → Général → Informations. État de batterie : Réglages → Batterie.|Seriennummer, IMEI, Garantie und Teile: Einstellungen → Allgemein → Info. Akkuzustand: Einstellungen → Batterie.|Número de serie, IMEI, garantía y piezas: Ajustes → General → Información. Salud de batería: Ajustes → Batería.|Número de série, IMEI, garantia e peças: Ajustes → Geral → Sobre. Saúde da bateria: Ajustes → Bateria.
+338|목표 크기를 위해 품질과 크기를 더 낮출 수 있습니다. 미리보기는 스타일만 표시하며 최종 화질은 내보낸 파일을 확인하세요.|Qualité et dimensions peuvent être réduites pour atteindre la cible. L’aperçu montre le style ; vérifiez la netteté dans l’export.|Qualität und Maße können weiter reduziert werden. Vorschau zeigt nur den Stil; endgültige Schärfe im Export prüfen.|Calidad y dimensiones pueden reducirse para alcanzar el tamaño. La vista previa muestra el estilo; comprueba la calidad exportada.|Qualidade e dimensões podem ser reduzidas. A prévia mostra o estilo; confira a qualidade no arquivo exportado.
+339|변환은 기기 내에서 수행합니다. 로그인, 기본 업로드, 광고·추적 SDK가 없습니다. 폴더 저장을 켜면 선택한 제공자가 동기화합니다. 사진은 시스템 선택기로 가져오고 저장 시 추가 권한을 요청합니다.|Conversion locale, sans connexion de compte, envoi par défaut ni SDK publicitaire ou de suivi. La sauvegarde dans un dossier utilise votre fournisseur. Photos via le sélecteur système ; permission d’ajout à l’enregistrement.|Konvertierung lokal. Kein Login, Standardupload, Werbe- oder Tracking-SDK. Ordnersync erfolgt durch den gewählten Anbieter. Fotos über Systemauswahl; Hinzufügen-Erlaubnis erst beim Sichern.|Conversión local. Sin cuenta, subidas predeterminadas ni SDK de anuncios o seguimiento. El proveedor elegido sincroniza la carpeta. Fotos usa el selector; el permiso para añadir se pide al guardar.|Conversão local. Sem login, envio padrão ou SDK de anúncios e rastreamento. O provedor escolhido sincroniza a pasta. Fotos usa o seletor; permissão para adicionar só ao salvar.
+340|모든 출력은 원본 메타데이터 없이 재인코딩하며 확대하지 않습니다. JPG 투명 영역은 흰색, 출력은 SDR입니다. 애니메이션과 GIF 출력은 첫 프레임만 처리합니다. 형식은 기기 인코더에 따릅니다.|Sorties réencodées sans métadonnées, sans agrandissement. Transparence JPG blanche, sortie SDR. Animations et GIF : première image uniquement. Formats selon les encodeurs disponibles.|Ausgaben neu kodiert, ohne Quellmetadaten und ohne Hochskalierung. JPG-Transparenz weiß, Ausgabe SDR. Animationen und GIF-Ausgabe nur erstes Bild. Formate je nach Encoder.|Salidas recodificadas sin metadatos ni ampliación. Transparencia JPG blanca, salida SDR. Animaciones y GIF: solo primer fotograma. Formatos según codificadores disponibles.|Saídas recodificadas sem metadados ou ampliação. Transparência JPG branca, saída SDR. Animações e GIF: apenas primeiro quadro. Formatos conforme codificadores disponíveis.
+341|위에서 스타일을 확인하세요. 정보는 각 원본에서 읽고 없는 값은 생략합니다. 모델명과 날짜는 이미지 내용이 됩니다. 위치는 추가하지 않습니다. 테두리는 높이를 늘립니다.|Style visible ci-dessus. Données de chaque original ; champs absents omis. Modèle et date deviennent du contenu visible. Aucune localisation ajoutée. Le cadre augmente la hauteur.|Stil oben sichtbar. Daten aus jedem Original; fehlende Felder entfallen. Modell und Datum werden Bildinhalt. Kein Standort hinzugefügt. Rahmen erhöhen die Höhe.|El estilo se ve arriba. Datos de cada original; campos ausentes omitidos. Modelo y fecha pasan a ser imagen. No se añade ubicación. El marco aumenta la altura.|Estilo acima. Dados de cada original; campos ausentes são omitidos. Modelo e data viram conteúdo visível. Não adiciona localização. Molduras aumentam a altura.
+342|용량은 앱 파일 시스템 기준이며 공칭 용량이 아닙니다. 배터리 성능이나 사이클 수는 읽지 않습니다.|Stockage du système de fichiers, pas la capacité annoncée. État de batterie et cycles non lus.|Speicher des App-Dateisystems, nicht die beworbene Kapazität. Akkuzustand und Zyklen werden nicht gelesen.|Espacio del sistema de archivos, no capacidad anunciada. No se lee salud ni ciclos de batería.|Espaço do sistema de arquivos, não capacidade anunciada. Não lê saúde nem ciclos da bateria.
+343|iCloud Drive나 파일 제공자의 폴더를 선택하세요. 로컬 폴더는 로컬 백업만 합니다. 결과 파일만 동기화하며 설정·즐겨찾기는 제외합니다. 클라우드 업로드 완료는 확인하지 않습니다.|Choisissez iCloud Drive ou un autre fournisseur. Un dossier local reste une sauvegarde locale. Seuls les résultats sont synchronisés, pas les réglages ni favoris. Fin d’envoi cloud non confirmée.|iCloud Drive oder anderen Anbieter wählen. Lokaler Ordner ist nur lokale Sicherung. Nur Ergebnisdateien synchronisiert, keine Einstellungen oder Favoriten. Cloud-Abschluss wird nicht bestätigt.|Elige iCloud Drive u otro proveedor. Una carpeta local solo hace copia local. Se sincronizan resultados, no ajustes ni favoritos. No se confirma el fin de subida.|Escolha iCloud Drive ou outro provedor. Pasta local é apenas cópia local. Sincroniza resultados, não ajustes nem favoritos. Não confirma conclusão do envio.
+344|iCloud Drive 전용 폴더를 선택하고 다른 기기도 같은 폴더를 선택하세요. 저장을 선택하거나 자동 저장을 켠 경우에만 파일을 씁니다.|Choisissez un dossier iCloud Drive dédié, puis le même sur les autres appareils. Écriture seulement lors d’une sauvegarde ou si la sauvegarde automatique est activée.|Eigenen iCloud-Drive-Ordner auf allen Geräten wählen. Schreiben nur beim Sichern oder aktivierter automatischer Sicherung.|Elige una carpeta dedicada de iCloud Drive y la misma en otros dispositivos. Solo se escribe al guardar o activar guardado automático.|Escolha uma pasta dedicada do iCloud Drive e a mesma nos outros dispositivos. Só grava ao salvar ou ativar salvamento automático.
+345|App Store에 연결할 수 없습니다. 나중에 다시 시도하세요.|Connexion à l’App Store impossible. Réessayez plus tard.|App Store nicht erreichbar. Später erneut versuchen.|No se conecta al App Store. Inténtalo más tarde.|Não foi possível conectar à App Store. Tente mais tarde.
+346|구매를 확인할 수 없습니다. 나중에 구매를 복원하세요.|Achat non vérifié. Essayez de restaurer plus tard.|Kauf nicht verifiziert. Später wiederherstellen.|No se verificó la compra. Restaúrala más tarde.|Compra não verificada. Tente restaurar mais tarde.
+347|구매 승인 대기 중입니다. 완료 시 자동 업데이트됩니다.|Achat en attente d’approbation. Mise à jour automatique ensuite.|Kauf wartet auf Genehmigung. Status wird automatisch aktualisiert.|Compra pendiente de aprobación. Se actualizará automáticamente.|Compra aguardando aprovação. Atualização automática depois.
+348|이 Apple 계정에 복원 가능한 구매가 없습니다.|Aucun achat à restaurer pour ce compte Apple.|Kein wiederherstellbarer Kauf für diesen Apple Account.|No hay compras restaurables en esta cuenta de Apple.|Nenhuma compra para restaurar nesta Conta Apple.
+349|모든 도구는 무료이며 무제한입니다. 후원은 선택이며 기능에 영향이 없습니다.|Tous les outils sont gratuits et illimités. Le soutien est facultatif et ne limite aucune fonction.|Alle Werkzeuge sind kostenlos und unbegrenzt. Unterstützung ist freiwillig, ohne Funktionseinschränkung.|Todas las herramientas son gratis e ilimitadas. Apoyar es opcional y no afecta funciones.|Todas as ferramentas são grátis e ilimitadas. Apoiar é opcional e não afeta funções.
+350|후원해 주셔서 감사합니다|Merci pour votre soutien|Danke für deine Unterstützung|Gracias por tu apoyo|Obrigado pelo apoio
+351|후원 상품을 현재 사용할 수 없습니다. 나중에 다시 시도하세요. 모든 도구는 사용할 수 있습니다.|Achat indisponible. Réessayez plus tard. Tous les outils restent accessibles.|Kauf derzeit nicht verfügbar. Später versuchen. Alle Werkzeuge bleiben nutzbar.|Compra no disponible ahora. Inténtalo luego. Todas las herramientas funcionan.|Compra indisponível no momento. Tente depois. Todas as ferramentas funcionam.
+352|다시 불러오기|Recharger|Neu laden|Recargar|Recarregar
+353|구매 복원|Restaurer les achats|Käufe wiederherstellen|Restaurar compras|Restaurar compras
+354|개발자 후원|Soutenir le créateur|Entwickler unterstützen|Apoyar al creador|Apoiar o criador
+355|ShunBox가 좋다면 개발자를 응원하세요|ShunBox vous plaît ? Soutenez sa création|ShunBox gefällt dir? Unterstütze die Entwicklung|¿Te gusta ShunBox? Apoya a su creador|Gostou do ShunBox? Apoie o criador
+356|도구는 영구 무료 · 후원은 선택|Outils gratuits · Soutien facultatif|Dauerhaft gratis · Unterstützung freiwillig|Herramientas gratis · Apoyo opcional|Ferramentas grátis · Apoio opcional
+357|빠른 작업|Actions rapides|Schnellaktionen|Acciones rápidas|Ações rápidas
+358|단축어에서 ShunBox를 찾아 도구 열기, 이미지 변환, QR 생성 작업을 추가하세요. 변환 및 생성 결과 파일에 저장이나 공유 작업을 연결할 수 있습니다.|Dans Raccourcis, cherchez ShunBox : ouvrir un outil, convertir une image, créer un QR. Les fichiers renvoyés peuvent être sauvegardés ou partagés par l’action suivante.|In Kurzbefehle nach ShunBox suchen: Werkzeug öffnen, Bild konvertieren, QR erstellen. Ergebnisdateien lassen sich in Folgeaktionen sichern oder teilen.|Busca ShunBox en Atajos: abrir herramientas, convertir imágenes o generar QR. Los archivos resultantes se pueden guardar o compartir en la siguiente acción.|Busque ShunBox em Atalhos: abrir ferramentas, converter imagens ou gerar QR. Os arquivos retornados podem ser salvos ou compartilhados na próxima ação.
+359|Siri로 단축어를 실행할 수 있습니다. 시스템 지능은 기기·언어·지역에 따라 다릅니다. 이 앱은 파일을 AI 서비스에 업로드하지 않습니다.|Siri peut exécuter vos raccourcis. Les fonctions intelligentes dépendent de l’appareil, langue et région. L’app n’envoie pas vos fichiers à des services IA.|Siri kann Kurzbefehle ausführen. Intelligenzfunktionen hängen von Gerät, Sprache und Region ab. Diese App lädt keine Dateien zu KI-Diensten hoch.|Siri ejecuta tus atajos. Las funciones inteligentes dependen del dispositivo, idioma y región. Esta app no sube archivos a servicios de IA.|Siri executa seus atalhos. Recursos inteligentes dependem de aparelho, idioma e região. Este app não envia arquivos a serviços de IA.
+360|App Intents 작업을 제공합니다. 임의 자연어 실행은 보장하지 않으며 화면 읽기나 자동 벨소리 설치는 제공하지 않습니다.|Actions App Intents disponibles. L’exécution de toute formulation naturelle n’est pas garantie. Ni lecture d’écran ni installation automatique de sonneries.|App-Intents-Aktionen verfügbar. Beliebige natürliche Sprache wird nicht garantiert. Kein Bildschirmlesen oder automatische Klingeltoninstallation.|Ofrece acciones App Intents. No garantiza cualquier orden en lenguaje natural. No lee la pantalla ni instala tonos automáticamente.|Oferece ações App Intents. Não garante qualquer comando em linguagem natural. Não lê a tela nem instala toques automaticamente.
+361|단축어 및 Siri|Raccourcis et Siri|Kurzbefehle & Siri|Atajos y Siri|Atalhos e Siri
+362|처리된 이미지를 사진 보관함에 저장합니다.|Enregistrer les images traitées dans votre photothèque.|Bearbeitete Bilder in deiner Fotomediathek sichern.|Guardar imágenes procesadas en tu fototeca.|Salvar imagens processadas na sua fototeca.
+363|마이크 테스트를 시작할 때만 녹음하며 기기에서 재생합니다.|Enregistrer uniquement au lancement du test micro, pour une lecture locale.|Nur beim Start des Mikrofontests für lokale Wiedergabe aufnehmen.|Grabar solo al iniciar la prueba de micrófono, para reproducción local.|Gravar apenas ao iniciar o teste de microfone, para reprodução local.
+364|ShunBox에 오신 것을 환영합니다|Bienvenue dans ShunBox|Willkommen bei ShunBox|Te damos la bienvenida a ShunBox|Boas-vindas ao ShunBox
+365|이미지 변환, 압축 및 카메라 워터마크|Conversion, compression et filigranes photo|Bildkonvertierung, Kompression und Wasserzeichen|Conversión, compresión y marcas de agua|Conversão, compressão e marcas-d’água
+366|벨소리 편집 및 영상 소리 추출|Sonneries et extraction audio vidéo|Klingeltonschnitt und Videotonextraktion|Edición de tonos y extracción de audio|Edição de toques e extração de áudio
+367|PDF, QR 코드 및 기기 점검|PDF, codes QR et vérification appareil|PDFs, QR-Codes und Gerätechecks|PDF, códigos QR y pruebas del dispositivo|PDFs, códigos QR e testes do dispositivo
+368|무료 도구, 여러분의 후원으로|Gratuit, grâce à votre soutien|Kostenlos, mit deiner Unterstützung|Gratis, con tu apoyo|Grátis, com seu apoio
+369|모든 기능은 무료·무제한입니다. 처음 7일은 광고가 없습니다. 이후 개발과 유지보수를 위해 변환 완료 후 광고가 표시될 수 있습니다.|Toutes les fonctions sont gratuites et illimitées. Les 7 premiers jours sont sans publicité. Ensuite, des annonces peuvent apparaître après conversion pour financer le développement et la maintenance.|Alle Funktionen kostenlos und unbegrenzt. Die ersten 7 Tage werbefrei. Danach können Anzeigen nach Konvertierungen Entwicklung und Wartung finanzieren.|Todas las funciones son gratis e ilimitadas. Los primeros 7 días no tienen anuncios. Después pueden aparecer al terminar conversiones para apoyar desarrollo y mantenimiento.|Todas as funções são grátis e ilimitadas. Os primeiros 7 dias são sem anúncios. Depois podem aparecer ao concluir conversões para apoiar desenvolvimento e manutenção.
+370|한 번 구매하면 광고가 영구 제거됩니다. 구독·자동 갱신이 아닙니다. 구매하지 않아도 모든 도구를 사용할 수 있습니다.|Un achat supprime la publicité définitivement. Aucun abonnement ni renouvellement. Tous les outils restent accessibles sans achat.|Ein Kauf entfernt Werbung dauerhaft. Kein Abo, keine Verlängerung. Alle Werkzeuge bleiben ohne Kauf vollständig nutzbar.|Una compra quita los anuncios para siempre. Sin suscripción ni renovación. Todas las herramientas siguen disponibles sin comprar.|Uma compra remove anúncios para sempre. Sem assinatura ou renovação. Todas as ferramentas continuam disponíveis sem comprar.
+371|현재 버전에는 광고가 활성화되지 않았습니다. 활성화 시 위 정책이 적용됩니다. 광고 로드 실패는 결과에 영향을 주지 않습니다.|La publicité n’est pas active dans cette version. Ces règles s’appliqueront à son activation. Un échec de chargement n’affecte jamais les résultats.|In dieser Version ist Werbung nicht aktiviert. Bei Aktivierung gelten obige Regeln. Ladefehler beeinträchtigen Ergebnisse nie.|Esta versión aún no activa anuncios. Se aplicará esta política al activarlos. Un fallo de carga nunca afecta resultados.|Esta versão ainda não exibe anúncios. A política valerá quando ativados. Falha no carregamento nunca afeta resultados.
+372|권한은 직접 선택하세요|Vous choisissez les autorisations|Du bestimmst die Berechtigungen|Tú decides los permisos|Você escolhe as permissões
+373|사진은 시스템 선택기로 가져오며 저장 시에만 추가 권한을 요청합니다. 마이크는 녹음 테스트 시작 시에만, iCloud는 선택한 폴더만 접근합니다.|Photos via le sélecteur système ; ajout autorisé seulement à la sauvegarde. Micro uniquement au test d’enregistrement. iCloud uniquement pour les dossiers choisis.|Fotos über Systemauswahl; Hinzufügen-Erlaubnis erst beim Sichern. Mikrofon erst beim Aufnahmetest. iCloud nur für gewählte Ordner.|Fotos usa el selector; permiso para añadir solo al guardar. Micrófono solo al iniciar la prueba. iCloud solo en carpetas elegidas.|Fotos usa o seletor; permissão para adicionar só ao salvar. Microfone só ao iniciar o teste. iCloud apenas nas pastas escolhidas.
+374|지금 권한을 한꺼번에 요청하지 않습니다. 거부하면 해당 기능만 제한됩니다. 광고 추적은 별도 동의가 필요하며 거부해도 도구를 쓸 수 있습니다.|Aucune demande groupée maintenant. Un refus ne concerne que la fonction liée. Le suivi publicitaire exige un consentement distinct ; le refus ne bloque pas les outils.|Keine pauschalen Berechtigungsanfragen. Ablehnung betrifft nur die jeweilige Funktion. Werbetracking braucht separate Zustimmung; Ablehnung sperrt keine Werkzeuge.|No se piden todos los permisos ahora. Rechazarlos solo afecta a su función. El seguimiento requiere consentimiento aparte; negarlo no bloquea herramientas.|Não pedimos todas as permissões agora. Recusar afeta só a função correspondente. Rastreamento exige consentimento separado; recusar não bloqueia ferramentas.
+375|무료로 계속|Continuer gratuitement|Kostenlos fortfahren|Continuar gratis|Continuar grátis
+376|광고 영구 제거 · {0}|Sans pub à vie · {0}|Dauerhaft werbefrei · {0}|Sin anuncios para siempre · {0}|Sem anúncios para sempre · {0}
+377|광고 영구 제거 안내|À propos de la suppression des pubs|Über dauerhafte Werbefreiheit|Sobre quitar anuncios para siempre|Sobre remover anúncios para sempre
+378|감사합니다! 광고가 영구 제거되었습니다.|Merci ! Publicité supprimée définitivement.|Danke! Werbung dauerhaft entfernt.|¡Gracias! Anuncios eliminados para siempre.|Obrigado! Anúncios removidos para sempre.
+379|광고 영구 제거가 복원되었습니다.|Suppression définitive restaurée.|Dauerhafte Werbefreiheit wiederhergestellt.|Eliminación permanente restaurada.|Remoção permanente restaurada.
+380|광고 제거로 독립 개발 후원|Sans publicité, pour soutenir la création|Werbung entfernen, Entwicklung unterstützen|Quita anuncios y apoya la creación|Remova anúncios e apoie a criação
+381|한 번 구매로 광고 영구 제거. 구독·갱신이 아닙니다. 현재는 광고 미활성 상태입니다. 같은 Apple 계정으로 복원할 수 있습니다.|Un achat, sans publicité à vie. Aucun abonnement. Publicité non active actuellement. Restauration avec le même compte Apple.|Ein Kauf, dauerhaft werbefrei. Kein Abo. Werbung derzeit nicht aktiv. Mit gleichem Apple Account wiederherstellbar.|Una compra, sin anuncios para siempre. Sin suscripción. Aún no hay anuncios activos. Restaura con la misma cuenta de Apple.|Uma compra, sem anúncios para sempre. Sem assinatura. Anúncios ainda não ativos. Restaure com a mesma Conta Apple.

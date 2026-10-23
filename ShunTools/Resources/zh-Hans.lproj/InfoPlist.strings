@@ -1,0 +1,3 @@
+"CFBundleDisplayName" = "顺匣";
+"NSPhotoLibraryAddUsageDescription" = "将处理后的图片保存到你的相册。";
+"NSMicrophoneUsageDescription" = "仅在你开始麦克风自检时录音，用于本机回放。";

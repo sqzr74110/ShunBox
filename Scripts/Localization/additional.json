@@ -1,0 +1,2844 @@
+{
+  "-剪辑.": {
+    "ko": "-편집.",
+    "fr": "-coupé.",
+    "de": "-gekürzt.",
+    "es": "-recortado.",
+    "pt-BR": "-cortado."
+  },
+  "-处理.": {
+    "ko": "-처리됨.",
+    "fr": "-traité.",
+    "de": "-bearbeitet.",
+    "es": "-procesado.",
+    "pt-BR": "-processado."
+  },
+  "0.1 秒 · 提示音": {
+    "ko": "0.1초 · 알림",
+    "fr": "0,1 s · Alerte",
+    "de": "0,1 s · Hinweis",
+    "es": "0,1 s · Aviso",
+    "pt-BR": "0,1 s · Alerta"
+  },
+  "0.5 秒": {
+    "ko": "0.5초",
+    "fr": "0,5 s",
+    "de": "0,5 s",
+    "es": "0,5 s",
+    "pt-BR": "0,5 s"
+  },
+  "1 秒": {
+    "ko": "1초",
+    "fr": "1 s",
+    "de": "1 s",
+    "es": "1 s",
+    "pt-BR": "1 s"
+  },
+  "2 秒": {
+    "ko": "2초",
+    "fr": "2 s",
+    "de": "2 s",
+    "es": "2 s",
+    "pt-BR": "2 s"
+  },
+  "Apple 官方：使用 GarageBand 制作铃声": {
+    "ko": "Apple: GarageBand 벨소리 만들기",
+    "fr": "Apple : sonnerie avec GarageBand",
+    "de": "Apple: Klingelton mit GarageBand",
+    "es": "Apple: tonos con GarageBand",
+    "pt-BR": "Apple: toques com GarageBand"
+  },
+  "Apple 官方：零件与维修历史": {
+    "ko": "Apple: 부품 및 서비스 기록",
+    "fr": "Apple : historique des réparations",
+    "de": "Apple: Teile- und Serviceverlauf",
+    "es": "Apple: historial de piezas y servicio",
+    "pt-BR": "Apple: histórico de peças e serviço"
+  },
+  "BMP · 兼容位图": {
+    "ko": "BMP · 비트맵",
+    "fr": "BMP · Bitmap",
+    "de": "BMP · Bitmap",
+    "es": "BMP · Mapa de bits",
+    "pt-BR": "BMP · Bitmap"
+  },
+  "GIF · 静态单帧": {
+    "ko": "GIF · 정지 이미지",
+    "fr": "GIF · Image fixe",
+    "de": "GIF · Einzelbild",
+    "es": "GIF · Imagen fija",
+    "pt-BR": "GIF · Imagem estática"
+  },
+  "HEIC · 节省空间": {
+    "ko": "HEIC · 공간 절약",
+    "fr": "HEIC · Compact",
+    "de": "HEIC · Platzsparend",
+    "es": "HEIC · Ahorra espacio",
+    "pt-BR": "HEIC · Economiza espaço"
+  },
+  "JPG · 通用分享": {
+    "ko": "JPG · 공유용",
+    "fr": "JPG · Partage facile",
+    "de": "JPG · Einfach teilen",
+    "es": "JPG · Fácil de compartir",
+    "pt-BR": "JPG · Fácil de compartilhar"
+  },
+  "M4A · 推荐铃声 / 分享": {
+    "ko": "M4A · 벨소리 및 공유",
+    "fr": "M4A · Sonneries et partage",
+    "de": "M4A · Klingeltöne und Teilen",
+    "es": "M4A · Tonos y compartir",
+    "pt-BR": "M4A · Toques e compartilhamento"
+  },
+  "M4R · 铃声兼容格式": {
+    "ko": "M4R · 벨소리 형식",
+    "fr": "M4R · Sonnerie",
+    "de": "M4R · Klingeltonformat",
+    "es": "M4R · Formato de tono",
+    "pt-BR": "M4R · Formato de toque"
+  },
+  "PDF · 多图合集": {
+    "ko": "PDF · 사진 모음",
+    "fr": "PDF · Album photos",
+    "de": "PDF · Fotosammlung",
+    "es": "PDF · Colección de fotos",
+    "pt-BR": "PDF · Coleção de fotos"
+  },
+  "PDF 写入失败，请检查可用存储空间。": {
+    "ko": "PDF를 저장할 수 없습니다. 저장 공간을 확인하세요.",
+    "fr": "Écriture du PDF impossible. Vérifiez l’espace libre.",
+    "de": "PDF konnte nicht geschrieben werden. Speicherplatz prüfen.",
+    "es": "No se pudo guardar el PDF. Comprueba el espacio libre.",
+    "pt-BR": "Não foi possível gravar o PDF. Verifique o espaço livre."
+  },
+  "PDF 整理": {
+    "ko": "PDF 정리",
+    "fr": "Gestion PDF",
+    "de": "PDF-Werkzeuge",
+    "es": "Organizar PDF",
+    "pt-BR": "Organizar PDF"
+  },
+  "PDF：多张图片合成 A4 文档": {
+    "ko": "PDF: 이미지를 A4 문서로 결합",
+    "fr": "PDF : regrouper des images en A4",
+    "de": "PDF: Bilder als A4-Dokument",
+    "es": "PDF: unir imágenes en un documento A4",
+    "pt-BR": "PDF: reunir imagens em um documento A4"
+  },
+  "PNG · 透明图片": {
+    "ko": "PNG · 투명 이미지",
+    "fr": "PNG · Transparence",
+    "de": "PNG · Transparenz",
+    "es": "PNG · Transparencia",
+    "pt-BR": "PNG · Transparência"
+  },
+  "TIFF · 图像交换": {
+    "ko": "TIFF · 이미지 교환",
+    "fr": "TIFF · Échange d’images",
+    "de": "TIFF · Bildaustausch",
+    "es": "TIFF · Intercambio de imágenes",
+    "pt-BR": "TIFF · Intercâmbio de imagens"
+  },
+  "UTF-8 字节数": {
+    "ko": "UTF-8 바이트",
+    "fr": "Octets UTF-8",
+    "de": "UTF-8-Bytes",
+    "es": "Bytes UTF-8",
+    "pt-BR": "Bytes UTF-8"
+  },
+  "iCloud 与文件同步": {
+    "ko": "iCloud 및 파일 동기화",
+    "fr": "iCloud et synchronisation",
+    "de": "iCloud & Dateisync",
+    "es": "iCloud y sincronización",
+    "pt-BR": "iCloud e sincronização"
+  },
+  "{0} 像素": {
+    "ko": "{0}픽셀",
+    "fr": "{0} pixels",
+    "de": "{0} Pixel",
+    "es": "{0} píxeles",
+    "pt-BR": "{0} pixels"
+  },
+  "{0} 秒": {
+    "ko": "{0}초",
+    "fr": "{0} s",
+    "de": "{0} s",
+    "es": "{0} s",
+    "pt-BR": "{0} s"
+  },
+  "{0} 秒 · {1} · {2}": {
+    "ko": "{0}초 · {1} · {2}",
+    "fr": "{0} s · {1} · {2}",
+    "de": "{0} s · {1} · {2}",
+    "es": "{0} s · {1} · {2}",
+    "pt-BR": "{0} s · {1} · {2}"
+  },
+  "{0}-剪辑.m4a": {
+    "ko": "{0}-편집.m4a",
+    "fr": "{0}-coupé.m4a",
+    "de": "{0}-gekürzt.m4a",
+    "es": "{0}-recortado.m4a",
+    "pt-BR": "{0}-cortado.m4a"
+  },
+  "一键添加相机水印": {
+    "ko": "카메라 워터마크 추가",
+    "fr": "Ajouter les infos photo",
+    "de": "Kamerawasserzeichen hinzufügen",
+    "es": "Añadir datos de cámara",
+    "pt-BR": "Adicionar dados da câmera"
+  },
+  "上传 ≤ 1 MB": {
+    "ko": "업로드 ≤ 1 MB",
+    "fr": "Envoi ≤ 1 Mo",
+    "de": "Upload ≤ 1 MB",
+    "es": "Subida ≤ 1 MB",
+    "pt-BR": "Envio ≤ 1 MB"
+  },
+  "上移文件": {
+    "ko": "파일 위로 이동",
+    "fr": "Monter le fichier",
+    "de": "Datei nach oben",
+    "es": "Subir archivo",
+    "pt-BR": "Mover arquivo para cima"
+  },
+  "下一种颜色": {
+    "ko": "다음 색상",
+    "fr": "Couleur suivante",
+    "de": "Nächste Farbe",
+    "es": "Siguiente color",
+    "pt-BR": "Próxima cor"
+  },
+  "不可用": {
+    "ko": "사용 불가",
+    "fr": "Indisponible",
+    "de": "Nicht verfügbar",
+    "es": "No disponible",
+    "pt-BR": "Indisponível"
+  },
+  "不限制": {
+    "ko": "무제한",
+    "fr": "Illimité",
+    "de": "Unbegrenzt",
+    "es": "Sin límite",
+    "pt-BR": "Sem limite"
+  },
+  "临时文件已清理。": {
+    "ko": "임시 파일을 삭제했습니다.",
+    "fr": "Fichiers temporaires effacés.",
+    "de": "Temporäre Dateien gelöscht.",
+    "es": "Archivos temporales borrados.",
+    "pt-BR": "Arquivos temporários removidos."
+  },
+  "为 iPhone 设计": {
+    "ko": "iPhone을 위한 디자인",
+    "fr": "Conçu pour iPhone",
+    "de": "Für iPhone entwickelt",
+    "es": "Diseñado para iPhone",
+    "pt-BR": "Feito para iPhone"
+  },
+  "为日常而备": {
+    "ko": "일상의 필수 도구",
+    "fr": "Les essentiels du quotidien",
+    "de": "Helfer für jeden Tag",
+    "es": "Esenciales diarios",
+    "pt-BR": "Essenciais do dia a dia"
+  },
+  "了解屏幕、电池与存储": {
+    "ko": "화면, 배터리 및 저장 공간",
+    "fr": "Écran, batterie et stockage",
+    "de": "Display, Akku und Speicher",
+    "es": "Pantalla, batería y espacio",
+    "pt-BR": "Tela, bateria e armazenamento"
+  },
+  "二维码": {
+    "ko": "QR 코드",
+    "fr": "Code QR",
+    "de": "QR-Code",
+    "es": "Código QR",
+    "pt-BR": "Código QR"
+  },
+  "二维码.png": {
+    "ko": "QR-Code.png",
+    "fr": "Code-QR.png",
+    "de": "QR-Code.png",
+    "es": "Codigo-QR.png",
+    "pt-BR": "Codigo-QR.png"
+  },
+  "二维码内容": {
+    "ko": "QR 코드 내용",
+    "fr": "Contenu du code QR",
+    "de": "QR-Code-Inhalt",
+    "es": "Contenido del código QR",
+    "pt-BR": "Conteúdo do código QR"
+  },
+  "二维码写入失败。": {
+    "ko": "QR 코드를 저장할 수 없습니다.",
+    "fr": "Enregistrement du code QR impossible.",
+    "de": "QR-Code konnte nicht gespeichert werden.",
+    "es": "No se pudo guardar el código QR.",
+    "pt-BR": "Não foi possível salvar o código QR."
+  },
+  "从一张照片、一段声音开始。\\n简单实用，不打扰。": {
+    "ko": "사진이나 소리로 시작하세요.\\n간편하고 조용하게.",
+    "fr": "Une photo, un son.\\nDes outils simples et discrets.",
+    "de": "Ein Foto, ein Klang.\\nEinfach und unaufdringlich.",
+    "es": "Empieza con una foto o un sonido.\\nHerramientas sencillas y discretas.",
+    "pt-BR": "Comece com uma foto ou um som.\\nFerramentas simples e discretas."
+  },
+  "从一张照片开始": {
+    "ko": "사진으로 시작하기",
+    "fr": "Commencer par une photo",
+    "de": "Mit einem Foto beginnen",
+    "es": "Empezar con una foto",
+    "pt-BR": "Começar com uma foto"
+  },
+  "从图片文件识别二维码": {
+    "ko": "이미지에서 QR 코드 읽기",
+    "fr": "Lire un code QR sur une image",
+    "de": "QR-Code aus Bild lesen",
+    "es": "Leer QR de una imagen",
+    "pt-BR": "Ler QR de uma imagem"
+  },
+  "从文件导入音频 / 视频": {
+    "ko": "파일에서 오디오/비디오 가져오기",
+    "fr": "Importer un audio ou une vidéo",
+    "de": "Audio oder Video importieren",
+    "es": "Importar audio o vídeo",
+    "pt-BR": "Importar áudio ou vídeo"
+  },
+  "从文件选择": {
+    "ko": "파일에서 선택",
+    "fr": "Choisir dans Fichiers",
+    "de": "Aus Dateien wählen",
+    "es": "Elegir de Archivos",
+    "pt-BR": "Escolher em Arquivos"
+  },
+  "从照片选择": {
+    "ko": "사진에서 선택",
+    "fr": "Choisir dans Photos",
+    "de": "Aus Fotos wählen",
+    "es": "Elegir de Fotos",
+    "pt-BR": "Escolher em Fotos"
+  },
+  "从相册提取视频声音": {
+    "ko": "사진 앱 영상의 소리 추출",
+    "fr": "Extraire l’audio d’une vidéo Photos",
+    "de": "Ton aus Fotos-Video extrahieren",
+    "es": "Extraer audio de un vídeo de Fotos",
+    "pt-BR": "Extrair áudio de vídeo do Fotos"
+  },
+  "从相册视频制作铃声": {
+    "ko": "영상으로 벨소리 만들기",
+    "fr": "Des sonneries à partir de vidéos",
+    "de": "Klingeltöne aus deinen Videos",
+    "es": "Crear tonos con tus vídeos",
+    "pt-BR": "Criar toques com seus vídeos"
+  },
+  "低电量模式": {
+    "ko": "저전력 모드",
+    "fr": "Mode économie d’énergie",
+    "de": "Stromsparmodus",
+    "es": "Modo de bajo consumo",
+    "pt-BR": "Modo de Pouca Energia"
+  },
+  "你的文件，只属于你": {
+    "ko": "내 파일은 나의 것",
+    "fr": "Vos fichiers restent à vous",
+    "de": "Deine Dateien bleiben deine",
+    "es": "Tus archivos siguen siendo tuyos",
+    "pt-BR": "Seus arquivos continuam seus"
+  },
+  "你的结果，随身可用": {
+    "ko": "어디서든 내 결과물",
+    "fr": "Vos résultats, partout",
+    "de": "Ergebnisse überall dabei",
+    "es": "Tus resultados, donde estés",
+    "pt-BR": "Seus resultados, onde estiver"
+  },
+  "使用 Apple 原生框架构建。\\n离线、轻量，专注每一件小事。": {
+    "ko": "Apple 네이티브 기술로 제작.\\n오프라인, 가볍고 집중된 도구.",
+    "fr": "Technologies natives Apple.\\nHors ligne, léger et ciblé.",
+    "de": "Mit nativen Apple-Frameworks.\\nOffline, leicht und fokussiert.",
+    "es": "Tecnología nativa de Apple.\\nSin conexión, ligera y práctica.",
+    "pt-BR": "Tecnologia nativa da Apple.\\nOffline, leve e focada."
+  },
+  "使用偏好": {
+    "ko": "환경설정",
+    "fr": "Préférences",
+    "de": "Einstellungen",
+    "es": "Preferencias",
+    "pt-BR": "Preferências"
+  },
+  "保存全部到相册": {
+    "ko": "모두 사진에 저장",
+    "fr": "Tout enregistrer dans Photos",
+    "de": "Alle in Fotos sichern",
+    "es": "Guardar todo en Fotos",
+    "pt-BR": "Salvar tudo em Fotos"
+  },
+  "保存到同步文件夹": {
+    "ko": "동기화 폴더에 저장",
+    "fr": "Enregistrer dans le dossier synchronisé",
+    "de": "Im Sync-Ordner sichern",
+    "es": "Guardar en carpeta sincronizada",
+    "pt-BR": "Salvar na pasta sincronizada"
+  },
+  "保存到文件": {
+    "ko": "파일에 저장",
+    "fr": "Enregistrer dans Fichiers",
+    "de": "In Dateien sichern",
+    "es": "Guardar en Archivos",
+    "pt-BR": "Salvar em Arquivos"
+  },
+  "修改日期": {
+    "ko": "수정일",
+    "fr": "Modification",
+    "de": "Geändert",
+    "es": "Modificado",
+    "pt-BR": "Modificado"
+  },
+  "停止声音": {
+    "ko": "소리 중지",
+    "fr": "Arrêter l’audio",
+    "de": "Audio stoppen",
+    "es": "Detener audio",
+    "pt-BR": "Parar áudio"
+  },
+  "停止录音": {
+    "ko": "녹음 중지",
+    "fr": "Arrêter l’enregistrement",
+    "de": "Aufnahme stoppen",
+    "es": "Detener grabación",
+    "pt-BR": "Parar gravação"
+  },
+  "像素尺寸": {
+    "ko": "픽셀 크기",
+    "fr": "Dimensions en pixels",
+    "de": "Pixelmaße",
+    "es": "Dimensiones en píxeles",
+    "pt-BR": "Dimensões em pixels"
+  },
+  "先调低系统音量。播放路径可能是已连接的耳机，请确认声音输出位置。": {
+    "ko": "먼저 시스템 음량을 낮추세요. 연결된 헤드폰 등 출력 위치를 확인하세요.",
+    "fr": "Baissez d’abord le volume. Vérifiez la sortie audio, notamment les écouteurs connectés.",
+    "de": "Zuerst Lautstärke senken. Audioausgabe prüfen, etwa verbundene Kopfhörer.",
+    "es": "Baja el volumen primero. Comprueba la salida, incluidos auriculares conectados.",
+    "pt-BR": "Reduza o volume primeiro. Confira a saída, incluindo fones conectados."
+  },
+  "全屏纯色检查": {
+    "ko": "전체 화면 색상 검사",
+    "fr": "Test couleurs plein écran",
+    "de": "Vollbild-Farbtest",
+    "es": "Prueba de color a pantalla completa",
+    "pt-BR": "Teste de cores em tela cheia"
+  },
+  "全部工具": {
+    "ko": "모든 도구",
+    "fr": "Tous les outils",
+    "de": "Alle Werkzeuge",
+    "es": "Todas las herramientas",
+    "pt-BR": "Todas as ferramentas"
+  },
+  "关于": {
+    "ko": "정보",
+    "fr": "À propos",
+    "de": "Über",
+    "es": "Acerca de",
+    "pt-BR": "Sobre"
+  },
+  "关闭": {
+    "ko": "닫기",
+    "fr": "Fermer",
+    "de": "Schließen",
+    "es": "Cerrar",
+    "pt-BR": "Fechar"
+  },
+  "关闭闪光灯": {
+    "ko": "손전등 끄기",
+    "fr": "Éteindre la lampe",
+    "de": "Taschenlampe aus",
+    "es": "Apagar linterna",
+    "pt-BR": "Desligar lanterna"
+  },
+  "分享结果": {
+    "ko": "결과 공유",
+    "fr": "Partager le résultat",
+    "de": "Ergebnis teilen",
+    "es": "Compartir resultado",
+    "pt-BR": "Compartilhar resultado"
+  },
+  "创建重命名副本": {
+    "ko": "이름 변경한 복사본 만들기",
+    "fr": "Créer une copie renommée",
+    "de": "Umbenannte Kopie erstellen",
+    "es": "Crear copia renombrada",
+    "pt-BR": "Criar cópia renomeada"
+  },
+  "制作你的专属声音": {
+    "ko": "나만의 소리 만들기",
+    "fr": "Un son qui vous ressemble",
+    "de": "Dein ganz eigener Klang",
+    "es": "Crea tu propio sonido",
+    "pt-BR": "Crie seu próprio som"
+  },
+  "制作并导出声音": {
+    "ko": "소리 생성 및 내보내기",
+    "fr": "Créer et exporter l’audio",
+    "de": "Audio erstellen und exportieren",
+    "es": "Crear y exportar audio",
+    "pt-BR": "Criar e exportar áudio"
+  },
+  "刷新": {
+    "ko": "새로고침",
+    "fr": "Actualiser",
+    "de": "Aktualisieren",
+    "es": "Actualizar",
+    "pt-BR": "Atualizar"
+  },
+  "刷新文件列表": {
+    "ko": "파일 목록 새로고침",
+    "fr": "Actualiser la liste",
+    "de": "Dateiliste aktualisieren",
+    "es": "Actualizar lista",
+    "pt-BR": "Atualizar lista"
+  },
+  "发现异常": {
+    "ko": "이상 발견",
+    "fr": "Anomalie observée",
+    "de": "Auffälligkeit bemerkt",
+    "es": "Anomalía detectada",
+    "pt-BR": "Problema observado"
+  },
+  "取消": {
+    "ko": "취소",
+    "fr": "Annuler",
+    "de": "Abbrechen",
+    "es": "Cancelar",
+    "pt-BR": "Cancelar"
+  },
+  "取消收藏": {
+    "ko": "즐겨찾기 해제",
+    "fr": "Retirer des favoris",
+    "de": "Favorit entfernen",
+    "es": "Quitar de favoritos",
+    "pt-BR": "Remover dos favoritos"
+  },
+  "只看收藏": {
+    "ko": "즐겨찾기만",
+    "fr": "Favoris uniquement",
+    "de": "Nur Favoriten",
+    "es": "Solo favoritos",
+    "pt-BR": "Apenas favoritos"
+  },
+  "合并 PDF": {
+    "ko": "PDF 합치기",
+    "fr": "Fusionner les PDF",
+    "de": "PDFs zusammenfügen",
+    "es": "Unir PDF",
+    "pt-BR": "Mesclar PDFs"
+  },
+  "合并多个 PDF，或将指定页面拆分为新文件。": {
+    "ko": "PDF를 합치거나 페이지를 새 파일로 추출합니다.",
+    "fr": "Fusionnez des PDF ou extrayez des pages vers un nouveau fichier.",
+    "de": "PDFs zusammenfügen oder Seiten als neue Datei extrahieren.",
+    "es": "Une PDF o extrae páginas a un archivo nuevo.",
+    "pt-BR": "Mescle PDFs ou extraia páginas para um novo arquivo."
+  },
+  "合并文档.pdf": {
+    "ko": "결합.pdf",
+    "fr": "Fusion.pdf",
+    "de": "Zusammengefügt.pdf",
+    "es": "Unido.pdf",
+    "pt-BR": "Mesclado.pdf"
+  },
+  "合并文档，提取页面": {
+    "ko": "문서 합치기, 페이지 추출",
+    "fr": "Fusionner, extraire des pages",
+    "de": "Dokumente verbinden, Seiten extrahieren",
+    "es": "Unir documentos, extraer páginas",
+    "pt-BR": "Mesclar documentos, extrair páginas"
+  },
+  "同步": {
+    "ko": "동기화",
+    "fr": "Synchronisation",
+    "de": "Synchronisierung",
+    "es": "Sincronización",
+    "pt-BR": "Sincronização"
+  },
+  "同步失败：{0}": {
+    "ko": "동기화 실패: {0}",
+    "fr": "Échec de synchronisation : {0}",
+    "de": "Synchronisierung fehlgeschlagen: {0}",
+    "es": "Error de sincronización: {0}",
+    "pt-BR": "Falha na sincronização: {0}"
+  },
+  "同步文件夹中的文件": {
+    "ko": "동기화 폴더 파일",
+    "fr": "Fichiers du dossier synchronisé",
+    "de": "Dateien im Sync-Ordner",
+    "es": "Archivos de la carpeta sincronizada",
+    "pt-BR": "Arquivos da pasta sincronizada"
+  },
+  "同步文件夹授权已失效，请重新选择文件夹。": {
+    "ko": "폴더 접근 권한이 만료되었습니다. 다시 선택하세요.",
+    "fr": "Accès au dossier expiré. Sélectionnez-le à nouveau.",
+    "de": "Ordnerzugriff abgelaufen. Ordner erneut wählen.",
+    "es": "El acceso a la carpeta caducó. Selecciónala de nuevo.",
+    "pt-BR": "O acesso à pasta expirou. Selecione novamente."
+  },
+  "回放录音": {
+    "ko": "녹음 재생",
+    "fr": "Écouter l’enregistrement",
+    "de": "Aufnahme abspielen",
+    "es": "Reproducir grabación",
+    "pt-BR": "Reproduzir gravação"
+  },
+  "图片": {
+    "ko": "이미지",
+    "fr": "Images",
+    "de": "Bilder",
+    "es": "Imágenes",
+    "pt-BR": "Imagens"
+  },
+  "图片导入 · 当前系统解码器": {
+    "ko": "이미지 가져오기 · 시스템 디코더",
+    "fr": "Import d’images · Décodeurs système",
+    "de": "Bildimport · Systemdecoder",
+    "es": "Importar imágenes · Decodificadores del sistema",
+    "pt-BR": "Importar imagens · Decodificadores do sistema"
+  },
+  "图片导出 · 当前设备可用": {
+    "ko": "이미지 내보내기 · 기기 지원",
+    "fr": "Export d’images · Sur cet appareil",
+    "de": "Bildexport · Auf diesem Gerät",
+    "es": "Exportar imágenes · En este dispositivo",
+    "pt-BR": "Exportar imagens · Neste dispositivo"
+  },
+  "图片工坊": {
+    "ko": "이미지 공방",
+    "fr": "Atelier Image",
+    "de": "Bildwerkstatt",
+    "es": "Taller de imágenes",
+    "pt-BR": "Oficina de imagens"
+  },
+  "图片编码失败，请尝试其他格式或较小尺寸。": {
+    "ko": "이미지 인코딩 실패. 다른 형식이나 작은 크기를 시도하세요.",
+    "fr": "Échec d’encodage. Essayez un autre format ou une taille réduite.",
+    "de": "Bildkodierung fehlgeschlagen. Anderes Format oder kleinere Größe versuchen.",
+    "es": "Error al codificar. Prueba otro formato o menor tamaño.",
+    "pt-BR": "Falha na codificação. Tente outro formato ou tamanho menor."
+  },
+  "图片转 PDF": {
+    "ko": "이미지를 PDF로",
+    "fr": "Images en PDF",
+    "de": "Bilder zu PDF",
+    "es": "Imágenes a PDF",
+    "pt-BR": "Imagens para PDF"
+  },
+  "声音与触感": {
+    "ko": "소리 및 햅틱",
+    "fr": "Sons et vibrations",
+    "de": "Ton & Haptik",
+    "es": "Sonido y vibración",
+    "pt-BR": "Som e resposta tátil"
+  },
+  "声音名称": {
+    "ko": "소리 이름",
+    "fr": "Nom de l’audio",
+    "de": "Audioname",
+    "es": "Nombre del audio",
+    "pt-BR": "Nome do áudio"
+  },
+  "处理 {0} 张图片": {
+    "ko": "이미지 {0}개 처리",
+    "fr": "Traiter {0} images",
+    "de": "{0} Bilder bearbeiten",
+    "es": "Procesar {0} imágenes",
+    "pt-BR": "Processar {0} imagens"
+  },
+  "处理图片": {
+    "ko": "이미지 처리",
+    "fr": "Traiter les images",
+    "de": "Bilder bearbeiten",
+    "es": "Procesar imágenes",
+    "pt-BR": "Processar imagens"
+  },
+  "处理完成": {
+    "ko": "완료",
+    "fr": "Terminé",
+    "de": "Fertig",
+    "es": "Listo",
+    "pt-BR": "Concluído"
+  },
+  "处理过的工具会出现在这里。": {
+    "ko": "사용한 도구가 여기에 표시됩니다.",
+    "fr": "Vos outils utilisés apparaîtront ici.",
+    "de": "Verwendete Werkzeuge erscheinen hier.",
+    "es": "Aquí aparecerán las herramientas que uses.",
+    "pt-BR": "As ferramentas usadas aparecerão aqui."
+  },
+  "复制内容": {
+    "ko": "내용 복사",
+    "fr": "Copier le contenu",
+    "de": "Inhalt kopieren",
+    "es": "Copiar contenido",
+    "pt-BR": "Copiar conteúdo"
+  },
+  "外观": {
+    "ko": "화면 모드",
+    "fr": "Apparence",
+    "de": "Darstellung",
+    "es": "Apariencia",
+    "pt-BR": "Aparência"
+  },
+  "多张照片，一份整洁文档": {
+    "ko": "여러 사진을 한 문서로",
+    "fr": "Plusieurs photos, un document",
+    "de": "Viele Fotos, ein Dokument",
+    "es": "Muchas fotos, un documento",
+    "pt-BR": "Várias fotos, um documento"
+  },
+  "大小": {
+    "ko": "크기",
+    "fr": "Taille",
+    "de": "Größe",
+    "es": "Tamaño",
+    "pt-BR": "Tamanho"
+  },
+  "好": {
+    "ko": "확인",
+    "fr": "OK",
+    "de": "OK",
+    "es": "Aceptar",
+    "pt-BR": "OK"
+  },
+  "实用": {
+    "ko": "유틸리티",
+    "fr": "Utilitaires",
+    "de": "Hilfsprogramme",
+    "es": "Utilidades",
+    "pt-BR": "Utilitários"
+  },
+  "导入文件": {
+    "ko": "파일 가져오기",
+    "fr": "Importer un fichier",
+    "de": "Datei importieren",
+    "es": "Importar archivo",
+    "pt-BR": "Importar arquivo"
+  },
+  "导出": {
+    "ko": "내보내기",
+    "fr": "Exporter",
+    "de": "Exportieren",
+    "es": "Exportar",
+    "pt-BR": "Exportar"
+  },
+  "导出设置": {
+    "ko": "내보내기 설정",
+    "fr": "Réglages d’export",
+    "de": "Exporteinstellungen",
+    "es": "Ajustes de exportación",
+    "pt-BR": "Ajustes de exportação"
+  },
+  "小图 ≤ 200 KB": {
+    "ko": "작게 ≤ 200 KB",
+    "fr": "Petit ≤ 200 Ko",
+    "de": "Klein ≤ 200 KB",
+    "es": "Pequeña ≤ 200 KB",
+    "pt-BR": "Pequena ≤ 200 KB"
+  },
+  "小工具，大从容。": {
+    "ko": "작은 도구, 편안한 일상.",
+    "fr": "Petits outils, grande sérénité.",
+    "de": "Kleine Helfer. Mehr Leichtigkeit.",
+    "es": "Pequeñas herramientas. Más calma.",
+    "pt-BR": "Pequenas ferramentas. Mais leveza."
+  },
+  "屏幕": {
+    "ko": "화면",
+    "fr": "Écran",
+    "de": "Display",
+    "es": "Pantalla",
+    "pt-BR": "Tela"
+  },
+  "屏幕、触控与声音检查": {
+    "ko": "화면, 터치 및 소리 검사",
+    "fr": "Tests écran, tactile et audio",
+    "de": "Display-, Touch- und Audiotests",
+    "es": "Pruebas de pantalla, tacto y audio",
+    "pt-BR": "Testes de tela, toque e áudio"
+  },
+  "屏幕与触控": {
+    "ko": "화면 및 터치",
+    "fr": "Écran et tactile",
+    "de": "Display & Touch",
+    "es": "Pantalla y tacto",
+    "pt-BR": "Tela e toque"
+  },
+  "屏幕显示": {
+    "ko": "화면 표시",
+    "fr": "Affichage de l’écran",
+    "de": "Bildschirmanzeige",
+    "es": "Visualización",
+    "pt-BR": "Exibição da tela"
+  },
+  "工具": {
+    "ko": "도구",
+    "fr": "Outils",
+    "de": "Werkzeuge",
+    "es": "Herramientas",
+    "pt-BR": "Ferramentas"
+  },
+  "工具箱": {
+    "ko": "도구상자",
+    "fr": "Boîte à outils",
+    "de": "Werkzeugkasten",
+    "es": "Caja de herramientas",
+    "pt-BR": "Caixa de ferramentas"
+  },
+  "已保存 {0} 张图片到相册。": {
+    "ko": "사진에 이미지 {0}개를 저장했습니다.",
+    "fr": "{0} images enregistrées dans Photos.",
+    "de": "{0} Bilder in Fotos gesichert.",
+    "es": "{0} imágenes guardadas en Fotos.",
+    "pt-BR": "{0} imagens salvas em Fotos."
+  },
+  "已关闭": {
+    "ko": "꺼짐",
+    "fr": "Désactivé",
+    "de": "Aus",
+    "es": "Desactivado",
+    "pt-BR": "Desativado"
+  },
+  "已复制到所选文件夹；云端上传进度由文件提供商管理。": {
+    "ko": "선택한 폴더에 복사했습니다. 클라우드 업로드는 파일 제공자가 관리합니다.",
+    "fr": "Copié dans le dossier choisi. Le fournisseur gère l’envoi vers le cloud.",
+    "de": "In den gewählten Ordner kopiert. Der Dateianbieter verwaltet den Cloud-Upload.",
+    "es": "Copiado a la carpeta elegida. El proveedor gestiona la subida a la nube.",
+    "pt-BR": "Copiado para a pasta escolhida. O provedor gerencia o envio à nuvem."
+  },
+  "已开启": {
+    "ko": "켜짐",
+    "fr": "Activé",
+    "de": "Ein",
+    "es": "Activado",
+    "pt-BR": "Ativado"
+  },
+  "已收藏": {
+    "ko": "즐겨찾기",
+    "fr": "Favori",
+    "de": "Favorit",
+    "es": "Favorito",
+    "pt-BR": "Favorito"
+  },
+  "已断开连接，文件夹中的文件不会被删除。": {
+    "ko": "연결 해제됨. 폴더의 파일은 삭제되지 않았습니다.",
+    "fr": "Déconnecté. Les fichiers n’ont pas été supprimés.",
+    "de": "Getrennt. Dateien im Ordner wurden nicht gelöscht.",
+    "es": "Desconectado. No se borraron los archivos.",
+    "pt-BR": "Desconectado. Os arquivos não foram excluídos."
+  },
+  "已覆盖 {0} / 60 格": {
+    "ko": "확인 {0} / 60칸",
+    "fr": "{0} / 60 cases couvertes",
+    "de": "{0} / 60 Felder abgedeckt",
+    "es": "{0} / 60 casillas cubiertas",
+    "pt-BR": "{0} / 60 células cobertas"
+  },
+  "已读取 {0} 个文件。": {
+    "ko": "파일 {0}개를 읽었습니다.",
+    "fr": "{0} fichiers lus.",
+    "de": "{0} Dateien gelesen.",
+    "es": "{0} archivos leídos.",
+    "pt-BR": "{0} arquivos lidos."
+  },
+  "已选择 {0} 张 · 首张 {1}": {
+    "ko": "{0}개 선택 · 첫 이미지 {1}",
+    "fr": "{0} sélectionnées · Première {1}",
+    "de": "{0} ausgewählt · Erstes Bild {1}",
+    "es": "{0} seleccionadas · Primera {1}",
+    "pt-BR": "{0} selecionadas · Primeira {1}"
+  },
+  "开启闪光灯": {
+    "ko": "손전등 켜기",
+    "fr": "Allumer la lampe",
+    "de": "Taschenlampe ein",
+    "es": "Encender linterna",
+    "pt-BR": "Ligar lanterna"
+  },
+  "开始时间": {
+    "ko": "시작 시간",
+    "fr": "Début",
+    "de": "Startzeit",
+    "es": "Inicio",
+    "pt-BR": "Início"
+  },
+  "开始：{0} 秒": {
+    "ko": "시작: {0}초",
+    "fr": "Début : {0} s",
+    "de": "Start: {0} s",
+    "es": "Inicio: {0} s",
+    "pt-BR": "Início: {0} s"
+  },
+  "当前为模拟器，电池与硬件数据不能用于验机。": {
+    "ko": "시뮬레이터입니다. 배터리 및 하드웨어 수치는 실기기 검사에 사용할 수 없습니다.",
+    "fr": "Simulateur actif. Les données matérielles et de batterie ne permettent pas d’inspecter un appareil réel.",
+    "de": "Simulator aktiv. Akku- und Hardwaredaten sind nicht zur Geräteprüfung geeignet.",
+    "es": "Es un simulador. Sus datos de batería y hardware no sirven para inspeccionar un dispositivo real.",
+    "pt-BR": "É um simulador. Dados de bateria e hardware não servem para inspecionar um aparelho real."
+  },
+  "当前位置设为开始": {
+    "ko": "재생 위치를 시작점으로",
+    "fr": "Définir le début ici",
+    "de": "Start am Abspielkopf setzen",
+    "es": "Fijar inicio aquí",
+    "pt-BR": "Definir início aqui"
+  },
+  "当前文件夹": {
+    "ko": "현재 폴더",
+    "fr": "Dossier actuel",
+    "de": "Aktueller Ordner",
+    "es": "Carpeta actual",
+    "pt-BR": "Pasta atual"
+  },
+  "当前电量": {
+    "ko": "배터리 잔량",
+    "fr": "Niveau de batterie",
+    "de": "Akkustand",
+    "es": "Nivel de batería",
+    "pt-BR": "Nível da bateria"
+  },
+  "当前系统没有该格式的图片编码器。": {
+    "ko": "이 형식의 이미지 인코더가 없습니다.",
+    "fr": "Aucun encodeur pour ce format d’image.",
+    "de": "Kein Encoder für dieses Bildformat vorhanden.",
+    "es": "No hay codificador para este formato de imagen.",
+    "pt-BR": "Não há codificador para este formato de imagem."
+  },
+  "当前设备不支持该输出格式。": {
+    "ko": "기기에서 이 출력 형식을 지원하지 않습니다.",
+    "fr": "Format de sortie non pris en charge.",
+    "de": "Ausgabeformat wird nicht unterstützt.",
+    "es": "El dispositivo no admite este formato de salida.",
+    "pt-BR": "O dispositivo não suporta esse formato de saída."
+  },
+  "录制麦克风（5 秒）": {
+    "ko": "마이크 녹음（5초）",
+    "fr": "Enregistrer le micro (5 s)",
+    "de": "Mikrofon aufnehmen (5 s)",
+    "es": "Grabar micrófono (5 s)",
+    "pt-BR": "Gravar microfone (5 s)"
+  },
+  "录音中…": {
+    "ko": "녹음 중…",
+    "fr": "Enregistrement…",
+    "de": "Aufnahme läuft…",
+    "es": "Grabando…",
+    "pt-BR": "Gravando…"
+  },
+  "循环试听片段": {
+    "ko": "구간 반복",
+    "fr": "Lire en boucle",
+    "de": "Auswahl wiederholen",
+    "es": "Repetir selección",
+    "pt-BR": "Repetir seleção"
+  },
+  "快速开始": {
+    "ko": "빠른 시작",
+    "fr": "Démarrage rapide",
+    "de": "Schnellstart",
+    "es": "Inicio rápido",
+    "pt-BR": "Início rápido"
+  },
+  "我的声音": {
+    "ko": "내 소리",
+    "fr": "Mon son",
+    "de": "Mein Klang",
+    "es": "Mi sonido",
+    "pt-BR": "Meu som"
+  },
+  "我的铃声": {
+    "ko": "내 벨소리",
+    "fr": "Ma sonnerie",
+    "de": "Mein Klingelton",
+    "es": "Mi tono",
+    "pt-BR": "Meu toque"
+  },
+  "所选图片预览": {
+    "ko": "선택한 이미지 미리보기",
+    "fr": "Aperçu de l’image choisie",
+    "de": "Vorschau des gewählten Bildes",
+    "es": "Vista previa de imagen elegida",
+    "pt-BR": "Prévia da imagem selecionada"
+  },
+  "手动记录": {
+    "ko": "수동 관찰 기록",
+    "fr": "Observations manuelles",
+    "de": "Manuelle Beobachtungen",
+    "es": "Observaciones manuales",
+    "pt-BR": "Observações manuais"
+  },
+  "打开图片工坊": {
+    "ko": "이미지 공방 열기",
+    "fr": "Ouvrir l’Atelier Image",
+    "de": "Bildwerkstatt öffnen",
+    "es": "Abrir taller de imágenes",
+    "pt-BR": "Abrir oficina de imagens"
+  },
+  "扬声器": {
+    "ko": "스피커",
+    "fr": "Haut-parleur",
+    "de": "Lautsprecher",
+    "es": "Altavoz",
+    "pt-BR": "Alto-falante"
+  },
+  "把喜欢的声音，设为日常": {
+    "ko": "좋아하는 소리를 일상에",
+    "fr": "Votre son préféré au quotidien",
+    "de": "Dein Lieblingsklang im Alltag",
+    "es": "Tu sonido favorito cada día",
+    "pt-BR": "Seu som favorito no dia a dia"
+  },
+  "拖动选段，或一键选择长度": {
+    "ko": "드래그하거나 길이를 선택하세요",
+    "fr": "Glissez ou choisissez une durée",
+    "de": "Ziehen oder Dauer wählen",
+    "es": "Arrastra o elige una duración",
+    "pt-BR": "Arraste ou escolha a duração"
+  },
+  "按步骤观察与试听，再手动记录结果。自检记录不是硬件鉴定报告，不能判断是否原装或拆修。": {
+    "ko": "보고 들은 뒤 직접 기록하세요. 이 검사는 순정 부품이나 수리 이력을 판정하지 않습니다.",
+    "fr": "Observez, écoutez, puis notez. Ces tests ne certifient ni les pièces d’origine ni les réparations.",
+    "de": "Beobachten, anhören und notieren. Keine Echtheits- oder Reparaturprüfung.",
+    "es": "Observa, escucha y registra. Estas pruebas no certifican piezas originales ni reparaciones.",
+    "pt-BR": "Observe, escute e registre. Os testes não certificam peças originais nem reparos."
+  },
+  "按照列表从上到下合并。点击箭头调整顺序。": {
+    "ko": "위에서 아래로 합칩니다. 화살표로 순서를 바꾸세요.",
+    "fr": "Fusion de haut en bas. Utilisez les flèches pour réordonner.",
+    "de": "Von oben nach unten zusammengefügt. Pfeile ändern die Reihenfolge.",
+    "es": "Se unen de arriba abajo. Usa las flechas para ordenar.",
+    "pt-BR": "Mesclagem de cima para baixo. Use as setas para reordenar."
+  },
+  "按用途一键设置": {
+    "ko": "빠른 설정",
+    "fr": "Préréglages",
+    "de": "Schnellvorlagen",
+    "es": "Ajustes rápidos",
+    "pt-BR": "Predefinições"
+  },
+  "提取并生成 PDF": {
+    "ko": "PDF로 추출",
+    "fr": "Extraire en PDF",
+    "de": "Als PDF extrahieren",
+    "es": "Extraer a PDF",
+    "pt-BR": "Extrair para PDF"
+  },
+  "提取页面": {
+    "ko": "페이지 추출",
+    "fr": "Extraire des pages",
+    "de": "Seiten extrahieren",
+    "es": "Extraer páginas",
+    "pt-BR": "Extrair páginas"
+  },
+  "提取页面.pdf": {
+    "ko": "추출페이지.pdf",
+    "fr": "Pages-extraites.pdf",
+    "de": "Extrahierte-Seiten.pdf",
+    "es": "Paginas-extraidas.pdf",
+    "pt-BR": "Paginas-extraidas.pdf"
+  },
+  "提取页面仅使用列表中的第一份文档。": {
+    "ko": "목록의 첫 문서에서만 페이지를 추출합니다.",
+    "fr": "Seul le premier document sert à l’extraction.",
+    "de": "Nur das erste Dokument wird zum Extrahieren verwendet.",
+    "es": "Solo se extraen páginas del primer documento.",
+    "pt-BR": "A extração usa apenas o primeiro documento."
+  },
+  "提示": {
+    "ko": "알림",
+    "fr": "Information",
+    "de": "Hinweis",
+    "es": "Aviso",
+    "pt-BR": "Aviso"
+  },
+  "提示音 3s": {
+    "ko": "알림 3초",
+    "fr": "Alerte 3 s",
+    "de": "Hinweis 3 s",
+    "es": "Aviso 3 s",
+    "pt-BR": "Alerta 3 s"
+  },
+  "提示音 5s": {
+    "ko": "알림 5초",
+    "fr": "Alerte 5 s",
+    "de": "Hinweis 5 s",
+    "es": "Aviso 5 s",
+    "pt-BR": "Alerta 5 s"
+  },
+  "搜索工具或功能": {
+    "ko": "도구 및 기능 검색",
+    "fr": "Rechercher un outil",
+    "de": "Werkzeuge oder Funktionen suchen",
+    "es": "Buscar herramientas o funciones",
+    "pt-BR": "Buscar ferramentas ou funções"
+  },
+  "摄影水印": {
+    "ko": "사진 워터마크",
+    "fr": "Filigrane photo",
+    "de": "Foto-Wasserzeichen",
+    "es": "Marca de agua fotográfica",
+    "pt-BR": "Marca-d’água de foto"
+  },
+  "播放位置": {
+    "ko": "재생 위치",
+    "fr": "Position de lecture",
+    "de": "Wiedergabeposition",
+    "es": "Posición de reproducción",
+    "pt-BR": "Posição da reprodução"
+  },
+  "播放原音频": {
+    "ko": "원본 오디오 재생",
+    "fr": "Lire l’audio original",
+    "de": "Originalaudio abspielen",
+    "es": "Reproducir audio original",
+    "pt-BR": "Reproduzir áudio original"
+  },
+  "播放测试音（2 秒）": {
+    "ko": "테스트 소리（2초）",
+    "fr": "Son de test (2 s)",
+    "de": "Testton abspielen (2 s)",
+    "es": "Sonido de prueba (2 s)",
+    "pt-BR": "Som de teste (2 s)"
+  },
+  "操作": {
+    "ko": "작업",
+    "fr": "Action",
+    "de": "Aktion",
+    "es": "Acción",
+    "pt-BR": "Ação"
+  },
+  "支持的格式": {
+    "ko": "지원 형식",
+    "fr": "Formats compatibles",
+    "de": "Unterstützte Formate",
+    "es": "Formatos compatibles",
+    "pt-BR": "Formatos compatíveis"
+  },
+  "收藏": {
+    "ko": "즐겨찾기 추가",
+    "fr": "Ajouter aux favoris",
+    "de": "Favorisieren",
+    "es": "Añadir a favoritos",
+    "pt-BR": "Adicionar aos favoritos"
+  },
+  "数据与隐私": {
+    "ko": "데이터 및 개인정보",
+    "fr": "Données et confidentialité",
+    "de": "Daten & Datenschutz",
+    "es": "Datos y privacidad",
+    "pt-BR": "Dados e privacidade"
+  },
+  "文件": {
+    "ko": "파일",
+    "fr": "Fichiers",
+    "de": "Dateien",
+    "es": "Archivos",
+    "pt-BR": "Arquivos"
+  },
+  "文件中没有可导出的音轨。": {
+    "ko": "내보낼 오디오 트랙이 없습니다.",
+    "fr": "Aucune piste audio exportable.",
+    "de": "Keine exportierbare Audiospur.",
+    "es": "No hay pista de audio exportable.",
+    "pt-BR": "Não há faixa de áudio exportável."
+  },
+  "文件名（不含扩展名）": {
+    "ko": "파일명（확장자 제외）",
+    "fr": "Nom du fichier (sans extension)",
+    "de": "Dateiname (ohne Endung)",
+    "es": "Nombre de archivo (sin extensión)",
+    "pt-BR": "Nome do arquivo (sem extensão)"
+  },
+  "文件夹已连接。是否自动保存结果由下方开关控制。": {
+    "ko": "폴더가 연결되었습니다. 아래 스위치로 자동 저장을 켜세요.",
+    "fr": "Dossier connecté. Activez l’enregistrement automatique ci-dessous.",
+    "de": "Ordner verbunden. Automatisches Sichern unten aktivieren.",
+    "es": "Carpeta conectada. Activa el guardado automático abajo.",
+    "pt-BR": "Pasta conectada. Ative o salvamento automático abaixo."
+  },
+  "文件管理": {
+    "ko": "파일 관리",
+    "fr": "Gestion de fichiers",
+    "de": "Dateiverwaltung",
+    "es": "Gestor de archivos",
+    "pt-BR": "Gerenciador de arquivos"
+  },
+  "文件系统剩余空间": {
+    "ko": "파일 시스템 남은 공간",
+    "fr": "Espace libre du système de fichiers",
+    "de": "Freier Dateisystemspeicher",
+    "es": "Espacio libre del sistema de archivos",
+    "pt-BR": "Espaço livre do sistema de arquivos"
+  },
+  "文件系统总空间": {
+    "ko": "파일 시스템 전체 공간",
+    "fr": "Espace total du système de fichiers",
+    "de": "Gesamter Dateisystemspeicher",
+    "es": "Espacio total del sistema de archivos",
+    "pt-BR": "Espaço total do sistema de arquivos"
+  },
+  "文件，井井有条": {
+    "ko": "파일을 깔끔하게",
+    "fr": "Des fichiers bien rangés",
+    "de": "Dateien, gut geordnet",
+    "es": "Archivos bien ordenados",
+    "pt-BR": "Arquivos bem organizados"
+  },
+  "文字或链接": {
+    "ko": "텍스트 또는 URL",
+    "fr": "Texte ou URL",
+    "de": "Text oder URL",
+    "es": "Texto o URL",
+    "pt-BR": "Texto ou URL"
+  },
+  "文档，恰如其分": {
+    "ko": "문서를 알맞게",
+    "fr": "Des documents à votre mesure",
+    "de": "Dokumente, genau passend",
+    "es": "Documentos a tu medida",
+    "pt-BR": "Documentos na medida"
+  },
+  "断开连接": {
+    "ko": "연결 해제",
+    "fr": "Déconnecter",
+    "de": "Trennen",
+    "es": "Desconectar",
+    "pt-BR": "Desconectar"
+  },
+  "无水印": {
+    "ko": "워터마크 없음",
+    "fr": "Sans filigrane",
+    "de": "Ohne Wasserzeichen",
+    "es": "Sin marca de agua",
+    "pt-BR": "Sem marca-d’água"
+  },
+  "无法从照片读取图片。": {
+    "ko": "사진에서 이미지를 읽을 수 없습니다.",
+    "fr": "Impossible de charger l’image depuis Photos.",
+    "de": "Bild aus Fotos konnte nicht geladen werden.",
+    "es": "No se pudo cargar la imagen de Fotos.",
+    "pt-BR": "Não foi possível carregar a imagem de Fotos."
+  },
+  "无法创建音频轨道。": {
+    "ko": "오디오 트랙을 만들 수 없습니다.",
+    "fr": "Impossible de créer une piste audio.",
+    "de": "Audiospur konnte nicht erstellt werden.",
+    "es": "No se pudo crear la pista de audio.",
+    "pt-BR": "Não foi possível criar a faixa de áudio."
+  },
+  "无法在当前设置下达到目标体积，请提高体积上限或关闭水印。": {
+    "ko": "목표 크기에 도달할 수 없습니다. 상한을 늘리거나 워터마크를 끄세요.",
+    "fr": "Taille cible impossible. Augmentez la limite ou retirez le filigrane.",
+    "de": "Zielgröße nicht erreichbar. Grenze erhöhen oder Wasserzeichen ausschalten.",
+    "es": "No se alcanza el tamaño. Aumenta el límite o quita la marca de agua.",
+    "pt-BR": "Não foi possível atingir o tamanho. Aumente o limite ou desative a marca-d’água."
+  },
+  "无法导出": {
+    "ko": "내보낼 수 없음",
+    "fr": "Export impossible",
+    "de": "Export nicht möglich",
+    "es": "No se puede exportar",
+    "pt-BR": "Não é possível exportar"
+  },
+  "无法开始音频写入。": {
+    "ko": "오디오 쓰기를 시작할 수 없습니다.",
+    "fr": "Impossible de commencer l’écriture audio.",
+    "de": "Audioschreiben konnte nicht gestartet werden.",
+    "es": "No se pudo iniciar la escritura de audio.",
+    "pt-BR": "Não foi possível iniciar a gravação do arquivo de áudio."
+  },
+  "无法生成二维码。": {
+    "ko": "QR 코드를 만들 수 없습니다.",
+    "fr": "Impossible de générer le code QR.",
+    "de": "QR-Code konnte nicht erstellt werden.",
+    "es": "No se pudo generar el código QR.",
+    "pt-BR": "Não foi possível gerar o código QR."
+  },
+  "无法解码此音频。": {
+    "ko": "오디오를 디코딩할 수 없습니다.",
+    "fr": "Impossible de décoder cet audio.",
+    "de": "Audio konnte nicht dekodiert werden.",
+    "es": "No se pudo decodificar el audio.",
+    "pt-BR": "Não foi possível decodificar o áudio."
+  },
+  "无法访问文件夹": {
+    "ko": "폴더에 접근할 수 없음",
+    "fr": "Dossier inaccessible",
+    "de": "Ordner nicht zugänglich",
+    "es": "Carpeta inaccesible",
+    "pt-BR": "Pasta inacessível"
+  },
+  "无法读取 PDF，文件可能已加密或损坏。": {
+    "ko": "PDF가 암호화되었거나 손상되어 읽을 수 없습니다.",
+    "fr": "PDF illisible, peut-être chiffré ou endommagé.",
+    "de": "PDF unlesbar, möglicherweise verschlüsselt oder beschädigt.",
+    "es": "PDF ilegible; puede estar cifrado o dañado.",
+    "pt-BR": "PDF ilegível; pode estar criptografado ou danificado."
+  },
+  "无法读取二维码图片。": {
+    "ko": "QR 이미지를 읽을 수 없습니다.",
+    "fr": "Image QR illisible.",
+    "de": "QR-Bild konnte nicht gelesen werden.",
+    "es": "No se pudo leer la imagen QR.",
+    "pt-BR": "Não foi possível ler a imagem QR."
+  },
+  "无法读取图片。请选择有效的 JPG、PNG 或 HEIC 文件。": {
+    "ko": "이미지를 읽을 수 없습니다. 유효한 JPG, PNG 또는 HEIC를 선택하세요.",
+    "fr": "Image illisible. Choisissez un JPG, PNG ou HEIC valide.",
+    "de": "Bild unlesbar. Gültige JPG-, PNG- oder HEIC-Datei wählen.",
+    "es": "Imagen ilegible. Elige un JPG, PNG o HEIC válido.",
+    "pt-BR": "Imagem ilegível. Escolha um JPG, PNG ou HEIC válido."
+  },
+  "无法读取处理后的图片。": {
+    "ko": "처리된 이미지를 읽을 수 없습니다.",
+    "fr": "Image traitée illisible.",
+    "de": "Bearbeitetes Bild unlesbar.",
+    "es": "No se pudo leer la imagen procesada.",
+    "pt-BR": "Não foi possível ler a imagem processada."
+  },
+  "无法读取有效音轨，文件可能损坏或格式不受支持。": {
+    "ko": "오디오를 읽을 수 없습니다. 손상되었거나 지원하지 않는 파일일 수 있습니다.",
+    "fr": "Piste audio illisible. Fichier endommagé ou non compatible.",
+    "de": "Audiospur unlesbar. Datei beschädigt oder nicht unterstützt.",
+    "es": "Pista ilegible. El archivo puede estar dañado o no ser compatible.",
+    "pt-BR": "Faixa ilegível. O arquivo pode estar danificado ou ser incompatível."
+  },
+  "无法读取第 {0} 页。": {
+    "ko": "{0}페이지를 읽을 수 없습니다.",
+    "fr": "Page {0} illisible.",
+    "de": "Seite {0} konnte nicht gelesen werden.",
+    "es": "No se puede leer la página {0}.",
+    "pt-BR": "Não foi possível ler a página {0}."
+  },
+  "无法读取视频，请重试或从文件导入。": {
+    "ko": "영상을 읽을 수 없습니다. 다시 시도하거나 파일에서 가져오세요.",
+    "fr": "Vidéo illisible. Réessayez ou importez depuis Fichiers.",
+    "de": "Video unlesbar. Erneut versuchen oder aus Dateien importieren.",
+    "es": "Vídeo ilegible. Reintenta o importa desde Archivos.",
+    "pt-BR": "Vídeo ilegível. Tente novamente ou importe de Arquivos."
+  },
+  "无法读取音轨。": {
+    "ko": "오디오 트랙을 읽을 수 없습니다.",
+    "fr": "Piste audio illisible.",
+    "de": "Audiospur konnte nicht gelesen werden.",
+    "es": "No se pudo leer la pista de audio.",
+    "pt-BR": "Não foi possível ler a faixa de áudio."
+  },
+  "无需账户 · 无广告 · 本地处理": {
+    "ko": "계정 없이 · 광고 없이 · 기기 내 처리",
+    "fr": "Sans compte · Sans pub · Local",
+    "de": "Ohne Konto · Ohne Werbung · Lokal",
+    "es": "Sin cuenta · Sin anuncios · Local",
+    "pt-BR": "Sem conta · Sem anúncios · Local"
+  },
+  "日常小事，轻松做好。": {
+    "ko": "일상의 일을 가볍게.",
+    "fr": "Le quotidien, tout simplement.",
+    "de": "Alltag, ganz entspannt.",
+    "es": "Lo cotidiano, sin esfuerzo.",
+    "pt-BR": "O dia a dia, sem esforço."
+  },
+  "显示拍摄参数": {
+    "ko": "촬영 설정 표시",
+    "fr": "Afficher les réglages photo",
+    "de": "Kameraeinstellungen anzeigen",
+    "es": "Mostrar ajustes de cámara",
+    "pt-BR": "Mostrar ajustes da câmera"
+  },
+  "显示拍摄日期": {
+    "ko": "촬영일 표시",
+    "fr": "Afficher la date de prise",
+    "de": "Aufnahmedatum anzeigen",
+    "es": "Mostrar fecha de captura",
+    "pt-BR": "Mostrar data da captura"
+  },
+  "显示相机型号": {
+    "ko": "카메라 모델 표시",
+    "fr": "Afficher le modèle d’appareil",
+    "de": "Kameramodell anzeigen",
+    "es": "Mostrar modelo de cámara",
+    "pt-BR": "Mostrar modelo da câmera"
+  },
+  "显示缩放": {
+    "ko": "화면 배율",
+    "fr": "Échelle d’affichage",
+    "de": "Anzeigeskalierung",
+    "es": "Escala de pantalla",
+    "pt-BR": "Escala da tela"
+  },
+  "暂停": {
+    "ko": "일시정지",
+    "fr": "Pause",
+    "de": "Pause",
+    "es": "Pausa",
+    "pt-BR": "Pausa"
+  },
+  "更多工具持续加入，全部在本机处理": {
+    "ko": "더 많은 도구를 준비 중입니다. 모든 처리는 기기 내에서.",
+    "fr": "D’autres outils arrivent. Tout est traité localement.",
+    "de": "Weitere Werkzeuge folgen. Alles wird lokal verarbeitet.",
+    "es": "Pronto más herramientas. Todo se procesa en el dispositivo.",
+    "pt-BR": "Mais ferramentas em breve. Tudo processado no aparelho."
+  },
+  "最近使用": {
+    "ko": "최근 사용",
+    "fr": "Récents",
+    "de": "Zuletzt verwendet",
+    "es": "Recientes",
+    "pt-BR": "Recentes"
+  },
+  "最近使用已清除。": {
+    "ko": "최근 기록을 지웠습니다.",
+    "fr": "Historique des outils effacé.",
+    "de": "Letzte Werkzeuge gelöscht.",
+    "es": "Herramientas recientes borradas.",
+    "pt-BR": "Ferramentas recentes apagadas."
+  },
+  "最长边": {
+    "ko": "긴 변",
+    "fr": "Côté le plus long",
+    "de": "Längste Kante",
+    "es": "Lado más largo",
+    "pt-BR": "Lado mais longo"
+  },
+  "最高刷新率": {
+    "ko": "최대 새로고침 빈도",
+    "fr": "Fréquence maximale",
+    "de": "Maximale Bildwiederholrate",
+    "es": "Frecuencia máxima",
+    "pt-BR": "Taxa máxima de atualização"
+  },
+  "最高刷新率是屏幕声明的上限，并非实时帧率。": {
+    "ko": "화면의 공칭 최대값이며 현재 프레임 속도가 아닙니다.",
+    "fr": "Maximum déclaré de l’écran, pas la fréquence actuelle.",
+    "de": "Angegebenes Displaymaximum, nicht die aktuelle Bildrate.",
+    "es": "Máximo declarado de la pantalla, no la tasa actual.",
+    "pt-BR": "Máximo declarado da tela, não a taxa atual."
+  },
+  "未测试": {
+    "ko": "미검사",
+    "fr": "Non testé",
+    "de": "Nicht getestet",
+    "es": "Sin probar",
+    "pt-BR": "Não testado"
+  },
+  "未知文件": {
+    "ko": "알 수 없는 파일",
+    "fr": "Fichier inconnu",
+    "de": "Unbekannte Datei",
+    "es": "Archivo desconocido",
+    "pt-BR": "Arquivo desconhecido"
+  },
+  "未获得保存照片权限，请在系统设置中允许添加照片。": {
+    "ko": "사진 저장 권한이 없습니다. 설정에서 사진 추가를 허용하세요.",
+    "fr": "Enregistrement refusé. Autorisez l’ajout de photos dans Réglages.",
+    "de": "Fotosichern nicht erlaubt. In Einstellungen das Hinzufügen erlauben.",
+    "es": "Sin permiso para guardar fotos. Permite añadir fotos en Ajustes.",
+    "pt-BR": "Sem permissão para salvar fotos. Permita adicionar fotos em Ajustes."
+  },
+  "未获得麦克风权限，请在系统设置中允许访问。": {
+    "ko": "마이크 권한이 없습니다. 설정에서 허용하세요.",
+    "fr": "Micro non autorisé. Activez-le dans Réglages.",
+    "de": "Mikrofon nicht erlaubt. In Einstellungen aktivieren.",
+    "es": "Micrófono no autorizado. Actívalo en Ajustes.",
+    "pt-BR": "Microfone não autorizado. Ative em Ajustes."
+  },
+  "未选择": {
+    "ko": "선택 안 됨",
+    "fr": "Non sélectionné",
+    "de": "Nicht ausgewählt",
+    "es": "Sin seleccionar",
+    "pt-BR": "Não selecionado"
+  },
+  "本应用不提供原装鉴定、拆修判定、激活锁查询或刷机服务。": {
+    "ko": "순정 판정, 수리 판정, 활성화 잠금 조회, 펌웨어 설치는 제공하지 않습니다.",
+    "fr": "Pas de certification des pièces, de diagnostic de réparations, de recherche du verrouillage d’activation ni de flashage.",
+    "de": "Keine Teilezertifizierung, Reparaturbewertung, Aktivierungssperrenabfrage oder Firmwareinstallation.",
+    "es": "No certifica piezas, reparaciones ni bloqueos de activación, ni instala firmware.",
+    "pt-BR": "Não certifica peças ou reparos, consulta Bloqueio de Ativação nem instala firmware."
+  },
+  "来电 29s": {
+    "ko": "벨소리 29초",
+    "fr": "Sonnerie 29 s",
+    "de": "Klingelton 29 s",
+    "es": "Tono 29 s",
+    "pt-BR": "Toque 29 s"
+  },
+  "极简黑边": {
+    "ko": "미니멀 검정 테두리",
+    "fr": "Cadre noir minimal",
+    "de": "Minimaler schwarzer Rahmen",
+    "es": "Marco negro minimalista",
+    "pt-BR": "Moldura preta minimalista"
+  },
+  "查看、重命名与分享": {
+    "ko": "보기, 이름 변경 및 공유",
+    "fr": "Voir, renommer et partager",
+    "de": "Ansehen, umbenennen, teilen",
+    "es": "Ver, renombrar y compartir",
+    "pt-BR": "Ver, renomear e compartilhar"
+  },
+  "查看属性、重命名并导出副本。原始文件保持不变。": {
+    "ko": "속성을 보고 이름을 바꾼 복사본을 내보냅니다. 원본은 유지됩니다.",
+    "fr": "Consultez les propriétés et exportez une copie renommée. L’original reste intact.",
+    "de": "Eigenschaften ansehen und umbenannte Kopie exportieren. Das Original bleibt unverändert.",
+    "es": "Consulta propiedades y exporta una copia renombrada. El original no cambia.",
+    "pt-BR": "Veja propriedades e exporte uma cópia renomeada. O original não muda."
+  },
+  "格式": {
+    "ko": "형식",
+    "fr": "Format",
+    "de": "Format",
+    "es": "Formato",
+    "pt-BR": "Formato"
+  },
+  "正在本机处理…": {
+    "ko": "기기에서 처리 중…",
+    "fr": "Traitement local…",
+    "de": "Lokale Verarbeitung…",
+    "es": "Procesando en el dispositivo…",
+    "pt-BR": "Processando no dispositivo…"
+  },
+  "此文档仅用于导出。": {
+    "ko": "내보내기 전용 문서입니다.",
+    "fr": "Document réservé à l’export.",
+    "de": "Dieses Dokument ist nur für den Export.",
+    "es": "Documento solo para exportación.",
+    "pt-BR": "Documento apenas para exportação."
+  },
+  "此设备不支持所选输出格式。": {
+    "ko": "이 기기는 선택한 출력 형식을 지원하지 않습니다.",
+    "fr": "Ce format de sortie n’est pas compatible avec cet appareil.",
+    "de": "Gewähltes Ausgabeformat auf diesem Gerät nicht unterstützt.",
+    "es": "El formato de salida no es compatible con este dispositivo.",
+    "pt-BR": "O formato de saída não é compatível com este dispositivo."
+  },
+  "此设备没有可用闪光灯。": {
+    "ko": "이 기기에 사용 가능한 손전등이 없습니다.",
+    "fr": "Aucune lampe disponible sur cet appareil.",
+    "de": "Keine Taschenlampe auf diesem Gerät verfügbar.",
+    "es": "No hay linterna disponible en este dispositivo.",
+    "pt-BR": "Não há lanterna disponível neste dispositivo."
+  },
+  "此音频不支持 M4A 导出。": {
+    "ko": "이 오디오는 M4A로 내보낼 수 없습니다.",
+    "fr": "Cet audio ne peut pas être exporté en M4A.",
+    "de": "Dieses Audio kann nicht als M4A exportiert werden.",
+    "es": "Este audio no se puede exportar a M4A.",
+    "pt-BR": "Este áudio não pode ser exportado como M4A."
+  },
+  "水印模板": {
+    "ko": "워터마크 스타일",
+    "fr": "Style de filigrane",
+    "de": "Wasserzeichenstil",
+    "es": "Estilo de marca de agua",
+    "pt-BR": "Estilo da marca-d’água"
+  },
+  "没有找到可读取的二维码。请使用清晰、完整的图片。": {
+    "ko": "QR 코드를 찾지 못했습니다. 선명하고 잘리지 않은 이미지를 사용하세요.",
+    "fr": "Aucun QR lisible. Utilisez une image nette et entière.",
+    "de": "Kein lesbarer QR-Code. Klares, vollständiges Bild verwenden.",
+    "es": "No se encontró un QR legible. Usa una imagen nítida y completa.",
+    "pt-BR": "Nenhum QR legível. Use uma imagem nítida e inteira."
+  },
+  "波形来自实际音频。导出结果可再次试听，确认淡入淡出效果。": {
+    "ko": "실제 오디오의 파형입니다. 내보낸 파일에서 페이드를 확인하세요.",
+    "fr": "La forme d’onde vient de l’audio. Écoutez l’export pour vérifier les fondus.",
+    "de": "Wellenform aus dem Audio. Export zur Prüfung der Blenden anhören.",
+    "es": "La onda procede del audio. Escucha la exportación para comprobar los fundidos.",
+    "pt-BR": "A forma de onda vem do áudio. Ouça a exportação para conferir os fades."
+  },
+  "浅色": {
+    "ko": "라이트",
+    "fr": "Clair",
+    "de": "Hell",
+    "es": "Claro",
+    "pt-BR": "Claro"
+  },
+  "测试触感": {
+    "ko": "햅틱 테스트",
+    "fr": "Tester les vibrations",
+    "de": "Haptik testen",
+    "es": "Probar vibración",
+    "pt-BR": "Testar resposta tátil"
+  },
+  "淡入与淡出": {
+    "ko": "페이드 인/아웃",
+    "fr": "Fondu d’entrée et de sortie",
+    "de": "Ein- und Ausblenden",
+    "es": "Fundido de entrada y salida",
+    "pt-BR": "Fade de entrada e saída"
+  },
+  "深色": {
+    "ko": "다크",
+    "fr": "Sombre",
+    "de": "Dunkel",
+    "es": "Oscuro",
+    "pt-BR": "Escuro"
+  },
+  "添加 PDF": {
+    "ko": "PDF 추가",
+    "fr": "Ajouter un PDF",
+    "de": "PDF hinzufügen",
+    "es": "Añadir PDF",
+    "pt-BR": "Adicionar PDF"
+  },
+  "清理临时文件": {
+    "ko": "임시 파일 지우기",
+    "fr": "Effacer les fichiers temporaires",
+    "de": "Temporäre Dateien löschen",
+    "es": "Borrar archivos temporales",
+    "pt-BR": "Apagar arquivos temporários"
+  },
+  "清理后，尚未保存的处理结果将被移除。": {
+    "ko": "저장하지 않은 결과가 삭제됩니다.",
+    "fr": "Les résultats non enregistrés seront supprimés.",
+    "de": "Ungesicherte Ergebnisse werden entfernt.",
+    "es": "Se eliminarán los resultados sin guardar.",
+    "pt-BR": "Resultados não salvos serão removidos."
+  },
+  "清理缓存": {
+    "ko": "캐시 지우기",
+    "fr": "Vider le cache",
+    "de": "Cache leeren",
+    "es": "Borrar caché",
+    "pt-BR": "Limpar cache"
+  },
+  "清除最近使用": {
+    "ko": "최근 도구 지우기",
+    "fr": "Effacer les outils récents",
+    "de": "Letzte Werkzeuge löschen",
+    "es": "Borrar herramientas recientes",
+    "pt-BR": "Apagar ferramentas recentes"
+  },
+  "照片": {
+    "ko": "사진",
+    "fr": "Photo",
+    "de": "Foto",
+    "es": "Foto",
+    "pt-BR": "Foto"
+  },
+  "照片-{0}.": {
+    "ko": "사진-{0}.",
+    "fr": "Photo-{0}.",
+    "de": "Foto-{0}.",
+    "es": "Foto-{0}.",
+    "pt-BR": "Foto-{0}."
+  },
+  "照片合集.pdf": {
+    "ko": "사진모음.pdf",
+    "fr": "Photos.pdf",
+    "de": "Fotos.pdf",
+    "es": "Fotos.pdf",
+    "pt-BR": "Fotos.pdf"
+  },
+  "片段时长": {
+    "ko": "구간 길이",
+    "fr": "Durée de sélection",
+    "de": "Auswahldauer",
+    "es": "Duración de selección",
+    "pt-BR": "Duração da seleção"
+  },
+  "版本": {
+    "ko": "버전",
+    "fr": "Version",
+    "de": "Version",
+    "es": "Versión",
+    "pt-BR": "Versão"
+  },
+  "物理内存": {
+    "ko": "물리 메모리",
+    "fr": "Mémoire physique",
+    "de": "Physischer Speicher",
+    "es": "Memoria física",
+    "pt-BR": "Memória física"
+  },
+  "生成二维码": {
+    "ko": "QR 코드 생성",
+    "fr": "Générer le code QR",
+    "de": "QR-Code erstellen",
+    "es": "Generar código QR",
+    "pt-BR": "Gerar código QR"
+  },
+  "生成的二维码": {
+    "ko": "생성된 QR 코드",
+    "fr": "Code QR généré",
+    "de": "Erstellter QR-Code",
+    "es": "Código QR generado",
+    "pt-BR": "Código QR gerado"
+  },
+  "用手指划过每个方格，观察是否有无法触达的区域。此测试仅检查当前区域。": {
+    "ko": "각 칸을 드래그해 반응하지 않는 부분을 확인하세요. 이 영역만 테스트합니다.",
+    "fr": "Glissez sur chaque case et vérifiez les zones sans réponse. Seule cette zone est testée.",
+    "de": "Über jedes Feld streichen und auf Ausfälle achten. Nur dieser Bereich wird geprüft.",
+    "es": "Desliza por cada casilla y busca zonas sin respuesta. Solo se prueba esta área.",
+    "pt-BR": "Deslize por cada célula e observe áreas sem resposta. Apenas esta área é testada."
+  },
+  "电池与存储": {
+    "ko": "배터리 및 저장 공간",
+    "fr": "Batterie et stockage",
+    "de": "Akku & Speicher",
+    "es": "Batería y espacio",
+    "pt-BR": "Bateria e armazenamento"
+  },
+  "留下恰到好处的片段": {
+    "ko": "딱 맞는 순간을 남기세요",
+    "fr": "Gardez le bon moment",
+    "de": "Den richtigen Moment bewahren",
+    "es": "Guarda el momento justo",
+    "pt-BR": "Guarde o momento certo"
+  },
+  "留住喜欢的声音": {
+    "ko": "좋아하는 소리를 간직하세요",
+    "fr": "Gardez vos sons préférés",
+    "de": "Lieblingsklänge bewahren",
+    "es": "Conserva los sonidos que te gustan",
+    "pt-BR": "Guarde seus sons favoritos"
+  },
+  "目标体积": {
+    "ko": "목표 크기",
+    "fr": "Taille cible",
+    "de": "Zielgröße",
+    "es": "Tamaño objetivo",
+    "pt-BR": "Tamanho desejado"
+  },
+  "相机水印": {
+    "ko": "카메라 워터마크",
+    "fr": "Infos photo",
+    "de": "Kamerawasserzeichen",
+    "es": "Datos de cámara",
+    "pt-BR": "Dados da câmera"
+  },
+  "相机水印、转换与隐私保护": {
+    "ko": "카메라 워터마크, 변환, 개인정보",
+    "fr": "Filigranes, conversion et confidentialité",
+    "de": "Wasserzeichen, Konvertierung und Datenschutz",
+    "es": "Marcas de agua, conversión y privacidad",
+    "pt-BR": "Marcas-d’água, conversão e privacidade"
+  },
+  "真实音频波形，可使用下方时间滑块调整片段": {
+    "ko": "오디오 파형입니다. 아래 시간 슬라이더로 구간을 조절하세요.",
+    "fr": "Forme d’onde audio. Ajustez avec les curseurs ci-dessous.",
+    "de": "Audiowellenform. Mit den Zeitreglern unten zuschneiden.",
+    "es": "Onda de audio. Ajusta el corte con los controles inferiores.",
+    "pt-BR": "Forma de onda de áudio. Ajuste o corte com os controles abaixo."
+  },
+  "短铃声 10s": {
+    "ko": "짧은 벨소리 10초",
+    "fr": "Sonnerie courte 10 s",
+    "de": "Kurzer Klingelton 10 s",
+    "es": "Tono corto 10 s",
+    "pt-BR": "Toque curto 10 s"
+  },
+  "硬件标识": {
+    "ko": "하드웨어 식별자",
+    "fr": "Identifiant matériel",
+    "de": "Hardwarekennung",
+    "es": "Identificador de hardware",
+    "pt-BR": "Identificador de hardware"
+  },
+  "离线生成与图片识别": {
+    "ko": "오프라인 생성 및 이미지 인식",
+    "fr": "Génération hors ligne et lecture d’images",
+    "de": "Offline erstellen und Bilder lesen",
+    "es": "Generación sin conexión y lectura de imágenes",
+    "pt-BR": "Geração offline e leitura de imagens"
+  },
+  "移除文件": {
+    "ko": "파일 제거",
+    "fr": "Retirer le fichier",
+    "de": "Datei entfernen",
+    "es": "Quitar archivo",
+    "pt-BR": "Remover arquivo"
+  },
+  "简洁叠字": {
+    "ko": "간결한 텍스트",
+    "fr": "Texte simple",
+    "de": "Einfacher Text",
+    "es": "Texto sencillo",
+    "pt-BR": "Texto simples"
+  },
+  "类型": {
+    "ko": "유형",
+    "fr": "Type",
+    "de": "Typ",
+    "es": "Tipo",
+    "pt-BR": "Tipo"
+  },
+  "系统版本": {
+    "ko": "시스템 버전",
+    "fr": "Version du système",
+    "de": "Systemversion",
+    "es": "Versión del sistema",
+    "pt-BR": "Versão do sistema"
+  },
+  "经典白边": {
+    "ko": "클래식 흰 테두리",
+    "fr": "Cadre blanc classique",
+    "de": "Klassischer weißer Rahmen",
+    "es": "Marco blanco clásico",
+    "pt-BR": "Moldura branca clássica"
+  },
+  "结束时间": {
+    "ko": "종료 시간",
+    "fr": "Fin",
+    "de": "Endzeit",
+    "es": "Fin",
+    "pt-BR": "Fim"
+  },
+  "结束页": {
+    "ko": "끝 페이지",
+    "fr": "Dernière page",
+    "de": "Letzte Seite",
+    "es": "Última página",
+    "pt-BR": "Última página"
+  },
+  "结束：{0} 秒": {
+    "ko": "종료: {0}초",
+    "fr": "Fin : {0} s",
+    "de": "Ende: {0} s",
+    "es": "Fin: {0} s",
+    "pt-BR": "Fim: {0} s"
+  },
+  "结果": {
+    "ko": "결과",
+    "fr": "Résultat",
+    "de": "Ergebnis",
+    "es": "Resultado",
+    "pt-BR": "Resultado"
+  },
+  "结果暂存在本机缓存中，请及时保存。": {
+    "ko": "결과는 임시 저장입니다. 보관하려면 저장하세요.",
+    "fr": "Résultats temporaires. Enregistrez une copie pour les conserver.",
+    "de": "Ergebnisse sind temporär. Zum Behalten eine Kopie sichern.",
+    "es": "Los resultados son temporales. Guarda una copia para conservarlos.",
+    "pt-BR": "Os resultados são temporários. Salve uma cópia para guardá-los."
+  },
+  "署名或标题（可选）": {
+    "ko": "서명 또는 제목（선택）",
+    "fr": "Signature ou titre (facultatif)",
+    "de": "Signatur oder Titel (optional)",
+    "es": "Firma o título (opcional)",
+    "pt-BR": "Assinatura ou título (opcional)"
+  },
+  "自动保存结果到文件夹": {
+    "ko": "결과를 폴더에 자동 저장",
+    "fr": "Enregistrer automatiquement les résultats",
+    "de": "Ergebnisse automatisch im Ordner sichern",
+    "es": "Guardar resultados automáticamente",
+    "pt-BR": "Salvar resultados automaticamente"
+  },
+  "自动移除 EXIF 与位置信息": {
+    "ko": "EXIF 및 위치 메타데이터 삭제",
+    "fr": "Retirer EXIF et géolocalisation",
+    "de": "EXIF- und Standortdaten entfernen",
+    "es": "Eliminar EXIF y ubicación",
+    "pt-BR": "Remover EXIF e localização"
+  },
+  "观察正常": {
+    "ko": "정상으로 보임",
+    "fr": "Aspect normal",
+    "de": "Wirkt normal",
+    "es": "Parece normal",
+    "pt-BR": "Parece normal"
+  },
+  "视频": {
+    "ko": "비디오",
+    "fr": "Vidéo",
+    "de": "Video",
+    "es": "Vídeo",
+    "pt-BR": "Vídeo"
+  },
+  "视频与文件": {
+    "ko": "비디오 및 파일",
+    "fr": "Vidéo et fichiers",
+    "de": "Video & Dateien",
+    "es": "Vídeo y archivos",
+    "pt-BR": "Vídeo e arquivos"
+  },
+  "视频声音.mov": {
+    "ko": "영상소리.mov",
+    "fr": "Audio-video.mov",
+    "de": "Videoton.mov",
+    "es": "Audio-video.mov",
+    "pt-BR": "Audio-video.mov"
+  },
+  "视频提取声音": {
+    "ko": "영상 소리 추출",
+    "fr": "Extraire l’audio vidéo",
+    "de": "Videoton extrahieren",
+    "es": "Extraer audio del vídeo",
+    "pt-BR": "Extrair áudio do vídeo"
+  },
+  "触感": {
+    "ko": "햅틱",
+    "fr": "Vibrations",
+    "de": "Haptik",
+    "es": "Vibración",
+    "pt-BR": "Resposta tátil"
+  },
+  "触控": {
+    "ko": "터치",
+    "fr": "Tactile",
+    "de": "Touch",
+    "es": "Tacto",
+    "pt-BR": "Toque"
+  },
+  "触控覆盖测试": {
+    "ko": "터치 영역 테스트",
+    "fr": "Test de couverture tactile",
+    "de": "Touch-Abdeckung testen",
+    "es": "Prueba de cobertura táctil",
+    "pt-BR": "Teste de cobertura do toque"
+  },
+  "让每一份文件\\n恰到好处。": {
+    "ko": "모든 파일을\\n알맞게.",
+    "fr": "Chaque fichier,\\nà votre mesure.",
+    "de": "Jede Datei,\\ngenau richtig.",
+    "es": "Cada archivo,\\na tu medida.",
+    "pt-BR": "Cada arquivo,\\nna medida."
+  },
+  "让视频里的声音独立出来": {
+    "ko": "영상의 소리를 따로 꺼내세요",
+    "fr": "Donnez sa liberté au son de vos vidéos",
+    "de": "Videoton eigenständig nutzen",
+    "es": "Dale vida propia al audio de tus vídeos",
+    "pt-BR": "Dê vida própria ao áudio dos vídeos"
+  },
+  "记录仅保留在当前页面。没有自动判定通过的项目。": {
+    "ko": "기록은 현재 화면에서만 유지됩니다. 자동 합격 판정은 없습니다.",
+    "fr": "Les observations restent sur cette page uniquement. Aucun test n’est validé automatiquement.",
+    "de": "Beobachtungen gelten nur auf dieser Seite. Kein Test wird automatisch als bestanden markiert.",
+    "es": "Las observaciones solo duran en esta página. Ninguna prueba se aprueba automáticamente.",
+    "pt-BR": "As observações ficam apenas nesta página. Nenhum teste é aprovado automaticamente."
+  },
+  "设为结束": {
+    "ko": "종료점 설정",
+    "fr": "Définir la fin",
+    "de": "Ende setzen",
+    "es": "Fijar fin",
+    "pt-BR": "Definir fim"
+  },
+  "设为铃声 / 提示音": {
+    "ko": "벨소리/알림음으로 설정",
+    "fr": "Définir comme sonnerie ou alerte",
+    "de": "Als Klingel- oder Hinweiston",
+    "es": "Usar como tono o aviso",
+    "pt-BR": "Usar como toque ou alerta"
+  },
+  "设备": {
+    "ko": "기기",
+    "fr": "Appareil",
+    "de": "Gerät",
+    "es": "Dispositivo",
+    "pt-BR": "Dispositivo"
+  },
+  "设备信息": {
+    "ko": "기기 정보",
+    "fr": "Infos appareil",
+    "de": "Geräteinfos",
+    "es": "Información del dispositivo",
+    "pt-BR": "Informações do dispositivo"
+  },
+  "设备类型": {
+    "ko": "기기 유형",
+    "fr": "Type d’appareil",
+    "de": "Gerätetyp",
+    "es": "Tipo de dispositivo",
+    "pt-BR": "Tipo de dispositivo"
+  },
+  "设备自检": {
+    "ko": "기기 자가 점검",
+    "fr": "Vérification appareil",
+    "de": "Gerätecheck",
+    "es": "Comprobar dispositivo",
+    "pt-BR": "Verificar dispositivo"
+  },
+  "设置": {
+    "ko": "설정",
+    "fr": "Réglages",
+    "de": "Einstellungen",
+    "es": "Ajustes",
+    "pt-BR": "Ajustes"
+  },
+  "识别内容": {
+    "ko": "인식된 내용",
+    "fr": "Contenu reconnu",
+    "de": "Erkannter Inhalt",
+    "es": "Contenido reconocido",
+    "pt-BR": "Conteúdo reconhecido"
+  },
+  "试听导出结果": {
+    "ko": "내보낸 소리 미리 듣기",
+    "fr": "Écouter l’audio exporté",
+    "de": "Exportiertes Audio anhören",
+    "es": "Escuchar audio exportado",
+    "pt-BR": "Ouvir áudio exportado"
+  },
+  "试听所选片段": {
+    "ko": "선택 구간 미리 듣기",
+    "fr": "Écouter la sélection",
+    "de": "Auswahl anhören",
+    "es": "Escuchar selección",
+    "pt-BR": "Ouvir seleção"
+  },
+  "语言": {
+    "ko": "언어",
+    "fr": "Langue",
+    "de": "Sprache",
+    "es": "Idioma",
+    "pt-BR": "Idioma"
+  },
+  "请先选择 PDF。": {
+    "ko": "먼저 PDF를 선택하세요.",
+    "fr": "Choisissez d’abord un PDF.",
+    "de": "Zuerst ein PDF wählen.",
+    "es": "Elige primero un PDF.",
+    "pt-BR": "Escolha primeiro um PDF."
+  },
+  "请先选择同步文件夹。": {
+    "ko": "먼저 동기화 폴더를 선택하세요.",
+    "fr": "Choisissez d’abord un dossier synchronisé.",
+    "de": "Zuerst einen Sync-Ordner wählen.",
+    "es": "Elige primero una carpeta sincronizada.",
+    "pt-BR": "Escolha primeiro uma pasta sincronizada."
+  },
+  "请先选择图片。": {
+    "ko": "먼저 이미지를 선택하세요.",
+    "fr": "Choisissez d’abord une image.",
+    "de": "Zuerst ein Bild wählen.",
+    "es": "Elige primero una imagen.",
+    "pt-BR": "Escolha primeiro uma imagem."
+  },
+  "请检查裁剪区间；铃声长度不能超过 30 秒。": {
+    "ko": "구간을 확인하세요. 벨소리는 30초 이하여야 합니다.",
+    "fr": "Vérifiez la plage. Les sonneries ne doivent pas dépasser 30 secondes.",
+    "de": "Bereich prüfen. Klingeltöne dürfen höchstens 30 Sekunden dauern.",
+    "es": "Comprueba el rango. Los tonos deben durar como máximo 30 segundos.",
+    "pt-BR": "Confira o intervalo. Toques devem ter no máximo 30 segundos."
+  },
+  "请输入 1–1500 字节的文字或链接。": {
+    "ko": "1~1,500바이트 텍스트 또는 URL을 입력하세요.",
+    "fr": "Saisissez un texte ou une URL de 1 à 1 500 octets.",
+    "de": "Text oder URL mit 1–1.500 Bytes eingeben.",
+    "es": "Introduce texto o URL de 1 a 1500 bytes.",
+    "pt-BR": "Insira texto ou URL de 1 a 1.500 bytes."
+  },
+  "请输入有效文件名（不含路径分隔符，最多 180 字节）。": {
+    "ko": "경로 구분자 없이 최대 180바이트 파일명을 입력하세요.",
+    "fr": "Nom valide sans séparateur de chemin, 180 octets maximum.",
+    "de": "Gültigen Dateinamen ohne Pfadtrenner eingeben, maximal 180 Bytes.",
+    "es": "Nombre válido sin separadores de ruta, máximo 180 bytes.",
+    "pt-BR": "Nome válido sem separadores de caminho, até 180 bytes."
+  },
+  "请输入有效页码范围。": {
+    "ko": "유효한 페이지 범위를 입력하세요.",
+    "fr": "Saisissez une plage de pages valide.",
+    "de": "Gültigen Seitenbereich eingeben.",
+    "es": "Introduce un rango de páginas válido.",
+    "pt-BR": "Insira um intervalo de páginas válido."
+  },
+  "读取文件夹…": {
+    "ko": "폴더 읽는 중…",
+    "fr": "Lecture du dossier…",
+    "de": "Ordner wird gelesen…",
+    "es": "Leyendo carpeta…",
+    "pt-BR": "Lendo pasta…"
+  },
+  "质量": {
+    "ko": "품질",
+    "fr": "Qualité",
+    "de": "Qualität",
+    "es": "Calidad",
+    "pt-BR": "Qualidade"
+  },
+  "起始页": {
+    "ko": "시작 페이지",
+    "fr": "Première page",
+    "de": "Erste Seite",
+    "es": "Primera página",
+    "pt-BR": "Primeira página"
+  },
+  "跟随系统": {
+    "ko": "시스템 설정",
+    "fr": "Selon le système",
+    "de": "Systemstandard",
+    "es": "Según el sistema",
+    "pt-BR": "Padrão do sistema"
+  },
+  "转换格式、缩小体积，或抹去位置痕迹。": {
+    "ko": "변환, 압축, 위치 정보 삭제.",
+    "fr": "Convertir, compresser, retirer la localisation.",
+    "de": "Konvertieren, verkleinern, Standortdaten entfernen.",
+    "es": "Convierte, comprime o elimina la ubicación.",
+    "pt-BR": "Converta, comprima ou remova a localização."
+  },
+  "输入文档": {
+    "ko": "입력 문서",
+    "fr": "Documents source",
+    "de": "Eingabedokumente",
+    "es": "Documentos de entrada",
+    "pt-BR": "Documentos de entrada"
+  },
+  "输出设置": {
+    "ko": "출력 설정",
+    "fr": "Réglages de sortie",
+    "de": "Ausgabeeinstellungen",
+    "es": "Ajustes de salida",
+    "pt-BR": "Ajustes de saída"
+  },
+  "这张图片没有相机参数；不会添加虚构参数。": {
+    "ko": "카메라 메타데이터가 없습니다. 가상 정보는 추가하지 않습니다.",
+    "fr": "Aucune métadonnée photo. Aucune information ne sera inventée.",
+    "de": "Keine Kamerametadaten. Es werden keine Angaben erfunden.",
+    "es": "No hay metadatos de cámara. No se inventará información.",
+    "pt-BR": "Sem metadados da câmera. Nenhuma informação será inventada."
+  },
+  "进一步检查": {
+    "ko": "추가 확인",
+    "fr": "Vérifications complémentaires",
+    "de": "Weitere Prüfungen",
+    "es": "Más comprobaciones",
+    "pt-BR": "Mais verificações"
+  },
+  "选一个音频或视频，拖动波形两侧选段。": {
+    "ko": "소리나 영상을 고르고 파형 핸들을 드래그해 자르세요.",
+    "fr": "Choisissez un audio ou une vidéo, puis glissez les poignées pour couper.",
+    "de": "Audio oder Video wählen und die Wellenformgriffe zum Kürzen ziehen.",
+    "es": "Elige audio o vídeo y arrastra los controles de la onda para recortar.",
+    "pt-BR": "Escolha áudio ou vídeo e arraste os controles da onda para cortar."
+  },
+  "选择 iCloud Drive 文件夹": {
+    "ko": "iCloud Drive 폴더 선택",
+    "fr": "Choisir un dossier iCloud Drive",
+    "de": "iCloud-Drive-Ordner wählen",
+    "es": "Elegir carpeta de iCloud Drive",
+    "pt-BR": "Escolher pasta do iCloud Drive"
+  },
+  "通用 JPG": {
+    "ko": "범용 JPG",
+    "fr": "JPG universel",
+    "de": "Universelles JPG",
+    "es": "JPG universal",
+    "pt-BR": "JPG universal"
+  },
+  "重命名副本": {
+    "ko": "복사본 이름 변경",
+    "fr": "Renommer la copie",
+    "de": "Kopie umbenennen",
+    "es": "Renombrar copia",
+    "pt-BR": "Renomear cópia"
+  },
+  "重置": {
+    "ko": "초기화",
+    "fr": "Réinitialiser",
+    "de": "Zurücksetzen",
+    "es": "Restablecer",
+    "pt-BR": "Redefinir"
+  },
+  "铃声制作": {
+    "ko": "벨소리 만들기",
+    "fr": "Créateur de sonneries",
+    "de": "Klingeltonstudio",
+    "es": "Crear tonos",
+    "pt-BR": "Criar toques"
+  },
+  "铃声提示音": {
+    "ko": "벨소리 및 알림",
+    "fr": "Sonneries et alertes",
+    "de": "Klingel- und Hinweistöne",
+    "es": "Tonos y avisos",
+    "pt-BR": "Toques e alertas"
+  },
+  "铃声最长 30 秒。推荐 29 秒来电铃声，或 3–5 秒短提示音。": {
+    "ko": "벨소리는 최대 30초. 전화는 29초, 알림은 3~5초를 권장합니다.",
+    "fr": "30 secondes maximum. Essayez 29 secondes pour les appels, 3 à 5 pour les alertes.",
+    "de": "Höchstens 30 Sekunden. Empfehlung: 29 für Anrufe, 3–5 für Hinweise.",
+    "es": "Máximo 30 segundos. Prueba 29 para llamadas y 3–5 para avisos.",
+    "pt-BR": "Máximo de 30 segundos. Use 29 para chamadas e 3–5 para alertas."
+  },
+  "闪光灯": {
+    "ko": "손전등",
+    "fr": "Lampe torche",
+    "de": "Taschenlampe",
+    "es": "Linterna",
+    "pt-BR": "Lanterna"
+  },
+  "随手处理 · 安心留在本机": {
+    "ko": "간편하게 · 기기에 안전하게",
+    "fr": "Tout simplement · Sur votre appareil",
+    "de": "Einfach erledigt · Lokal gespeichert",
+    "es": "Fácil y en tu dispositivo",
+    "pt-BR": "Fácil e no seu dispositivo"
+  },
+  "隐私说明": {
+    "ko": "개인정보",
+    "fr": "Confidentialité",
+    "de": "Datenschutz",
+    "es": "Privacidad",
+    "pt-BR": "Privacidade"
+  },
+  "音频": {
+    "ko": "오디오",
+    "fr": "Audio",
+    "de": "Audio",
+    "es": "Audio",
+    "pt-BR": "Áudio"
+  },
+  "音频信息": {
+    "ko": "오디오 정보",
+    "fr": "Infos audio",
+    "de": "Audioinfos",
+    "es": "Información del audio",
+    "pt-BR": "Informações do áudio"
+  },
+  "音频写入失败。": {
+    "ko": "오디오를 쓸 수 없습니다.",
+    "fr": "Écriture audio impossible.",
+    "de": "Audio konnte nicht geschrieben werden.",
+    "es": "No se pudo escribir el audio.",
+    "pt-BR": "Não foi possível gravar o áudio."
+  },
+  "音频剪辑": {
+    "ko": "오디오 편집",
+    "fr": "Éditeur audio",
+    "de": "Audioeditor",
+    "es": "Editor de audio",
+    "pt-BR": "Editor de áudio"
+  },
+  "音频导出失败。": {
+    "ko": "오디오 내보내기 실패.",
+    "fr": "Échec de l’export audio.",
+    "de": "Audioexport fehlgeschlagen.",
+    "es": "Error al exportar audio.",
+    "pt-BR": "Falha ao exportar áudio."
+  },
+  "音频解码未完成。": {
+    "ko": "오디오 디코딩이 완료되지 않았습니다.",
+    "fr": "Décodage audio incomplet.",
+    "de": "Audiodekodierung nicht abgeschlossen.",
+    "es": "La decodificación no terminó.",
+    "pt-BR": "A decodificação não foi concluída."
+  },
+  "页码范围（从 1 开始）": {
+    "ko": "페이지 범위（1부터）",
+    "fr": "Pages (à partir de 1)",
+    "de": "Seitenbereich (ab 1)",
+    "es": "Rango de páginas (desde 1)",
+    "pt-BR": "Intervalo de páginas (a partir de 1)"
+  },
+  "页码超出范围。此文档共 {0} 页。": {
+    "ko": "범위 밖입니다. 이 문서는 {0}페이지입니다.",
+    "fr": "Hors limites. Le document contient {0} pages.",
+    "de": "Außerhalb des Bereichs. Das Dokument hat {0} Seiten.",
+    "es": "Fuera de rango. El documento tiene {0} páginas.",
+    "pt-BR": "Fora do intervalo. O documento tem {0} páginas."
+  },
+  "顺匣": {
+    "ko": "ShunBox",
+    "fr": "ShunBox",
+    "de": "ShunBox",
+    "es": "ShunBox",
+    "pt-BR": "ShunBox"
+  },
+  "预览文件": {
+    "ko": "파일 미리보기",
+    "fr": "Aperçu du fichier",
+    "de": "Dateivorschau",
+    "es": "Vista previa del archivo",
+    "pt-BR": "Prévia do arquivo"
+  },
+  "预览结果": {
+    "ko": "결과 미리보기",
+    "fr": "Aperçu du résultat",
+    "de": "Ergebnisvorschau",
+    "es": "Vista previa del resultado",
+    "pt-BR": "Prévia do resultado"
+  },
+  "首页": {
+    "ko": "홈",
+    "fr": "Accueil",
+    "de": "Start",
+    "es": "Inicio",
+    "pt-BR": "Início"
+  },
+  "麦克风": {
+    "ko": "마이크",
+    "fr": "Microphone",
+    "de": "Mikrofon",
+    "es": "Micrófono",
+    "pt-BR": "Microfone"
+  },
+  "默认图片格式": {
+    "ko": "기본 이미지 형식",
+    "fr": "Format d’image par défaut",
+    "de": "Standardbildformat",
+    "es": "Formato de imagen predeterminado",
+    "pt-BR": "Formato de imagem padrão"
+  },
+  "1. 推荐导出 30 秒以内的 M4A。\\n2. 点击分享，查看系统是否提供“用作铃声”；也可先保存到文件，再从文件 App 分享。\\n3. 在系统设置 → 声音与触感中，选择已添加的声音。具体提示音可选项由系统和对应 App 决定。": {
+    "ko": "1. 30초 이내 M4A를 내보냅니다.\\n2. 공유에서 벨소리로 사용을 찾으세요. 파일에 저장한 후 공유할 수도 있습니다.\\n3. 설정 → 사운드 및 햅틱에서 추가된 소리를 선택합니다. 알림음 선택은 시스템과 앱에 따라 다릅니다.",
+    "fr": "1. Exportez un M4A de 30 secondes maximum.\\n2. Partagez et cherchez Utiliser comme sonnerie, éventuellement depuis Fichiers.\\n3. Choisissez le son dans Réglages → Sons et vibrations. Les alertes disponibles dépendent du système et de l’app.",
+    "de": "1. M4A mit höchstens 30 Sekunden exportieren.\\n2. Teilen und nach Als Klingelton verwenden suchen, auch über die Dateien-App möglich.\\n3. Ton unter Einstellungen → Töne & Haptik wählen. Hinweistöne hängen von System und App ab.",
+    "es": "1. Exporta un M4A de hasta 30 segundos.\\n2. Comparte y busca Usar como tono, también desde Archivos.\\n3. Elige el sonido en Ajustes → Sonidos y vibraciones. Los avisos disponibles dependen del sistema y la app.",
+    "pt-BR": "1. Exporte um M4A de até 30 segundos.\\n2. Compartilhe e procure Usar como toque, também pelo app Arquivos.\\n3. Escolha o som em Ajustes → Sons e Tato. Alertas disponíveis dependem do sistema e do app."
+  },
+  "M4A 体积较小；WAV / AIFF / CAF 使用 44.1 kHz、16 位、双声道 PCM，体积较大。不会恢复源文件已经损失的音质。": {
+    "ko": "M4A는 작습니다. WAV/AIFF/CAF는 44.1 kHz, 16비트 스테레오 PCM으로 더 큽니다. 손실된 음질은 복구되지 않습니다.",
+    "fr": "M4A est compact. WAV/AIFF/CAF utilisent du PCM stéréo 44,1 kHz, 16 bits et sont plus volumineux. La qualité perdue n’est pas restaurée.",
+    "de": "M4A ist kompakt. WAV/AIFF/CAF verwenden 44,1 kHz, 16-Bit-Stereo-PCM und sind größer. Verlorene Qualität wird nicht wiederhergestellt.",
+    "es": "M4A ocupa menos. WAV/AIFF/CAF usan PCM estéreo de 44,1 kHz y 16 bits, y ocupan más. No recuperan calidad perdida.",
+    "pt-BR": "M4A é compacto. WAV/AIFF/CAF usam PCM estéreo de 44,1 kHz e 16 bits e são maiores. Qualidade perdida não é recuperada."
+  },
+  "MOV / MP4 等系统支持的视频可提取音轨；无音轨、加密或不支持的编码会明确报错。": {
+    "ko": "MOV/MP4 등 시스템 지원 영상에서 소리를 추출합니다. 트랙 없음, 암호화 또는 미지원 코덱은 오류를 표시합니다.",
+    "fr": "Extraction des vidéos compatibles, dont MOV/MP4. Une piste absente, chiffrée ou un codec incompatible produit une erreur.",
+    "de": "Ton aus unterstützten Videos wie MOV/MP4 extrahieren. Fehlende Spuren, Verschlüsselung oder inkompatible Codecs erzeugen Fehler.",
+    "es": "Extrae audio de vídeos compatibles como MOV/MP4. Pistas ausentes, cifrado o códecs incompatibles generan un error.",
+    "pt-BR": "Extraia áudio de vídeos compatíveis como MOV/MP4. Ausência de faixa, criptografia ou codec incompatível gera erro."
+  },
+  "MP3 目前仅导入，不提供 MP3 编码。DRM 保护的音乐不能转换。视频导入会先提取为 M4A，PCM 输出不会恢复原文件已丢失的音质。": {
+    "ko": "MP3는 가져오기만 지원합니다. DRM 음악은 변환할 수 없습니다. 영상 소리는 먼저 M4A로 추출합니다. PCM으로 손실된 음질을 복구할 수 없습니다.",
+    "fr": "MP3 en import uniquement. Pas de conversion des musiques protégées par DRM. L’audio vidéo est d’abord extrait en M4A. Le PCM ne restaure pas la qualité perdue.",
+    "de": "MP3 nur als Import. Keine Konvertierung DRM-geschützter Musik. Videoton wird zuerst als M4A extrahiert. PCM stellt verlorene Qualität nicht wieder her.",
+    "es": "MP3 solo se importa. No se convierte música con DRM. El audio del vídeo se extrae primero a M4A. PCM no recupera calidad perdida.",
+    "pt-BR": "MP3 apenas para importação. Música com DRM não pode ser convertida. Áudio de vídeo é extraído primeiro em M4A. PCM não recupera qualidade perdida."
+  },
+  "PDF：合并、连续页提取。文件管理可导入系统文件选择器允许的文件；Quick Look 是否可预览由系统决定。": {
+    "ko": "PDF는 결합 및 연속 페이지 추출을 지원합니다. 파일 관리의 가져오기는 시스템 선택기에 따르며 미리보기는 Quick Look 지원에 따라 다릅니다.",
+    "fr": "PDF : fusion et extraction de pages consécutives. L’import dépend du sélecteur système et l’aperçu de Quick Look.",
+    "de": "PDF: Zusammenfügen und aufeinanderfolgende Seiten extrahieren. Import gemäß Systemauswahl, Vorschau abhängig von Quick Look.",
+    "es": "PDF: unión y extracción de páginas consecutivas. La importación depende del selector y la vista previa de Quick Look.",
+    "pt-BR": "PDF: mesclagem e extração de páginas consecutivas. A importação depende do seletor e a prévia do Quick Look."
+  },
+  "图片工坊重新编码像素以移除来源元数据。水印、照片中可见的地址等像素内容不会被自动识别或删除。": {
+    "ko": "원본 메타데이터 제거를 위해 픽셀을 재인코딩합니다. 워터마크나 사진 속 주소 등 보이는 내용은 탐지하거나 지우지 않습니다.",
+    "fr": "Les pixels sont réencodés pour supprimer les métadonnées. Les éléments visibles, comme filigranes et adresses, ne sont ni détectés ni effacés.",
+    "de": "Pixel werden zum Entfernen der Metadaten neu kodiert. Sichtbare Wasserzeichen oder Adressen werden nicht erkannt oder entfernt.",
+    "es": "Los píxeles se recodifican para quitar metadatos. Marcas de agua y direcciones visibles no se detectan ni borran.",
+    "pt-BR": "Os pixels são recodificados para remover metadados. Marcas-d’água e endereços visíveis não são detectados nem apagados."
+  },
+  "如果系统未显示该选项，可将 M4A 导入 GarageBand，分享 → 铃声 → 导出。工具箱只制作与分享文件，最终安装由系统完成。": {
+    "ko": "항목이 없으면 M4A를 GarageBand로 가져와 공유 → 벨소리 → 내보내기를 선택하세요. 앱은 파일을 만들고 공유하며 설치는 iOS가 처리합니다.",
+    "fr": "Si l’option manque, importez le M4A dans GarageBand, puis Partager → Sonnerie → Exporter. L’app crée et partage ; iOS gère l’installation.",
+    "de": "Fehlt die Option, M4A in GarageBand importieren: Teilen → Klingelton → Exportieren. Die App erstellt und teilt Dateien; iOS übernimmt die Installation.",
+    "es": "Si falta la opción, importa el M4A a GarageBand: Compartir → Tono → Exportar. La app crea y comparte; iOS instala.",
+    "pt-BR": "Se a opção não aparecer, importe o M4A no GarageBand: Compartilhar → Toque → Exportar. O app cria e compartilha; o iOS instala."
+  },
+  "完全离线生成，内容直接编码到图片中。不要放入不想公开的密码或个人信息。": {
+    "ko": "완전 오프라인으로 내용을 이미지에 넣습니다. 공개하고 싶지 않은 비밀번호나 개인정보를 넣지 마세요.",
+    "fr": "Création hors ligne. Le contenu est encodé dans l’image. N’y incluez pas de mots de passe ou de données privées.",
+    "de": "Vollständig offline erstellt. Inhalt wird im Bild kodiert. Keine vertraulichen Passwörter oder persönlichen Daten einfügen.",
+    "es": "Se genera sin conexión y el contenido se codifica en la imagen. No incluyas contraseñas ni datos privados.",
+    "pt-BR": "Gerado offline, com o conteúdo codificado na imagem. Não inclua senhas ou dados privados."
+  },
+  "导入副本和处理结果临时保存在应用缓存中，超过一天的旧缓存在下次启动时清理。分享或保存后，文件由目标应用管理。最近使用只记录工具类型，不记录文件名、内容或路径。": {
+    "ko": "가져온 복사본과 결과는 임시 캐시입니다. 하루 지난 캐시는 다음 실행 시 지웁니다. 저장·공유 후에는 대상 앱이 관리합니다. 최근 기록은 도구 종류만 저장합니다.",
+    "fr": "Copies et résultats sont temporaires. Le cache de plus d’un jour est effacé au prochain lancement. Après partage ou sauvegarde, l’app cible gère les fichiers. L’historique ne stocke que les types d’outils.",
+    "de": "Importkopien und Ergebnisse sind temporär. Cache über einen Tag wird beim nächsten Start gelöscht. Geteilte oder gesicherte Dateien verwaltet die Ziel-App. Verlauf speichert nur Werkzeugtypen.",
+    "es": "Copias y resultados se guardan temporalmente. La caché de más de un día se borra al iniciar. Tras guardar o compartir, la app de destino los gestiona. Recientes guarda solo tipos de herramientas.",
+    "pt-BR": "Cópias e resultados são temporários. Cache com mais de um dia é apagado na próxima abertura. Após salvar ou compartilhar, o app de destino gerencia os arquivos. Recentes guarda apenas tipos de ferramenta."
+  },
+  "常用输入：MP3、M4A、AAC、WAV、AIFF、CAF、FLAC。实际能否读取取决于文件内部编码、系统解码器与内容保护。": {
+    "ko": "주요 입력: MP3, M4A, AAC, WAV, AIFF, CAF, FLAC. 실제 지원은 코덱, 시스템 디코더, 콘텐츠 보호에 따라 다릅니다.",
+    "fr": "Entrées courantes : MP3, M4A, AAC, WAV, AIFF, CAF, FLAC. La compatibilité dépend des codecs, du système et des protections.",
+    "de": "Typische Eingaben: MP3, M4A, AAC, WAV, AIFF, CAF, FLAC. Unterstützung hängt von Codecs, Systemdecodern und Inhaltsschutz ab.",
+    "es": "Entradas habituales: MP3, M4A, AAC, WAV, AIFF, CAF, FLAC. Depende de códecs, decodificadores y protección.",
+    "pt-BR": "Entradas comuns: MP3, M4A, AAC, WAV, AIFF, CAF, FLAC. Depende de codecs, decodificadores e proteção."
+  },
+  "序列号、IMEI、保修及零件维修记录，请在系统设置 → 通用 → 关于本机查看；电池健康请在系统设置 → 电池中查看。": {
+    "ko": "일련번호, IMEI, 보증 및 부품 기록은 설정 → 일반 → 정보, 배터리 성능은 설정 → 배터리에서 확인하세요.",
+    "fr": "Numéro de série, IMEI, garantie et pièces : Réglages → Général → Informations. État de batterie : Réglages → Batterie.",
+    "de": "Seriennummer, IMEI, Garantie und Teile: Einstellungen → Allgemein → Info. Akkuzustand: Einstellungen → Batterie.",
+    "es": "Número de serie, IMEI, garantía y piezas: Ajustes → General → Información. Salud de batería: Ajustes → Batería.",
+    "pt-BR": "Número de série, IMEI, garantia e peças: Ajustes → Geral → Sobre. Saúde da bateria: Ajustes → Bateria."
+  },
+  "必要时会继续降低质量和尺寸，直到实际文件达到目标。上方预览仅显示样式，最终清晰度请检查导出结果。": {
+    "ko": "목표 크기를 위해 품질과 크기를 더 낮출 수 있습니다. 미리보기는 스타일만 표시하며 최종 화질은 내보낸 파일을 확인하세요.",
+    "fr": "Qualité et dimensions peuvent être réduites pour atteindre la cible. L’aperçu montre le style ; vérifiez la netteté dans l’export.",
+    "de": "Qualität und Maße können weiter reduziert werden. Vorschau zeigt nur den Stil; endgültige Schärfe im Export prüfen.",
+    "es": "Calidad y dimensiones pueden reducirse para alcanzar el tamaño. La vista previa muestra el estilo; comprueba la calidad exportada.",
+    "pt-BR": "Qualidade e dimensões podem ser reduzidas. A prévia mostra o estilo; confira a qualidade no arquivo exportado."
+  },
+  "所有转换均在本机完成。无需登录，默认不上传文件，不使用广告或跟踪 SDK。选择同步文件夹并启用保存后，结果由你选择的 iCloud Drive 或其他文件提供商同步。照片选择通过系统选择器完成；仅在保存时请求添加照片的权限。": {
+    "ko": "변환은 기기 내에서 수행합니다. 로그인, 기본 업로드, 광고·추적 SDK가 없습니다. 폴더 저장을 켜면 선택한 제공자가 동기화합니다. 사진은 시스템 선택기로 가져오고 저장 시 추가 권한을 요청합니다.",
+    "fr": "Conversion locale, sans connexion de compte, envoi par défaut ni SDK publicitaire ou de suivi. La sauvegarde dans un dossier utilise votre fournisseur. Photos via le sélecteur système ; permission d’ajout à l’enregistrement.",
+    "de": "Konvertierung lokal. Kein Login, Standardupload, Werbe- oder Tracking-SDK. Ordnersync erfolgt durch den gewählten Anbieter. Fotos über Systemauswahl; Hinzufügen-Erlaubnis erst beim Sichern.",
+    "es": "Conversión local. Sin cuenta, subidas predeterminadas ni SDK de anuncios o seguimiento. El proveedor elegido sincroniza la carpeta. Fotos usa el selector; el permiso para añadir se pide al guardar.",
+    "pt-BR": "Conversão local. Sem login, envio padrão ou SDK de anúncios e rastreamento. O provedor escolhido sincroniza a pasta. Fotos usa o seletor; permissão para adicionar só ao salvar."
+  },
+  "所有输出均重新编码并移除原始元数据；图片不会放大。JPG 的透明区域转为白色，输出采用标准动态范围。动图仅处理首帧。GIF 输出也是静态图片；格式列表根据本机编码器能力显示。": {
+    "ko": "모든 출력은 원본 메타데이터 없이 재인코딩하며 확대하지 않습니다. JPG 투명 영역은 흰색, 출력은 SDR입니다. 애니메이션과 GIF 출력은 첫 프레임만 처리합니다. 형식은 기기 인코더에 따릅니다.",
+    "fr": "Sorties réencodées sans métadonnées, sans agrandissement. Transparence JPG blanche, sortie SDR. Animations et GIF : première image uniquement. Formats selon les encodeurs disponibles.",
+    "de": "Ausgaben neu kodiert, ohne Quellmetadaten und ohne Hochskalierung. JPG-Transparenz weiß, Ausgabe SDR. Animationen und GIF-Ausgabe nur erstes Bild. Formate je nach Encoder.",
+    "es": "Salidas recodificadas sin metadatos ni ampliación. Transparencia JPG blanca, salida SDR. Animaciones y GIF: solo primer fotograma. Formatos según codificadores disponibles.",
+    "pt-BR": "Saídas recodificadas sem metadados ou ampliação. Transparência JPG branca, saída SDR. Animações e GIF: apenas primeiro quadro. Formatos conforme codificadores disponíveis."
+  },
+  "模板效果显示在上方预览。参数来自每张原图，缺失项自动略过。显示到水印中的机型或日期会成为图片内容；不会添加定位。边框会增加输出高度。": {
+    "ko": "위에서 스타일을 확인하세요. 정보는 각 원본에서 읽고 없는 값은 생략합니다. 모델명과 날짜는 이미지 내용이 됩니다. 위치는 추가하지 않습니다. 테두리는 높이를 늘립니다.",
+    "fr": "Style visible ci-dessus. Données de chaque original ; champs absents omis. Modèle et date deviennent du contenu visible. Aucune localisation ajoutée. Le cadre augmente la hauteur.",
+    "de": "Stil oben sichtbar. Daten aus jedem Original; fehlende Felder entfallen. Modell und Datum werden Bildinhalt. Kein Standort hinzugefügt. Rahmen erhöhen die Höhe.",
+    "es": "El estilo se ve arriba. Datos de cada original; campos ausentes omitidos. Modelo y fecha pasan a ser imagen. No se añade ubicación. El marco aumenta la altura.",
+    "pt-BR": "Estilo acima. Dados de cada original; campos ausentes são omitidos. Modelo e data viram conteúdo visível. Não adiciona localização. Molduras aumentam a altura."
+  },
+  "空间读数来自应用所在文件系统，不代表包装标称容量。此页面不读取电池健康度或循环次数。": {
+    "ko": "용량은 앱 파일 시스템 기준이며 공칭 용량이 아닙니다. 배터리 성능이나 사이클 수는 읽지 않습니다.",
+    "fr": "Stockage du système de fichiers, pas la capacité annoncée. État de batterie et cycles non lus.",
+    "de": "Speicher des App-Dateisystems, nicht die beworbene Kapazität. Akkuzustand und Zyklen werden nicht gelesen.",
+    "es": "Espacio del sistema de archivos, no capacidad anunciada. No se lee salud ni ciclos de batería.",
+    "pt-BR": "Espaço do sistema de arquivos, não capacidade anunciada. Não lê saúde nem ciclos da bateria."
+  },
+  "请在系统选择器中进入 iCloud Drive。也可选择其他文件提供商；如果选择本机文件夹，则只是本地备份。此功能同步结果文件，不同步设置和收藏。工具箱不判断云端上传是否完成。": {
+    "ko": "iCloud Drive나 파일 제공자의 폴더를 선택하세요. 로컬 폴더는 로컬 백업만 합니다. 결과 파일만 동기화하며 설정·즐겨찾기는 제외합니다. 클라우드 업로드 완료는 확인하지 않습니다.",
+    "fr": "Choisissez iCloud Drive ou un autre fournisseur. Un dossier local reste une sauvegarde locale. Seuls les résultats sont synchronisés, pas les réglages ni favoris. Fin d’envoi cloud non confirmée.",
+    "de": "iCloud Drive oder anderen Anbieter wählen. Lokaler Ordner ist nur lokale Sicherung. Nur Ergebnisdateien synchronisiert, keine Einstellungen oder Favoriten. Cloud-Abschluss wird nicht bestätigt.",
+    "es": "Elige iCloud Drive u otro proveedor. Una carpeta local solo hace copia local. Se sincronizan resultados, no ajustes ni favoritos. No se confirma el fin de subida.",
+    "pt-BR": "Escolha iCloud Drive ou outro provedor. Pasta local é apenas cópia local. Sincroniza resultados, não ajustes nem favoritos. Não confirma conclusão do envio."
+  },
+  "选择 iCloud Drive 中的专用文件夹，其他设备选择同一个文件夹，即可读取其中的结果。文件只在你选择保存或开启自动保存后写入。": {
+    "ko": "iCloud Drive 전용 폴더를 선택하고 다른 기기도 같은 폴더를 선택하세요. 저장을 선택하거나 자동 저장을 켠 경우에만 파일을 씁니다.",
+    "fr": "Choisissez un dossier iCloud Drive dédié, puis le même sur les autres appareils. Écriture seulement lors d’une sauvegarde ou si la sauvegarde automatique est activée.",
+    "de": "Eigenen iCloud-Drive-Ordner auf allen Geräten wählen. Schreiben nur beim Sichern oder aktivierter automatischer Sicherung.",
+    "es": "Elige una carpeta dedicada de iCloud Drive y la misma en otros dispositivos. Solo se escribe al guardar o activar guardado automático.",
+    "pt-BR": "Escolha uma pasta dedicada do iCloud Drive e a mesma nos outros dispositivos. Só grava ao salvar ou ativar salvamento automático."
+  },
+  "暂时无法连接 App Store，请稍后重试。": {
+    "ko": "App Store에 연결할 수 없습니다. 나중에 다시 시도하세요.",
+    "fr": "Connexion à l’App Store impossible. Réessayez plus tard.",
+    "de": "App Store nicht erreichbar. Später erneut versuchen.",
+    "es": "No se conecta al App Store. Inténtalo más tarde.",
+    "pt-BR": "Não foi possível conectar à App Store. Tente mais tarde."
+  },
+  "无法验证购买，请稍后恢复购买。": {
+    "ko": "구매를 확인할 수 없습니다. 나중에 구매를 복원하세요.",
+    "fr": "Achat non vérifié. Essayez de restaurer plus tard.",
+    "de": "Kauf nicht verifiziert. Später wiederherstellen.",
+    "es": "No se verificó la compra. Restaúrala más tarde.",
+    "pt-BR": "Compra não verificada. Tente restaurar mais tarde."
+  },
+  "购买等待批准，完成后将自动更新。": {
+    "ko": "구매 승인 대기 중입니다. 완료 시 자동 업데이트됩니다.",
+    "fr": "Achat en attente d’approbation. Mise à jour automatique ensuite.",
+    "de": "Kauf wartet auf Genehmigung. Status wird automatisch aktualisiert.",
+    "es": "Compra pendiente de aprobación. Se actualizará automáticamente.",
+    "pt-BR": "Compra aguardando aprovação. Atualização automática depois."
+  },
+  "当前 Apple 账户没有可恢复的购买。": {
+    "ko": "이 Apple 계정에 복원 가능한 구매가 없습니다.",
+    "fr": "Aucun achat à restaurer pour ce compte Apple.",
+    "de": "Kein wiederherstellbarer Kauf für diesen Apple Account.",
+    "es": "No hay compras restaurables en esta cuenta de Apple.",
+    "pt-BR": "Nenhuma compra para restaurar nesta Conta Apple."
+  },
+  "所有工具永久免费，不限使用次数。支持完全自愿，不影响任何功能。": {
+    "ko": "모든 도구는 무료이며 무제한입니다. 후원은 선택이며 기능에 영향이 없습니다.",
+    "fr": "Tous les outils sont gratuits et illimités. Le soutien est facultatif et ne limite aucune fonction.",
+    "de": "Alle Werkzeuge sind kostenlos und unbegrenzt. Unterstützung ist freiwillig, ohne Funktionseinschränkung.",
+    "es": "Todas las herramientas son gratis e ilimitadas. Apoyar es opcional y no afecta funciones.",
+    "pt-BR": "Todas as ferramentas são grátis e ilimitadas. Apoiar é opcional e não afeta funções."
+  },
+  "感谢你的支持": {
+    "ko": "후원해 주셔서 감사합니다",
+    "fr": "Merci pour votre soutien",
+    "de": "Danke für deine Unterstützung",
+    "es": "Gracias por tu apoyo",
+    "pt-BR": "Obrigado pelo apoio"
+  },
+  "支持商品暂不可用，请稍后重试。所有工具仍可正常使用。": {
+    "ko": "후원 상품을 현재 사용할 수 없습니다. 나중에 다시 시도하세요. 모든 도구는 사용할 수 있습니다.",
+    "fr": "Achat indisponible. Réessayez plus tard. Tous les outils restent accessibles.",
+    "de": "Kauf derzeit nicht verfügbar. Später versuchen. Alle Werkzeuge bleiben nutzbar.",
+    "es": "Compra no disponible ahora. Inténtalo luego. Todas las herramientas funcionan.",
+    "pt-BR": "Compra indisponível no momento. Tente depois. Todas as ferramentas funcionam."
+  },
+  "重新加载": {
+    "ko": "다시 불러오기",
+    "fr": "Recharger",
+    "de": "Neu laden",
+    "es": "Recargar",
+    "pt-BR": "Recarregar"
+  },
+  "恢复购买": {
+    "ko": "구매 복원",
+    "fr": "Restaurer les achats",
+    "de": "Käufe wiederherstellen",
+    "es": "Restaurar compras",
+    "pt-BR": "Restaurar compras"
+  },
+  "支持作者": {
+    "ko": "개발자 후원",
+    "fr": "Soutenir le créateur",
+    "de": "Entwickler unterstützen",
+    "es": "Apoyar al creador",
+    "pt-BR": "Apoiar o criador"
+  },
+  "喜欢顺匣？支持一下作者": {
+    "ko": "ShunBox가 좋다면 개발자를 응원하세요",
+    "fr": "ShunBox vous plaît ? Soutenez sa création",
+    "de": "ShunBox gefällt dir? Unterstütze die Entwicklung",
+    "es": "¿Te gusta ShunBox? Apoya a su creador",
+    "pt-BR": "Gostou do ShunBox? Apoie o criador"
+  },
+  "工具永久免费 · 自愿支持": {
+    "ko": "도구는 영구 무료 · 후원은 선택",
+    "fr": "Outils gratuits · Soutien facultatif",
+    "de": "Dauerhaft gratis · Unterstützung freiwillig",
+    "es": "Herramientas gratis · Apoyo opcional",
+    "pt-BR": "Ferramentas grátis · Apoio opcional"
+  },
+  "快速操作": {
+    "ko": "빠른 작업",
+    "fr": "Actions rapides",
+    "de": "Schnellaktionen",
+    "es": "Acciones rápidas",
+    "pt-BR": "Ações rápidas"
+  },
+  "在快捷指令 App 中搜索顺匣，可添加打开工具、转换图片、生成二维码三个操作。转换与生成会返回文件，可继续连接保存文件或分享操作。": {
+    "ko": "단축어에서 ShunBox를 찾아 도구 열기, 이미지 변환, QR 생성 작업을 추가하세요. 변환 및 생성 결과 파일에 저장이나 공유 작업을 연결할 수 있습니다.",
+    "fr": "Dans Raccourcis, cherchez ShunBox : ouvrir un outil, convertir une image, créer un QR. Les fichiers renvoyés peuvent être sauvegardés ou partagés par l’action suivante.",
+    "de": "In Kurzbefehle nach ShunBox suchen: Werkzeug öffnen, Bild konvertieren, QR erstellen. Ergebnisdateien lassen sich in Folgeaktionen sichern oder teilen.",
+    "es": "Busca ShunBox en Atajos: abrir herramientas, convertir imágenes o generar QR. Los archivos resultantes se pueden guardar o compartir en la siguiente acción.",
+    "pt-BR": "Busque ShunBox em Atalhos: abrir ferramentas, converter imagens ou gerar QR. Os arquivos retornados podem ser salvos ou compartilhados na próxima ação."
+  },
+  "可通过 Siri 运行已添加的快捷指令。系统智能功能的可用性取决于设备、系统语言与地区；本应用不会自行上传你的文件给 AI 服务。": {
+    "ko": "Siri로 단축어를 실행할 수 있습니다. 시스템 지능은 기기·언어·지역에 따라 다릅니다. 이 앱은 파일을 AI 서비스에 업로드하지 않습니다.",
+    "fr": "Siri peut exécuter vos raccourcis. Les fonctions intelligentes dépendent de l’appareil, langue et région. L’app n’envoie pas vos fichiers à des services IA.",
+    "de": "Siri kann Kurzbefehle ausführen. Intelligenzfunktionen hängen von Gerät, Sprache und Region ab. Diese App lädt keine Dateien zu KI-Diensten hoch.",
+    "es": "Siri ejecuta tus atajos. Las funciones inteligentes dependen del dispositivo, idioma y región. Esta app no sube archivos a servicios de IA.",
+    "pt-BR": "Siri executa seus atalhos. Recursos inteligentes dependem de aparelho, idioma e região. Este app não envia arquivos a serviços de IA."
+  },
+  "此版本提供 App Intents 操作，不保证任意自然语言都能直接执行，也不提供屏幕内容读取或自动安装铃声。": {
+    "ko": "App Intents 작업을 제공합니다. 임의 자연어 실행은 보장하지 않으며 화면 읽기나 자동 벨소리 설치는 제공하지 않습니다.",
+    "fr": "Actions App Intents disponibles. L’exécution de toute formulation naturelle n’est pas garantie. Ni lecture d’écran ni installation automatique de sonneries.",
+    "de": "App-Intents-Aktionen verfügbar. Beliebige natürliche Sprache wird nicht garantiert. Kein Bildschirmlesen oder automatische Klingeltoninstallation.",
+    "es": "Ofrece acciones App Intents. No garantiza cualquier orden en lenguaje natural. No lee la pantalla ni instala tonos automáticamente.",
+    "pt-BR": "Oferece ações App Intents. Não garante qualquer comando em linguagem natural. Não lê a tela nem instala toques automaticamente."
+  },
+  "快捷指令与 Siri": {
+    "ko": "단축어 및 Siri",
+    "fr": "Raccourcis et Siri",
+    "de": "Kurzbefehle & Siri",
+    "es": "Atajos y Siri",
+    "pt-BR": "Atalhos e Siri"
+  },
+  "将处理后的图片保存到你的相册。": {
+    "ko": "처리된 이미지를 사진 보관함에 저장합니다.",
+    "fr": "Enregistrer les images traitées dans votre photothèque.",
+    "de": "Bearbeitete Bilder in deiner Fotomediathek sichern.",
+    "es": "Guardar imágenes procesadas en tu fototeca.",
+    "pt-BR": "Salvar imagens processadas na sua fototeca."
+  },
+  "仅在你开始麦克风自检时录音，用于本机回放。": {
+    "ko": "마이크 테스트를 시작할 때만 녹음하며 기기에서 재생합니다.",
+    "fr": "Enregistrer uniquement au lancement du test micro, pour une lecture locale.",
+    "de": "Nur beim Start des Mikrofontests für lokale Wiedergabe aufnehmen.",
+    "es": "Grabar solo al iniciar la prueba de micrófono, para reproducción local.",
+    "pt-BR": "Gravar apenas ao iniciar o teste de microfone, para reprodução local."
+  },
+  "欢迎使用顺匣": {
+    "ko": "ShunBox에 오신 것을 환영합니다",
+    "fr": "Bienvenue dans ShunBox",
+    "de": "Willkommen bei ShunBox",
+    "es": "Te damos la bienvenida a ShunBox",
+    "pt-BR": "Boas-vindas ao ShunBox"
+  },
+  "图片转换、压缩与相机水印": {
+    "ko": "이미지 변환, 압축 및 카메라 워터마크",
+    "fr": "Conversion, compression et filigranes photo",
+    "de": "Bildkonvertierung, Kompression und Wasserzeichen",
+    "es": "Conversión, compresión y marcas de agua",
+    "pt-BR": "Conversão, compressão e marcas-d’água"
+  },
+  "铃声剪辑、视频提取声音": {
+    "ko": "벨소리 편집 및 영상 소리 추출",
+    "fr": "Sonneries et extraction audio vidéo",
+    "de": "Klingeltonschnitt und Videotonextraktion",
+    "es": "Edición de tonos y extracción de audio",
+    "pt-BR": "Edição de toques e extração de áudio"
+  },
+  "PDF 整理、二维码与设备自检": {
+    "ko": "PDF, QR 코드 및 기기 점검",
+    "fr": "PDF, codes QR et vérification appareil",
+    "de": "PDFs, QR-Codes und Gerätechecks",
+    "es": "PDF, códigos QR y pruebas del dispositivo",
+    "pt-BR": "PDFs, códigos QR e testes do dispositivo"
+  },
+  "免费使用，也需要你的支持": {
+    "ko": "무료 도구, 여러분의 후원으로",
+    "fr": "Gratuit, grâce à votre soutien",
+    "de": "Kostenlos, mit deiner Unterstützung",
+    "es": "Gratis, con tu apoyo",
+    "pt-BR": "Grátis, com seu apoio"
+  },
+  "所有功能免费，不限次数。首次使用享 7 天无广告体验；之后转换完成时可能显示广告，用于支持开发与维护。": {
+    "ko": "모든 기능은 무료·무제한입니다. 처음 7일은 광고가 없습니다. 이후 개발과 유지보수를 위해 변환 완료 후 광고가 표시될 수 있습니다.",
+    "fr": "Toutes les fonctions sont gratuites et illimitées. Les 7 premiers jours sont sans publicité. Ensuite, des annonces peuvent apparaître après conversion pour financer le développement et la maintenance.",
+    "de": "Alle Funktionen kostenlos und unbegrenzt. Die ersten 7 Tage werbefrei. Danach können Anzeigen nach Konvertierungen Entwicklung und Wartung finanzieren.",
+    "es": "Todas las funciones son gratis e ilimitadas. Los primeros 7 días no tienen anuncios. Después pueden aparecer al terminar conversiones para apoyar desarrollo y mantenimiento.",
+    "pt-BR": "Todas as funções são grátis e ilimitadas. Os primeiros 7 dias são sem anúncios. Depois podem aparecer ao concluir conversões para apoiar desenvolvimento e manutenção."
+  },
+  "一次购买可永久去广告，不订阅、不自动续费。不购买也能继续完整使用所有工具。": {
+    "ko": "한 번 구매하면 광고가 영구 제거됩니다. 구독·자동 갱신이 아닙니다. 구매하지 않아도 모든 도구를 사용할 수 있습니다.",
+    "fr": "Un achat supprime la publicité définitivement. Aucun abonnement ni renouvellement. Tous les outils restent accessibles sans achat.",
+    "de": "Ein Kauf entfernt Werbung dauerhaft. Kein Abo, keine Verlängerung. Alle Werkzeuge bleiben ohne Kauf vollständig nutzbar.",
+    "es": "Una compra quita los anuncios para siempre. Sin suscripción ni renovación. Todas las herramientas siguen disponibles sin comprar.",
+    "pt-BR": "Uma compra remove anúncios para sempre. Sem assinatura ou renovação. Todas as ferramentas continuam disponíveis sem comprar."
+  },
+  "当前版本暂未启用广告。启用后的广告规则如上，广告加载失败不会影响结果。": {
+    "ko": "현재 버전에는 광고가 활성화되지 않았습니다. 활성화 시 위 정책이 적용됩니다. 광고 로드 실패는 결과에 영향을 주지 않습니다.",
+    "fr": "La publicité n’est pas active dans cette version. Ces règles s’appliqueront à son activation. Un échec de chargement n’affecte jamais les résultats.",
+    "de": "In dieser Version ist Werbung nicht aktiviert. Bei Aktivierung gelten obige Regeln. Ladefehler beeinträchtigen Ergebnisse nie.",
+    "es": "Esta versión aún no activa anuncios. Se aplicará esta política al activarlos. Un fallo de carga nunca afecta resultados.",
+    "pt-BR": "Esta versão ainda não exibe anúncios. A política valerá quando ativados. Falha no carregamento nunca afeta resultados."
+  },
+  "权限由你决定": {
+    "ko": "권한은 직접 선택하세요",
+    "fr": "Vous choisissez les autorisations",
+    "de": "Du bestimmst die Berechtigungen",
+    "es": "Tú decides los permisos",
+    "pt-BR": "Você escolhe as permissões"
+  },
+  "照片：通过系统选择器导入，只在保存图片时申请添加照片。麦克风：仅在你开始录音自检时申请。iCloud：仅访问你主动选择的文件夹。": {
+    "ko": "사진은 시스템 선택기로 가져오며 저장 시에만 추가 권한을 요청합니다. 마이크는 녹음 테스트 시작 시에만, iCloud는 선택한 폴더만 접근합니다.",
+    "fr": "Photos via le sélecteur système ; ajout autorisé seulement à la sauvegarde. Micro uniquement au test d’enregistrement. iCloud uniquement pour les dossiers choisis.",
+    "de": "Fotos über Systemauswahl; Hinzufügen-Erlaubnis erst beim Sichern. Mikrofon erst beim Aufnahmetest. iCloud nur für gewählte Ordner.",
+    "es": "Fotos usa el selector; permiso para añadir solo al guardar. Micrófono solo al iniciar la prueba. iCloud solo en carpetas elegidas.",
+    "pt-BR": "Fotos usa o seletor; permissão para adicionar só ao salvar. Microfone só ao iniciar o teste. iCloud apenas nas pastas escolhidas."
+  },
+  "现在不会集中索取权限。拒绝某项权限，只影响对应功能。广告跟踪需要另行征得同意，拒绝不影响工具使用。": {
+    "ko": "지금 권한을 한꺼번에 요청하지 않습니다. 거부하면 해당 기능만 제한됩니다. 광고 추적은 별도 동의가 필요하며 거부해도 도구를 쓸 수 있습니다.",
+    "fr": "Aucune demande groupée maintenant. Un refus ne concerne que la fonction liée. Le suivi publicitaire exige un consentement distinct ; le refus ne bloque pas les outils.",
+    "de": "Keine pauschalen Berechtigungsanfragen. Ablehnung betrifft nur die jeweilige Funktion. Werbetracking braucht separate Zustimmung; Ablehnung sperrt keine Werkzeuge.",
+    "es": "No se piden todos los permisos ahora. Rechazarlos solo afecta a su función. El seguimiento requiere consentimiento aparte; negarlo no bloquea herramientas.",
+    "pt-BR": "Não pedimos todas as permissões agora. Recusar afeta só a função correspondente. Rastreamento exige consentimento separado; recusar não bloqueia ferramentas."
+  },
+  "继续免费使用": {
+    "ko": "무료로 계속",
+    "fr": "Continuer gratuitement",
+    "de": "Kostenlos fortfahren",
+    "es": "Continuar gratis",
+    "pt-BR": "Continuar grátis"
+  },
+  "永久去广告 · {0}": {
+    "ko": "광고 영구 제거 · {0}",
+    "fr": "Sans pub à vie · {0}",
+    "de": "Dauerhaft werbefrei · {0}",
+    "es": "Sin anuncios para siempre · {0}",
+    "pt-BR": "Sem anúncios para sempre · {0}"
+  },
+  "了解永久去广告": {
+    "ko": "광고 영구 제거 안내",
+    "fr": "À propos de la suppression des pubs",
+    "de": "Über dauerhafte Werbefreiheit",
+    "es": "Sobre quitar anuncios para siempre",
+    "pt-BR": "Sobre remover anúncios para sempre"
+  },
+  "谢谢支持！已永久去广告。": {
+    "ko": "감사합니다! 광고가 영구 제거되었습니다.",
+    "fr": "Merci ! Publicité supprimée définitivement.",
+    "de": "Danke! Werbung dauerhaft entfernt.",
+    "es": "¡Gracias! Anuncios eliminados para siempre.",
+    "pt-BR": "Obrigado! Anúncios removidos para sempre."
+  },
+  "已恢复永久去广告。": {
+    "ko": "광고 영구 제거가 복원되었습니다.",
+    "fr": "Suppression définitive restaurée.",
+    "de": "Dauerhafte Werbefreiheit wiederhergestellt.",
+    "es": "Eliminación permanente restaurada.",
+    "pt-BR": "Remoção permanente restaurada."
+  },
+  "永久去广告，支持独立创作": {
+    "ko": "광고 제거로 독립 개발 후원",
+    "fr": "Sans publicité, pour soutenir la création",
+    "de": "Werbung entfernen, Entwicklung unterstützen",
+    "es": "Quita anuncios y apoya la creación",
+    "pt-BR": "Remova anúncios e apoie a criação"
+  },
+  "一次购买，永久去广告，不订阅、不自动续费。当前版本广告尚未启用。可使用同一 Apple 账户恢复购买。": {
+    "ko": "한 번 구매로 광고 영구 제거. 구독·갱신이 아닙니다. 현재는 광고 미활성 상태입니다. 같은 Apple 계정으로 복원할 수 있습니다.",
+    "fr": "Un achat, sans publicité à vie. Aucun abonnement. Publicité non active actuellement. Restauration avec le même compte Apple.",
+    "de": "Ein Kauf, dauerhaft werbefrei. Kein Abo. Werbung derzeit nicht aktiv. Mit gleichem Apple Account wiederherstellbar.",
+    "es": "Una compra, sin anuncios para siempre. Sin suscripción. Aún no hay anuncios activos. Restaura con la misma cuenta de Apple.",
+    "pt-BR": "Uma compra, sem anúncios para sempre. Sem assinatura. Anúncios ainda não ativos. Restaure com a mesma Conta Apple."
+  },
+  "媒体库": {
+    "ko": "라이브러리",
+    "fr": "Médiathèque",
+    "de": "Mediathek",
+    "es": "Biblioteca",
+    "pt-BR": "Biblioteca"
+  },
+  "全部": {
+    "ko": "전체",
+    "fr": "Tout",
+    "de": "Alle",
+    "es": "Todo",
+    "pt-BR": "Tudo"
+  },
+  "删除": {
+    "ko": "삭제",
+    "fr": "Supprimer",
+    "de": "Löschen",
+    "es": "Eliminar",
+    "pt-BR": "Excluir"
+  },
+  "搜索文件": {
+    "ko": "파일 검색",
+    "fr": "Rechercher un fichier",
+    "de": "Dateien suchen",
+    "es": "Buscar archivos",
+    "pt-BR": "Buscar arquivos"
+  },
+  "玻璃胶囊": {
+    "ko": "글라스 캡슐",
+    "fr": "Capsule en verre",
+    "de": "Glaskapsel",
+    "es": "Cápsula de cristal",
+    "pt-BR": "Cápsula de vidro"
+  },
+  "实时声音波形": {
+    "ko": "실시간 음성 파형",
+    "fr": "Forme d’onde en direct",
+    "de": "Live-Audiowellenform",
+    "es": "Onda de audio en vivo",
+    "pt-BR": "Forma de onda ao vivo"
+  },
+  "录音完成": {
+    "ko": "녹음 완료",
+    "fr": "Enregistrement terminé",
+    "de": "Aufnahme abgeschlossen",
+    "es": "Grabación completada",
+    "pt-BR": "Gravação concluída"
+  },
+  "正在接收声音": {
+    "ko": "소리 수신 중",
+    "fr": "Réception du son",
+    "de": "Audio wird empfangen",
+    "es": "Recibiendo audio",
+    "pt-BR": "Recebendo áudio"
+  },
+  "声音较轻，请靠近麦克风": {
+    "ko": "소리가 작습니다. 마이크에 가까이 다가가세요.",
+    "fr": "Son faible. Rapprochez-vous du micro.",
+    "de": "Leises Signal. Gehe näher ans Mikrofon.",
+    "es": "Señal baja. Acércate al micrófono.",
+    "pt-BR": "Sinal baixo. Aproxime-se do microfone."
+  },
+  "音量过高，可能失真": {
+    "ko": "소리가 너무 커서 왜곡될 수 있습니다",
+    "fr": "Son trop fort, distorsion possible",
+    "de": "Signal zu laut, Verzerrung möglich",
+    "es": "Señal muy alta; posible distorsión",
+    "pt-BR": "Sinal muito alto; possível distorção"
+  },
+  "无法读取文件": {
+    "ko": "파일을 읽을 수 없습니다",
+    "fr": "Lecture du fichier impossible",
+    "de": "Datei kann nicht gelesen werden",
+    "es": "No se puede leer el archivo",
+    "pt-BR": "Não foi possível ler o arquivo"
+  },
+  "文件已不存在，请重新处理。": {
+    "ko": "파일이 없습니다. 다시 처리해 주세요.",
+    "fr": "Le fichier n’est plus disponible. Relancez le traitement.",
+    "de": "Die Datei ist nicht mehr verfügbar. Bitte erneut verarbeiten.",
+    "es": "El archivo ya no está disponible. Procésalo de nuevo.",
+    "pt-BR": "O arquivo não está mais disponível. Processe novamente."
+  },
+  "无需账户 · 本地处理": {
+    "ko": "계정 불필요 · 기기 내 처리",
+    "fr": "Sans compte · Traitement local",
+    "de": "Ohne Konto · Lokale Verarbeitung",
+    "es": "Sin cuenta · Procesamiento local",
+    "pt-BR": "Sem conta · Processamento local"
+  },
+  "完成一次处理，作品就会出现在这里。": {
+    "ko": "처리한 파일이 여기에 표시됩니다.",
+    "fr": "Vos fichiers traités apparaîtront ici.",
+    "de": "Deine verarbeiteten Dateien erscheinen hier.",
+    "es": "Tus archivos procesados aparecerán aquí.",
+    "pt-BR": "Seus arquivos processados aparecerão aqui."
+  },
+  "处理结果可在媒体库中再次查看、分享。": {
+    "ko": "라이브러리에서 처리 결과를 다시 보고 공유하세요.",
+    "fr": "Consultez et partagez les résultats dans la médiathèque.",
+    "de": "Ergebnisse in der Mediathek erneut ansehen und teilen.",
+    "es": "Consulta y comparte los resultados en la biblioteca.",
+    "pt-BR": "Veja e compartilhe os resultados na biblioteca."
+  },
+  "处理结果自动保存在本机，清理缓存不会删除媒体库。": {
+    "ko": "결과는 기기에 자동 저장됩니다. 캐시를 지워도 라이브러리는 유지됩니다.",
+    "fr": "Les résultats sont enregistrés sur cet appareil. Vider le cache conserve la médiathèque.",
+    "de": "Ergebnisse werden lokal gespeichert. Cache-Leeren löscht die Mediathek nicht.",
+    "es": "Los resultados se guardan en el dispositivo. Vaciar la caché no borra la biblioteca.",
+    "pt-BR": "Os resultados são salvos no dispositivo. Limpar o cache não apaga a biblioteca."
+  },
+  "从媒体库删除？已导出到其他位置的文件不受影响。": {
+    "ko": "라이브러리에서 삭제할까요? 다른 위치로 내보낸 파일에는 영향이 없습니다.",
+    "fr": "Supprimer de la médiathèque ? Les fichiers exportés ailleurs sont conservés.",
+    "de": "Aus der Mediathek löschen? Anderswo exportierte Dateien bleiben erhalten.",
+    "es": "¿Eliminar de la biblioteca? Los archivos exportados a otros lugares no se verán afectados.",
+    "pt-BR": "Excluir da biblioteca? Arquivos exportados para outros locais não serão afetados."
+  },
+  "未填写署名时显示 SHUNBOX，可在上方自定义。": {
+    "ko": "서명이 비어 있으면 SHUNBOX가 표시됩니다. 위에서 변경하세요.",
+    "fr": "Sans légende, SHUNBOX s’affiche. Personnalisez-la ci-dessus.",
+    "de": "Ohne Beschriftung erscheint SHUNBOX. Oben anpassen.",
+    "es": "Sin texto se muestra SHUNBOX. Personalízalo arriba.",
+    "pt-BR": "Sem legenda, aparece SHUNBOX. Personalize acima."
+  },
+  "波形与电平反映录音强弱，不识别身份，也不代表硬件鉴定结果。": {
+    "ko": "파형과 레벨은 녹음 강도만 표시하며 신원 식별이나 하드웨어 인증이 아닙니다.",
+    "fr": "La forme d’onde et le niveau indiquent l’intensité du signal, sans identification ni certification matérielle.",
+    "de": "Wellenform und Pegel zeigen die Signalstärke, keine Identität oder Hardware-Zertifizierung.",
+    "es": "La onda y los niveles muestran la intensidad, no identifican personas ni certifican el hardware.",
+    "pt-BR": "A forma de onda e os níveis mostram a intensidade, sem identificar pessoas ou certificar o hardware."
+  },
+  "处理结果自动保存在本机媒体库，直到你主动删除或卸载应用。导入副本仍为临时缓存。媒体库不随清理缓存删除；同步仅写入你选择的文件夹。": {
+    "ko": "결과는 직접 삭제하거나 앱을 제거할 때까지 기기 라이브러리에 보관됩니다. 가져온 사본은 임시 저장됩니다. 캐시 삭제는 라이브러리에 영향을 주지 않으며 동기화는 선택한 폴더에만 저장합니다.",
+    "fr": "Les résultats restent dans la médiathèque locale jusqu’à leur suppression ou la désinstallation. Les copies importées sont temporaires. Vider le cache conserve la médiathèque. La synchronisation écrit uniquement dans le dossier choisi.",
+    "de": "Ergebnisse bleiben lokal bis zum Löschen oder Deinstallieren. Importierte Kopien sind temporär. Cache-Leeren erhält die Mediathek. Synchronisiert wird nur in den gewählten Ordner.",
+    "es": "Los resultados permanecen en la biblioteca local hasta que los elimines o desinstales la app. Las copias importadas son temporales. Vaciar la caché conserva la biblioteca. La sincronización solo usa la carpeta elegida.",
+    "pt-BR": "Os resultados ficam na biblioteca local até serem excluídos ou o app ser desinstalado. Cópias importadas são temporárias. Limpar o cache mantém a biblioteca. A sincronização grava apenas na pasta escolhida."
+  },
+  "顺匣 · 你的随身工具箱": {
+    "ko": "ShunBox · 나만의 휴대용 도구함",
+    "fr": "ShunBox · Votre boîte à outils",
+    "de": "ShunBox · Dein Werkzeugkasten",
+    "es": "ShunBox · Tu caja de herramientas",
+    "pt-BR": "ShunBox · Sua caixa de ferramentas"
+  },
+  "图片、音频与文件，随手处理。": {
+    "ko": "이미지, 오디오, 파일을 간편하게.",
+    "fr": "Images, audio et fichiers, tout simplement.",
+    "de": "Bilder, Audio und Dateien einfach bearbeiten.",
+    "es": "Imágenes, audio y archivos, sin complicaciones.",
+    "pt-BR": "Imagens, áudio e arquivos, sem complicação."
+  },
+  "开源版本，所有功能免费且无广告。欢迎在 GitHub 反馈问题或参与改进。": {
+    "ko": "이 오픈 소스 버전은 무료이며 광고가 없습니다. GitHub에서 문제를 신고하거나 개선에 참여해 주세요.",
+    "fr": "Cette version open source est gratuite et sans publicité. Signalez des problèmes ou contribuez sur GitHub.",
+    "de": "Diese Open-Source-Version ist kostenlos und werbefrei. Melde Probleme oder hilf auf GitHub mit.",
+    "es": "Esta versión de código abierto es gratuita y sin anuncios. Informa de problemas o contribuye en GitHub.",
+    "pt-BR": "Esta versão de código aberto é gratuita e sem anúncios. Relate problemas ou contribua no GitHub."
+  },
+  "访问 GitHub": {
+    "ko": "GitHub 방문",
+    "fr": "Ouvrir GitHub",
+    "de": "GitHub öffnen",
+    "es": "Visitar GitHub",
+    "pt-BR": "Visitar GitHub"
+  }
+}

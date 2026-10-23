@@ -1,0 +1,21 @@
+{
+  "identifier" : "6E947BCE",
+  "nonRenewingSubscriptions" : [],
+  "products" : [
+    {
+      "displayPrice" : "5.00",
+      "familyShareable" : false,
+      "internalID" : "shunbox-removeads",
+      "localizations" : [
+        { "description" : "一次购买，永久去广告。所有工具仍可免费使用。", "displayName" : "永久去广告", "locale" : "zh_CN" },
+        { "description" : "Remove ads permanently. All tools remain free.", "displayName" : "Remove Ads Forever", "locale" : "en_US" }
+      ],
+      "productID" : "com.shuntools.removeads.lifetime",
+      "referenceName" : "Lifetime Ad Removal",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : { "_failTransactionsEnabled" : false, "_locale" : "zh_CN", "_storefront" : "CHN" },
+  "subscriptionGroups" : [],
+  "version" : { "major" : 3, "minor" : 0 }
+}
