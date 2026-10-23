@@ -19647,35 +19647,6 @@
         }
       }
     },
-    "Pro 尚未开放购买。当前版本全部工具可免费使用。未来将通过 App Store 提供购买及恢复购买。": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "All tools are currently free. Purchases are not available yet."
-          }
-        },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "現在すべてのツールが無料です。購入機能はまだ利用できません。"
-          }
-        },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Pro 尚未开放购买。当前版本全部工具可免费使用。未来将通过 App Store 提供购买及恢复购买。"
-          }
-        },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Pro 尚未開放購買。當前版本全部工具可免費使用。未來將通過 App Store 提供購買及恢復購買。"
-          }
-        }
-      }
-    },
     "图片工坊重新编码像素以移除来源元数据。水印、照片中可见的地址等像素内容不会被自动识别或删除。": {
       "extractionState": "manual",
       "localizations": {

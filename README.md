@@ -58,7 +58,7 @@ python3 Scripts/create_project.py
 python3 Scripts/package_ipa.py
 ```
 
-输出在 `dist/`，包含 IPA 和 SHA-256 校验文件。源码默认定义 `SIDELOAD`：不请求 StoreKit 商品、不展示购买与恢复入口、不开启广告。未来 App Store 路线的 StoreKit/广告策略代码仍保留，但它们不代表已接入真实广告或线上收款；App Store 发行需单独配置和审核。
+输出在 `dist/`，包含 IPA 和 SHA-256 校验文件。源码默认定义 `SIDELOAD`：不请求 StoreKit 商品、不展示购买与恢复入口、不开启广告。
 
 ## 验证与限制
 
@@ -73,7 +73,7 @@ python3 Scripts/package_ipa.py
 
 代码会继续开放，工具保持免费。如果你愿意，可以请顺顺喝杯饮料，支持后续维护。
 
-**[爱发电支持顺顺 ↗](https://afdian.com/a/sqzr74110)** &nbsp; · &nbsp; [支付宝 / 微信收款码](Docs/SUPPORT.md) &nbsp; · &nbsp; [原赞助页面](https://vrchat.shunfishingtime.ink/support)
+**[爱发电支持顺顺 ↗](https://afdian.com/a/sqzr74110)** &nbsp; · &nbsp; [支付宝 / 微信收款码](Docs/SUPPORT.md)
 
 赞助完全自愿，不解锁功能，不是订阅，也不影响免费使用。
 
